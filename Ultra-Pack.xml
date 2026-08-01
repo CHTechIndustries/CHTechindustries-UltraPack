@@ -11,10 +11,14 @@
     <li>ludeon.rimworld.anomaly</li>
     <li>ludeon.rimworld.odyssey</li>
     <li>adaptive.storage.framework</li>
-    <li>unlimitedhugs.hugslib</li>
+    <li>redmattis.betterprerequisites</li>
     <li>smashphil.vehicleframework</li>
+    <li>unlimitedhugs.hugslib</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>ebsg.framework</li>
+    <li>forevermarried.mod</li>
     <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
+    <li>antihydrogen.donotavoidfire</li>
     <li>ferny.alfredancient</li>
     <li>superniquito.allideoligionsarefluid</li>
     <li>sarg.alphabiomes</li>
@@ -23,24 +27,28 @@
     <li>com.bymarcin.architecticons</li>
     <li>mrk.architectmenuoptimizer</li>
     <li>ferny.vengeance</li>
+    <li>redmattis.bettergeneinheritance</li>
     <li>void.charactereditor</li>
     <li>ferny.chesterchoose</li>
+    <li>childrencanlearnfast.mod</li>
     <li>ferny.coloredcategories</li>
     <li>ferny.corpsedescriptionfix</li>
     <li>ferny.danniedouble</li>
     <li>dubwise.dubsbadhygiene</li>
     <li>edb.preparecarefully</li>
+    <li>ebs.abilities</li>
     <li>ferny.featuresgapfix</li>
-    <li>esvn.pauseothersettlementssimulation</li>
-    <li>antihydrogen.donotavoidfire</li>
     <li>kathanon.floatsubmenu</li>
     <li>ferny.floorpipettetool</li>
     <li>andromeda.fragilearmor</li>
     <li>ferny.fucklearninghelper</li>
     <li>jamesthe1.rimworld.gitupdater</li>
     <li>andromeda.helpmebuild</li>
+    <li>elsov.highborn</li>
+    <li>honorableorgans.mod</li>
     <li>garwel.ideologydevelopmentplus</li>
     <li>ferny.loadinbackground</li>
+    <li>el.invmech</li>
     <li>andromeda.milkyway</li>
     <li>astryl.moderncc</li>
     <li>kenx00x.moremaxmemes</li>
@@ -49,8 +57,10 @@
     <li>thathitmann.nanomachinefoundry</li>
     <li>andromeda.nicehealthtab</li>
     <li>mrwireman.noconduit</li>
+    <li>orbital.books</li>
     <li>hailuan.patchship</li>
     <li>andromeda.packablecontainers</li>
+    <li>esvn.pauseothersettlementssimulation</li>
     <li>alleykat.persistentprecepts</li>
     <li>lee.xenotypefloattodialogue</li>
     <li>ferny.progressionhospitality</li>
@@ -58,11 +68,15 @@
     <li>ferny.replacelib</li>
     <li>kongkim.researchdata</li>
     <li>ferny.resourcedeliveryhelper</li>
+    <li>resplice.xotr.core</li>
     <li>ferny.rominaready</li>
+    <li>alite.mechanitorshuttle</li>
+    <li>alite.richexplorershuttle</li>
     <li>pb3n.simplewarrants</li>
     <li>andromeda.stackgap</li>
     <li>ferny.storagestatsindescription</li>
     <li>neronix17.toolbox</li>
+    <li>childrenlearning.technology</li>
     <li>ferny.texttool</li>
     <li>carnysenpai.traitraritycolors</li>
     <li>ferny.traumaandintegrity</li>
@@ -70,6 +84,12 @@
     <li>andromeda.unburned</li>
     <li>vanillaexpanded.basegeneration</li>
     <li>vanillaexpanded.vchemfuele</li>
+    <li>oskarpotocki.vfe.classical</li>
+    <li>oskarpotocki.vfe.empire</li>
+    <li>oskarpotocki.vfe.insectoid2</li>
+    <li>oskarpotocki.vfe.medieval2</li>
+    <li>oskarpotocki.vfe.pirates</li>
+    <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
     <li>oskarpotocki.vfe.tribals</li>
     <li>vanillaexpanded.vfefactory</li>
     <li>vanillaexpanded.vfepropsanddecor</li>
@@ -81,16 +101,31 @@
     <li>vanillaquestsexpanded.deadlife</li>
     <li>vanillaquestsexpanded.dronefactory</li>
     <li>vanillaquestsexpanded.generator</li>
+    <li>vanillaracesexpanded.android</li>
+    <li>vanillaracesexpanded.customicons</li>
+    <li>vanillaracesexpanded.fungoid</li>
+    <li>vanillaracesexpanded.genie</li>
+    <li>vanillaracesexpanded.highmate</li>
+    <li>vanillaracesexpanded.hussar</li>
+    <li>vanillaracesexpanded.lycanthrope</li>
+    <li>vanillaracesexpanded.phytokin</li>
+    <li>vanillaracesexpanded.pigskin</li>
+    <li>vanillaracesexpanded.sanguophage</li>
+    <li>vanillaracesexpanded.saurid</li>
+    <li>vanillaracesexpanded.starjack</li>
+    <li>vanillaracesexpanded.waster</li>
     <li>vanillaexpanded.temperature</li>
     <li>oskarpotocki.vanillavehiclesexpanded</li>
     <li>ferny.victorveto</li>
     <li>ferny.worldbuilder</li>
     <li>zhuma.xenotypesummary</li>
-    <li>sarg.alphaanimals</li>
+    <li>hlx.ultratechalteredcarbon</li>
     <li>als.biotechgravship</li>
     <li>edern.combatpsycasts</li>
     <li>ferny.decorintostyles</li>
+    <li>ebsg.aio</li>
     <li>cedaro.material.submenu</li>
+    <li>morebiotechstylegenes.mod</li>
     <li>lts.mgw</li>
     <li>telardo.multifloors</li>
     <li>andromeda.nicebilltab</li>
@@ -103,35 +138,44 @@
     <li>ferny.progressionwarrants</li>
     <li>ferny.progressionworlds</li>
     <li>ferny.removebadhygienewiki</li>
+    <li>resplice.xotr.charmweavers</li>
     <li>andromeda.usefulmarks</li>
+    <li>oskarpotocki.vfe.deserters</li>
+    <li>cn.vfei2swarmdisaster</li>
     <li>soa.compactworkbenches</li>
     <li>vanillaexpanded.vpe.hemosage</li>
     <li>vanillaexpanded.vpe.puppeteer</li>
+    <li>vanillaracesexpanded.archon</li>
+    <li>vanillaracesexpanded.insector</li>
     <li>oskarpotocki.vanillavehiclesexpandedtier3</li>
     <li>oskarpotocki.vanillavehiclesexpandedupgrades</li>
     <li>oels.vehiclemapframework</li>
     <li>proximo.zealousinnocence</li>
+    <li>sarg.alphaanimals</li>
     <li>andromeda.busywork</li>
     <li>chtech.core</li>
     <li>oels.mapvehicles</li>
-    <li>ferny.integratedalphapsycasts</li>
     <li>ferny.progressionfactories</li>
     <li>ferny.progressionverticality</li>
     <li>kentington.saveourship2</li>
+    <li>sarg.alphagenes</li>
+    <li>chtech.ems</li>
+    <li>ferny.integratedalphapsycasts</li>
+    <li>ferny.progressionstorytellers</li>
     <li>vanillaexpanded.vgeneticse</li>
     <li>ferny.fleshbeasts</li>
-    <li>chtech.ems</li>
+    <li>ebsg.archite</li>
     <li>ferny.propscore</li>
     <li>ferny.progressionagriculture</li>
     <li>ferny.progressionattire</li>
     <li>ferny.progressiondrugs</li>
     <li>ferny.progressionfurniture</li>
-    <li>ferny.progressionstorytellers</li>
     <li>vanillaexpanded.vgeneticsemorelabstuff</li>
     <li>ferny.decorintoprops</li>
     <li>ferny.progressioncore</li>
     <li>ferny.progressiongenetics</li>
     <li>ferny.progressionstorage</li>
+    <li>chtech.rimworldextended.main</li>
     <li>ferny.categoriesdropdowns</li>
     <li>ferny.progressionkitchen</li>
     <li>ferny.progressionproduction</li>
