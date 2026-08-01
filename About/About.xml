@@ -16,7 +16,7 @@
 			<displayName>Core</displayName>
 
 		</li>
-
+_____________________________________
 
 		<!-- <li>
 			<packageId>ludeon.rimworld.anomaly</packageId>
@@ -42,6 +42,7 @@
 			<packageId>ludeon.rimworld.royalty</packageId>
 			<displayName>Royalty</displayName>
 		</li> -->
+		____________________________________
 	</modDependencies>
 	<loadAfter>
 	</loadAfter>
