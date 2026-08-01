@@ -10,7 +10,7 @@
 	</supportedVersions>
 	<description>The ultimate modpack. Maybe
 </description>
-	<modDependencies>
+	<modDependencies> <!-- will put all DLC's in as requirments, however will also comment out if unused -->
 		<li>
 			<packageId>Ludeon.RimWorld.Biotech</packageId>
 			<displayName>Biotech</displayName>
