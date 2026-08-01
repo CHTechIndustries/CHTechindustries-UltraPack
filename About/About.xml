@@ -16,6 +16,10 @@
 			<displayName>Core</displayName>
 		</li>
 		<li>
+			<packageId>ludeon.rimworld.biotech</packageId>
+			<displayName>Biotech</displayName>
+		</li>
+		<li>
 			<packageId>ludeon.rimworld.anomaly</packageId>
 			<displayName>Anomaly</displayName>
 		</li>
