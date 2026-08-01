@@ -4,7 +4,7 @@
 	<author>CTH2004</author>
 	<packageId>CHTech.UltraPack</packageId>
 	<url>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/wiki</url>
-	<modVersion>0.0.0</modVersion>
+	<modVersion>0.0.1</modVersion>
 	<supportedVersions>
 		<li>1.6</li>
 	</supportedVersions>
