@@ -12,8 +12,8 @@
 </description>
 	<modDependencies>
 		<li>
-			<packageId>Ludeon.RimWorld.Biotech</packageId>
-			<displayName>Biotech</displayName>
+			<packageId>ludeon.rimworld</packageId>
+			<displayName>Core</displayName>
 		</li>
 	</modDependencies>
 	<loadAfter>
