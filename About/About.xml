@@ -33,10 +33,10 @@
 			<displayName>Ideology</displayName>
 		</li> -->
 		
-		<li>
+		<!-- <li>
 			<packageId>ludeon.rimworld.odyssey</packageId>
 			<displayName>Odyssey</displayName>
-		</li>
+		</li> -->
 	</modDependencies>
 	<loadAfter>
 	</loadAfter>
