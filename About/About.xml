@@ -10,12 +10,11 @@
 	</supportedVersions>
 	<description>The ultimate modpack. Maybe
 </description>
-	<modDependencies>  <!-- will put all DLC's in as requirments, however will also comment out if unused -->
-		<li> <!-- the base game. putting it as a requirment is the ultimate unecessary. But, this is the ultimate pack, and thus it deserves all! -->
+	<modDependencies>
+		<li>
 			<packageId>ludeon.rimworld</packageId>
 			<displayName>Core</displayName>
-
-		</li>
+		</li> <!-- the base game. putting it as a requirment is the ultimate unecessary. But, this is the ultimate pack, and thus it deserves all! -->
 _____________________________________
 
 		<!-- <li>
