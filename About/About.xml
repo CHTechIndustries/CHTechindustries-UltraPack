@@ -11,7 +11,7 @@
 	<description>The ultimate modpack. Maybe
 </description>
 	<modDependencies>
-		<li>
+		<li> <!-- the base game. putting it as a requirment is the ultimate unecessary. But, this is the ultimate pack, and thus it deserves all! -->
 			<packageId>ludeon.rimworld</packageId>
 			<displayName>Core</displayName>
 		</li>
