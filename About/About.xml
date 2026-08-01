@@ -14,6 +14,7 @@
 		<li> <!-- the base game. putting it as a requirment is the ultimate unecessary. But, this is the ultimate pack, and thus it deserves all! -->
 			<packageId>ludeon.rimworld</packageId>
 			<displayName>Core</displayName>
+
 		</li>
 		<li>
 			<packageId>ludeon.rimworld.anomaly</packageId>
