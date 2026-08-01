@@ -28,10 +28,10 @@
 			<displayName>Biotech</displayName>
 		</li> -->
 		
-		<li>
+		<!-- <li>
 			<packageId>ludeon.rimworld.ideology</packageId>
 			<displayName>Ideology</displayName>
-		</li>
+		</li> -->
 	</modDependencies>
 	<loadAfter>
 	</loadAfter>
