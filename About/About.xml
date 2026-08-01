@@ -16,6 +16,10 @@
 			<displayName>Core</displayName>
 	<modDependencies> <!-- will put all DLC's in as requirments, however will also comment out if unused -->
 		</li>
+		<li>
+			<packageId>ludeon.rimworld.anomaly</packageId>
+			<displayName>Anomaly</displayName>
+		</li>
 	</modDependencies>
 	<loadAfter>
 	</loadAfter>
