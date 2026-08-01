@@ -23,10 +23,10 @@
 			<displayName>Anomaly</displayName>
 		</li> -->
 		
-		<li>
+		<!-- <li>
 			<packageId>ludeon.rimworld.biotech</packageId>
 			<displayName>Biotech</displayName>
-		</li>
+		</li> -->
 	</modDependencies>
 	<loadAfter>
 	</loadAfter>
