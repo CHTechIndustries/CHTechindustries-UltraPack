@@ -27,6 +27,11 @@
 			<packageId>ludeon.rimworld.biotech</packageId>
 			<displayName>Biotech</displayName>
 		</li> -->
+		
+		<li>
+			<packageId>ludeon.rimworld.ideology</packageId>
+			<displayName>Ideology</displayName>
+		</li>
 	</modDependencies>
 	<loadAfter>
 	</loadAfter>
