@@ -27,6 +27,10 @@
 			<packageId>ludeon.rimworld.anomaly</packageId>
 			<displayName>Anomaly</displayName>
 		</li>
+		<li>
+			<packageId>ludeon.rimworld.odyssey</packageId>
+			<displayName>Odyssey</displayName>
+		</li>
 	</modDependencies>
 	<loadAfter>
 	</loadAfter>
