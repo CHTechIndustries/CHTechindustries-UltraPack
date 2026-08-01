@@ -32,6 +32,11 @@
 			<packageId>ludeon.rimworld.ideology</packageId>
 			<displayName>Ideology</displayName>
 		</li> -->
+		
+		<li>
+			<packageId>ludeon.rimworld.odyssey</packageId>
+			<displayName>Odyssey</displayName>
+		</li>
 	</modDependencies>
 	<loadAfter>
 	</loadAfter>
