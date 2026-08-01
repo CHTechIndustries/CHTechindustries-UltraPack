@@ -15,7 +15,8 @@
 			<packageId>ludeon.rimworld</packageId>
 			<displayName>Core</displayName>
 		</li> <!-- the base game. putting it as a requirment is the ultimate unecessary. But, this is the ultimate pack, and thus it deserves all! -->
-_____________________________________
+<!-- will put all DLC's in as requirments, however will also comment out if unused -->
+<!-- _____________________________________ -->
 
 		<!-- <li>
 			<packageId>ludeon.rimworld.anomaly</packageId>
@@ -41,7 +42,7 @@ _____________________________________
 			<packageId>ludeon.rimworld.royalty</packageId>
 			<displayName>Royalty</displayName>
 		</li> -->
-		____________________________________
+		<!-- ____________________________________ -->
 	</modDependencies>
 	<loadAfter>
 	</loadAfter>
