@@ -16,10 +16,10 @@
 			<displayName>Core</displayName>
 
 		</li>
-		<li>
+		<!-- <li>
 			<packageId>ludeon.rimworld.anomaly</packageId>
 			<displayName>Anomaly</displayName>
-		</li>
+		</li> -->
 	</modDependencies>
 	<loadAfter>
 	</loadAfter>
