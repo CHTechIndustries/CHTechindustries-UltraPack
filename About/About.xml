@@ -10,13 +10,14 @@
 	</supportedVersions>
 	<description>The ultimate modpack. Maybe
 </description>
-	<modDependencies>  <!-- will put all DLC's in as requirments, however will also comment out if unused -->
-		<li> <!-- the base game. putting it as a requirment is the ultimate unecessary. But, this is the ultimate pack, and thus it deserves all! -->
+	<modDependencies>
+		<li>
 			<packageId>ludeon.rimworld</packageId>
 			<displayName>Core</displayName>
+		</li> <!-- the base game. putting it as a requirment is the ultimate unecessary. But, this is the ultimate pack, and thus it deserves all! -->
+<!-- will put all DLC's in as requirments, however will also comment out if unused -->
+<!-- _____________________________________ -->
 
-		</li>
-_____________________________________
 		<!-- <li>
 			<packageId>ludeon.rimworld.anomaly</packageId>
 			<displayName>Anomaly</displayName>
@@ -82,6 +83,7 @@ ____________________________________
 			<displayName>Harmony</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013</steamWorkshopUrl>
 		</li>
+		<!-- ____________________________________ -->
 	</modDependencies>
 	<loadAfter>
 	</loadAfter>
