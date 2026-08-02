@@ -67,10 +67,16 @@ ____________________________________
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=818773962</steamWorkshopUrl>
 		</li>
 		<li>
+			<packageId>chtech.rimworldextended.main</packageId>
+			<displayName>Rimworld Extended: Properly</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</steamWorkshopUrl>
+		</li>
+		<li>
 			<packageId>brrainz.harmony</packageId>
-			<displayName>Architect Icons</displayName>
+			<displayName>Harmony</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013</steamWorkshopUrl>
 		</li>
+		
 		<li>
 			<packageId>brrainz.harmony</packageId>
 			<displayName>Harmony</displayName>
