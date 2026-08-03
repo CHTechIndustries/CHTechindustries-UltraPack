@@ -13,7 +13,6 @@
     <li>adaptive.storage.framework</li>
     <li>redmattis.betterprerequisites</li>
     <li>smashphil.vehicleframework</li>
-    <li>natangry.makeitunique</li>
     <li>unlimitedhugs.hugslib</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>ebsg.framework</li>
@@ -174,7 +173,6 @@
     <li>cedaro.material.submenu</li>
     <li>gogatio.mechanoidupgrades.anomaly</li>
     <li>morebiotechstylegenes.mod</li>
-    <li>winglessflight.gene</li>
     <li>lts.mgw</li>
     <li>andromeda.nicebilltab</li>
     <li>andromeda.niceinventorytab</li>
@@ -234,6 +232,7 @@
     <li>ferny.progressiondrugs</li>
     <li>ferny.progressionfurniture</li>
     <li>vanillaexpanded.vgeneticsemorelabstuff</li>
+    <li>winglessflight.gene</li>
     <li>ferny.decorintoprops</li>
     <li>ferny.progressioncore</li>
     <li>ferny.progressiongenetics</li>
@@ -251,6 +250,7 @@
     <li>ferny.betterarchitect</li>
     <li>ferny.progressiontherapy</li>
     <li>ferny.characterdevelopment</li>
+    <li>natangry.makeitunique</li>
     <li>co.uk.epicguru.whatsthatmod</li>
   </activeMods>
   <knownExpansions>
