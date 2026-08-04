@@ -13,6 +13,8 @@
     <li>adaptive.storage.framework</li>
     <li>redmattis.betterprerequisites</li>
     <li>smashphil.vehicleframework</li>
+    <li>ratys.rtfuse</li>
+    <li>natangry.makeitunique</li>
     <li>unlimitedhugs.hugslib</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>ebsg.framework</li>
@@ -21,7 +23,6 @@
     <li>antihydrogen.donotavoidfire</li>
     <li>veltaris.dynamiccombatmode</li>
     <li>veltaris.framework</li>
-    <li>veltaris.mechanoidskins</li>
     <li>veltaris.noblinking</li>
     <li>ferny.alfredancient</li>
     <li>superniquito.allideoligionsarefluid</li>
@@ -63,6 +64,7 @@
     <li>ferny.loadinbackground</li>
     <li>starkravingsane.meatybabyfood</li>
     <li>el.invmech</li>
+    <li>gogatio.mechanoidupgrades</li>
     <li>andromeda.milkyway</li>
     <li>twm.mjuwe</li>
     <li>astryl.moderncc</li>
@@ -77,6 +79,7 @@
     <li>andromeda.packablecontainers</li>
     <li>alleykat.persistentprecepts</li>
     <li>mortstrudel.mortideology</li>
+    <li>ptei.leeh</li>
     <li>lee.xenotypefloattodialogue</li>
     <li>ferny.progressionhospitality</li>
     <li>ferny.replacelib</li>
@@ -148,11 +151,13 @@
     <li>vanillaexpanded.temperature</li>
     <li>oskarpotocki.vanillavehiclesexpanded</li>
     <li>ferny.victorveto</li>
+    <li>addvans.walktheworld</li>
     <li>ferny.worldbuilder</li>
     <li>zhuma.xenotypesummary</li>
     <li>veltaris.xenos</li>
     <li>veltaris.kosmian</li>
     <li>veltaris.mechcrate</li>
+    <li>veltaris.mechanoidskins</li>
     <li>veltaris.mechtech</li>
     <li>veltaris.spacesolar</li>
     <li>veltaris.jade</li>
@@ -168,6 +173,7 @@
     <li>ferny.decorintostyles</li>
     <li>ebsg.aio</li>
     <li>cedaro.material.submenu</li>
+    <li>gogatio.mechanoidupgrades.anomaly</li>
     <li>morebiotechstylegenes.mod</li>
     <li>lts.mgw</li>
     <li>andromeda.nicebilltab</li>
@@ -208,6 +214,7 @@
     <li>chtech.core</li>
     <li>yabbyshabby.imperialfunctionality</li>
     <li>oels.mapvehicles</li>
+    <li>gogatio.mechanoidupgrades.archotech</li>
     <li>ferny.progressionfactories</li>
     <li>ferny.progressionrobotics2</li>
     <li>kentington.saveourship2</li>
