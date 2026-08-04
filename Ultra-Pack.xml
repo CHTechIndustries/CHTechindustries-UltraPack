@@ -21,7 +21,9 @@
     <li>antihydrogen.donotavoidfire</li>
     <li>veltaris.dynamiccombatmode</li>
     <li>veltaris.framework</li>
+    <li>veltaris.mechanoidskins</li>
     <li>veltaris.noblinking</li>
+    <li>mrdeliberto.anomaly.extraction</li>
     <li>ferny.alfredancient</li>
     <li>superniquito.allideoligionsarefluid</li>
     <li>sarg.alphabiomes</li>
@@ -62,8 +64,9 @@
     <li>ferny.loadinbackground</li>
     <li>starkravingsane.meatybabyfood</li>
     <li>el.invmech</li>
-    <li>gogatio.mechanoidupgrades</li>
     <li>andromeda.milkyway</li>
+    <li>gogatio.mechanoidupgrades</li>
+    <li>gogatio.mechanoidupgrades.anomaly</li>
     <li>twm.mjuwe</li>
     <li>astryl.moderncc</li>
     <li>kenx00x.moremaxmemes</li>
@@ -153,7 +156,6 @@
     <li>veltaris.xenos</li>
     <li>veltaris.kosmian</li>
     <li>veltaris.mechcrate</li>
-    <li>veltaris.mechanoidskins</li>
     <li>veltaris.mechtech</li>
     <li>veltaris.spacesolar</li>
     <li>veltaris.jade</li>
@@ -169,7 +171,6 @@
     <li>ferny.decorintostyles</li>
     <li>ebsg.aio</li>
     <li>cedaro.material.submenu</li>
-    <li>gogatio.mechanoidupgrades.anomaly</li>
     <li>morebiotechstylegenes.mod</li>
     <li>lts.mgw</li>
     <li>andromeda.nicebilltab</li>
@@ -210,7 +211,6 @@
     <li>chtech.core</li>
     <li>yabbyshabby.imperialfunctionality</li>
     <li>oels.mapvehicles</li>
-    <li>gogatio.mechanoidupgrades.archotech</li>
     <li>ferny.progressionfactories</li>
     <li>ferny.progressionrobotics2</li>
     <li>kentington.saveourship2</li>
