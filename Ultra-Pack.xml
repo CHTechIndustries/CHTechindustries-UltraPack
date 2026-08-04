@@ -18,38 +18,53 @@
     <li>ebsg.framework</li>
     <li>forevermarried.mod</li>
     <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
+    <li>antihydrogen.donotavoidfire</li>
+    <li>veltaris.dynamiccombatmode</li>
+    <li>veltaris.framework</li>
+    <li>veltaris.noblinking</li>
     <li>ferny.alfredancient</li>
     <li>superniquito.allideoligionsarefluid</li>
     <li>sarg.alphabiomes</li>
+    <li>sarg.alphabooks</li>
+    <li>sarg.alphamemes</li>
     <li>ferny.alwayspositiongravshiponlanding</li>
     <li>als.anomalygravship</li>
     <li>com.bymarcin.architecticons</li>
     <li>mrk.architectmenuoptimizer</li>
     <li>ferny.vengeance</li>
     <li>redmattis.bettergeneinheritance</li>
+    <li>petre27.biotechbalancedcapacitorgenes</li>
+    <li>bk.babypaste</li>
+    <li>swiftspectral.booksplus</li>
     <li>void.charactereditor</li>
     <li>ferny.chesterchoose</li>
     <li>childrencanlearnfast.mod</li>
     <li>ferny.coloredcategories</li>
+    <li>mortstrudel.mortideologyenv</li>
     <li>ferny.corpsedescriptionfix</li>
     <li>ferny.danniedouble</li>
     <li>dubwise.dubsbadhygiene</li>
     <li>edb.preparecarefully</li>
+    <li>mortstrudel.mortideologyscifai</li>
     <li>ebs.abilities</li>
     <li>ferny.featuresgapfix</li>
-    <li>antihydrogen.donotavoidfire</li>
     <li>kathanon.floatsubmenu</li>
     <li>ferny.floorpipettetool</li>
     <li>andromeda.fragilearmor</li>
     <li>ferny.fucklearninghelper</li>
+    <li>xmb.giantimperialcannonturret.mo</li>
     <li>jamesthe1.rimworld.gitupdater</li>
     <li>andromeda.helpmebuild</li>
     <li>elsov.highborn</li>
     <li>honorableorgans.mod</li>
     <li>garwel.ideologydevelopmentplus</li>
+    <li>thamuzz.livingbuildingframework</li>
     <li>ferny.loadinbackground</li>
+    <li>starkravingsane.meatybabyfood</li>
     <li>el.invmech</li>
+    <li>gogatio.mechanoidupgrades</li>
     <li>andromeda.milkyway</li>
+    <li>twm.mjuwe</li>
     <li>astryl.moderncc</li>
     <li>kenx00x.moremaxmemes</li>
     <li>ferny.moveyourmonolith</li>
@@ -61,6 +76,7 @@
     <li>hailuan.patchship</li>
     <li>andromeda.packablecontainers</li>
     <li>alleykat.persistentprecepts</li>
+    <li>mortstrudel.mortideology</li>
     <li>lee.xenotypefloattodialogue</li>
     <li>ferny.progressionhospitality</li>
     <li>ferny.replacelib</li>
@@ -71,6 +87,7 @@
     <li>alite.mechanitorshuttle</li>
     <li>alite.richexplorershuttle</li>
     <li>pb3n.simplewarrants</li>
+    <li>b4ttl3m3ds.simplebabycarry</li>
     <li>andromeda.stackgap</li>
     <li>ferny.storagestatsindescription</li>
     <li>neronix17.toolbox</li>
@@ -78,11 +95,18 @@
     <li>ferny.texttool</li>
     <li>carnysenpai.traitraritycolors</li>
     <li>ferny.traumaandintegrity</li>
-    <li>twm.mjuwe</li>
     <li>ferny.triumphantresearch</li>
     <li>andromeda.unburned</li>
+    <li>vanillaexpanded.vanillaanimalsexpanded</li>
+    <li>vanillaexpanded.vaeendandext</li>
+    <li>vanillaexpanded.vaeroy</li>
+    <li>vanillaexpanded.vaewaste</li>
+    <li>vanillaexpanded.vanomalyeinsanity</li>
     <li>vanillaexpanded.basegeneration</li>
+    <li>vanillaexpanded.vbookse</li>
+    <li>vanillaexpanded.vbrewe</li>
     <li>vanillaexpanded.vchemfuele</li>
+    <li>vanillaexpanded.vcooke</li>
     <li>oskarpotocki.vfe.classical</li>
     <li>oskarpotocki.vfe.empire</li>
     <li>oskarpotocki.vfe.insectoid2</li>
@@ -90,10 +114,18 @@
     <li>oskarpotocki.vfe.pirates</li>
     <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
     <li>oskarpotocki.vfe.tribals</li>
+    <li>vanillaexpanded.vcef</li>
     <li>vanillaexpanded.vfefactory</li>
     <li>vanillaexpanded.vfepropsanddecor</li>
     <li>vanillaexpanded.gravship</li>
+    <li>vanillaexpanded.vieat</li>
+    <li>vanillaexpanded.ideo.dryads</li>
+    <li>vanillaexpanded.viehar</li>
+    <li>vanillaexpanded.ideo.iconsandsymbols</li>
+    <li>vanillaexpanded.ideo.relicsandartifacts</li>
+    <li>vanillaexpanded.ideo.sophianstyle</li>
     <li>vanillaexpanded.vexploratione</li>
+    <li>vanillaexpanded.vnutriente</li>
     <li>vanillaexpanded.vpsycastse</li>
     <li>vanillaquestsexpanded.ancients</li>
     <li>vanillaquestsexpanded.cryptoforge</li>
@@ -118,12 +150,26 @@
     <li>ferny.victorveto</li>
     <li>ferny.worldbuilder</li>
     <li>zhuma.xenotypesummary</li>
+    <li>veltaris.xenos</li>
+    <li>veltaris.kosmian</li>
+    <li>veltaris.mechcrate</li>
+    <li>veltaris.mechanoidskins</li>
+    <li>veltaris.mechtech</li>
+    <li>veltaris.spacesolar</li>
+    <li>veltaris.jade</li>
+    <li>veltaris.wastecollector</li>
+    <li>veltaris.animamechlink</li>
+    <li>seanbeag.allveepermits</li>
+    <li>sarg.rimbees</li>
+    <li>sarg.alphamechs</li>
     <li>hlx.ultratechalteredcarbon</li>
     <li>als.biotechgravship</li>
+    <li>bk.nutrientbars</li>
     <li>edern.combatpsycasts</li>
     <li>ferny.decorintostyles</li>
     <li>ebsg.aio</li>
     <li>cedaro.material.submenu</li>
+    <li>gogatio.mechanoidupgrades.anomaly</li>
     <li>morebiotechstylegenes.mod</li>
     <li>lts.mgw</li>
     <li>andromeda.nicebilltab</li>
@@ -131,37 +177,52 @@
     <li>andromeda.niceplantsmenu</li>
     <li>ferny.nofactoryfloorrequirement</li>
     <li>ferny.progressionfantasy</li>
-    <li>ferny.progressionrobotics2</li>
     <li>ferny.progressiontemperature</li>
     <li>ferny.progressionwarrants</li>
     <li>ferny.progressionworlds</li>
     <li>ferny.removebadhygienewiki</li>
     <li>resplice.xotr.charmweavers</li>
+    <li>blackkanye.sanitygenes</li>
     <li>andromeda.usefulmarks</li>
+    <li>vanillaexpanded.vbrewecandt</li>
+    <li>bambaryla.vcepu</li>
+    <li>vanillaexpanded.vcookebakery</li>
+    <li>vanillaexpanded.vcookehaute</li>
+    <li>vanillaexpanded.vcookestews</li>
+    <li>vanillaexpanded.vcookesushi</li>
     <li>oskarpotocki.vfe.deserters</li>
     <li>cn.vfei2swarmdisaster</li>
     <li>soa.compactworkbenches</li>
+    <li>mrhydralisk.vnpereimaginedprogression</li>
     <li>vanillaexpanded.vpe.hemosage</li>
     <li>vanillaexpanded.vpe.puppeteer</li>
     <li>vanillaracesexpanded.archon</li>
     <li>vanillaracesexpanded.insector</li>
     <li>oskarpotocki.vanillavehiclesexpandedtier3</li>
     <li>oskarpotocki.vanillavehiclesexpandedupgrades</li>
-    <li>oels.vehiclemapframework</li>
+    <li>mx.waymakers</li>
     <li>proximo.zealousinnocence</li>
+    <li>veltaris.mechstations</li>
+    <li>veltaris.mechqueen</li>
     <li>sarg.alphaanimals</li>
     <li>andromeda.busywork</li>
     <li>chtech.core</li>
-    <li>oels.mapvehicles</li>
+    <li>yabbyshabby.imperialfunctionality</li>
+    <li>gogatio.mechanoidupgrades.archotech</li>
+    <li>winglessflight.gene</li>
     <li>ferny.progressionfactories</li>
+    <li>ferny.progressionrobotics2</li>
     <li>kentington.saveourship2</li>
     <li>sarg.alphagenes</li>
-    <li>chtech.ems</li>
     <li>ferny.integratedalphapsycasts</li>
     <li>ferny.progressionstorytellers</li>
+    <li>thamuzz.sos2bioship</li>
     <li>vanillaexpanded.vgeneticse</li>
+    <li>vanillaexpanded.vmemese</li>
     <li>ferny.fleshbeasts</li>
+    <li>dbh.drinkpatches1.6fix</li>
     <li>ebsg.archite</li>
+    <li>chtech.ems</li>
     <li>ferny.propscore</li>
     <li>ferny.progressionagriculture</li>
     <li>ferny.progressionattire</li>
