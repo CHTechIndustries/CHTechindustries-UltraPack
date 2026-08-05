@@ -64,7 +64,6 @@
     <li>el.invmech</li>
     <li>gogatio.mechanoidupgrades</li>
     <li>andromeda.milkyway</li>
-    <li>twm.mjuwe</li>
     <li>astryl.moderncc</li>
     <li>kenx00x.moremaxmemes</li>
     <li>ferny.moveyourmonolith</li>
@@ -88,7 +87,6 @@
     <li>alite.richexplorershuttle</li>
     <li>pb3n.simplewarrants</li>
     <li>b4ttl3m3ds.simplebabycarry</li>
-    <li>andromeda.stackgap</li>
     <li>ferny.storagestatsindescription</li>
     <li>neronix17.toolbox</li>
     <li>childrenlearning.technology</li>
@@ -105,13 +103,11 @@
     <li>vanillaexpanded.basegeneration</li>
     <li>vanillaexpanded.vbookse</li>
     <li>vanillaexpanded.vbrewe</li>
-    <li>vanillaexpanded.vchemfuele</li>
     <li>vanillaexpanded.vcooke</li>
     <li>oskarpotocki.vfe.classical</li>
     <li>oskarpotocki.vfe.empire</li>
     <li>oskarpotocki.vfe.insectoid2</li>
     <li>oskarpotocki.vfe.medieval2</li>
-    <li>oskarpotocki.vfe.pirates</li>
     <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
     <li>oskarpotocki.vfe.tribals</li>
     <li>vanillaexpanded.vcef</li>
@@ -147,13 +143,6 @@
     <li>vanillaracesexpanded.waster</li>
     <li>vanillaexpanded.temperature</li>
     <li>oskarpotocki.vanillavehiclesexpanded</li>
-    <li>vanillaexpanded.vwe</li>
-    <li>vanillaexpanded.vwebf</li>
-    <li>vanillaexpanded.vwec</li>
-    <li>vanillaexpanded.vweg</li>
-    <li>vanillaexpanded.vwems</li>
-    <li>vanillaexpanded.vwenl</li>
-    <li>vanillaexpanded.vwetb</li>
     <li>ferny.victorveto</li>
     <li>ferny.worldbuilder</li>
     <li>zhuma.xenotypesummary</li>
@@ -169,9 +158,9 @@
     <li>seanbeag.allveepermits</li>
     <li>sarg.rimbees</li>
     <li>sarg.alphamechs</li>
-    <li>hlx.ultratechalteredcarbon</li>
     <li>als.biotechgravship</li>
     <li>bk.nutrientbars</li>
+    <li>chtech.core</li>
     <li>edern.combatpsycasts</li>
     <li>ferny.decorintostyles</li>
     <li>ebsg.aio</li>
@@ -190,9 +179,10 @@
     <li>ferny.removebadhygienewiki</li>
     <li>resplice.xotr.charmweavers</li>
     <li>blackkanye.sanitygenes</li>
+    <li>andromeda.stackgap</li>
     <li>andromeda.usefulmarks</li>
     <li>vanillaexpanded.vbrewecandt</li>
-    <li>bambaryla.vcepu</li>
+    <li>vanillaexpanded.vchemfuele</li>
     <li>vanillaexpanded.vcookebakery</li>
     <li>vanillaexpanded.vcookehaute</li>
     <li>vanillaexpanded.vcookestews</li>
@@ -204,42 +194,41 @@
     <li>vanillaexpanded.vpe.hemosage</li>
     <li>vanillaexpanded.vpe.puppeteer</li>
     <li>vanillaracesexpanded.archon</li>
-    <li>vanillaracesexpanded.insector</li>
     <li>oskarpotocki.vanillavehiclesexpandedtier3</li>
     <li>oskarpotocki.vanillavehiclesexpandedupgrades</li>
-    <li>vanillaexpanded.vwehw</li>
-    <li>vanillaexpanded.vwel</li>
-    <li>vanillaexpanded.vweq</li>
     <li>mx.waymakers</li>
     <li>proximo.zealousinnocence</li>
     <li>veltaris.mechstations</li>
     <li>veltaris.mechqueen</li>
-    <li>sarg.alphaanimals</li>
     <li>andromeda.busywork</li>
-    <li>chtech.core</li>
     <li>yabbyshabby.imperialfunctionality</li>
     <li>gogatio.mechanoidupgrades.archotech</li>
-    <li>winglessflight.gene</li>
+    <li>twm.mjuwe</li>
     <li>ferny.progressionfactories</li>
     <li>ferny.progressionrobotics2</li>
     <li>kentington.saveourship2</li>
-    <li>sarg.alphagenes</li>
-    <li>ferny.integratedalphapsycasts</li>
-    <li>vanillaexpanded.vweft</li>
+    <li>bambaryla.vcepu</li>
+    <li>oskarpotocki.vfe.pirates</li>
+    <li>hlx.ultratechalteredcarbon</li>
     <li>ferny.progressionstorytellers</li>
     <li>thamuzz.sos2bioship</li>
+    <li>vanillaracesexpanded.insector</li>
+    <li>sarg.alphaanimals</li>
+    <li>chtech.ems</li>
+    <li>sarg.alphagenes</li>
+    <li>ferny.integratedalphapsycasts</li>
     <li>vanillaexpanded.vgeneticse</li>
     <li>vanillaexpanded.vmemese</li>
     <li>ferny.fleshbeasts</li>
     <li>dbh.drinkpatches1.6fix</li>
     <li>ebsg.archite</li>
-    <li>chtech.ems</li>
     <li>ferny.propscore</li>
     <li>ferny.progressionagriculture</li>
     <li>ferny.progressionattire</li>
     <li>ferny.progressiondrugs</li>
     <li>ferny.progressionfurniture</li>
     <li>vanillaexpanded.vgeneticsemorelabstuff</li>
+    <li>winglessflight.gene</li>
     <li>ferny.decorintoprops</li>
     <li>ferny.progressioncore</li>
     <li>ferny.progressiongenetics</li>
