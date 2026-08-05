@@ -105,13 +105,11 @@
     <li>vanillaexpanded.basegeneration</li>
     <li>vanillaexpanded.vbookse</li>
     <li>vanillaexpanded.vbrewe</li>
-    <li>vanillaexpanded.vchemfuele</li>
     <li>vanillaexpanded.vcooke</li>
     <li>oskarpotocki.vfe.classical</li>
     <li>oskarpotocki.vfe.empire</li>
     <li>oskarpotocki.vfe.insectoid2</li>
     <li>oskarpotocki.vfe.medieval2</li>
-    <li>oskarpotocki.vfe.pirates</li>
     <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
     <li>oskarpotocki.vfe.tribals</li>
     <li>vanillaexpanded.vcef</li>
@@ -185,6 +183,7 @@
     <li>blackkanye.sanitygenes</li>
     <li>andromeda.usefulmarks</li>
     <li>vanillaexpanded.vbrewecandt</li>
+    <li>vanillaexpanded.vchemfuele</li>
     <li>vanillaexpanded.vcookebakery</li>
     <li>vanillaexpanded.vcookehaute</li>
     <li>vanillaexpanded.vcookestews</li>
@@ -196,7 +195,6 @@
     <li>vanillaexpanded.vpe.hemosage</li>
     <li>vanillaexpanded.vpe.puppeteer</li>
     <li>vanillaracesexpanded.archon</li>
-    <li>vanillaracesexpanded.insector</li>
     <li>oskarpotocki.vanillavehiclesexpandedtier3</li>
     <li>oskarpotocki.vanillavehiclesexpandedupgrades</li>
     <li>mx.waymakers</li>
@@ -210,9 +208,11 @@
     <li>ferny.progressionrobotics2</li>
     <li>kentington.saveourship2</li>
     <li>bambaryla.vcepu</li>
+    <li>oskarpotocki.vfe.pirates</li>
     <li>hlx.ultratechalteredcarbon</li>
     <li>ferny.progressionstorytellers</li>
     <li>thamuzz.sos2bioship</li>
+    <li>vanillaracesexpanded.insector</li>
     <li>sarg.alphaanimals</li>
     <li>chtech.ems</li>
     <li>sarg.alphagenes</li>
