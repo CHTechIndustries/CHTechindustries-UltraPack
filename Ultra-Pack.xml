@@ -28,7 +28,6 @@
     <li>sarg.alphabooks</li>
     <li>sarg.alphamemes</li>
     <li>ferny.alwayspositiongravshiponlanding</li>
-    <li>als.anomalygravship</li>
     <li>com.bymarcin.architecticons</li>
     <li>mrk.architectmenuoptimizer</li>
     <li>ferny.vengeance</li>
@@ -43,7 +42,9 @@
     <li>mortstrudel.mortideologyenv</li>
     <li>ferny.corpsedescriptionfix</li>
     <li>ferny.danniedouble</li>
+    <li>onyxae.dragonsdescent</li>
     <li>dubwise.dubsbadhygiene</li>
+    <li>dubwise.rimatomics</li>
     <li>edb.preparecarefully</li>
     <li>mortstrudel.mortideologyscifai</li>
     <li>ebs.abilities</li>
@@ -58,13 +59,16 @@
     <li>elsov.highborn</li>
     <li>honorableorgans.mod</li>
     <li>garwel.ideologydevelopmentplus</li>
+    <li>turnovus.biotech.integratedgenes</li>
+    <li>lts.i</li>
+    <li>nep.landonanything</li>
     <li>thamuzz.livingbuildingframework</li>
     <li>ferny.loadinbackground</li>
+    <li>natsuki.manipulatorbeam</li>
     <li>starkravingsane.meatybabyfood</li>
     <li>el.invmech</li>
     <li>gogatio.mechanoidupgrades</li>
     <li>andromeda.milkyway</li>
-    <li>twm.mjuwe</li>
     <li>astryl.moderncc</li>
     <li>kenx00x.moremaxmemes</li>
     <li>ferny.moveyourmonolith</li>
@@ -84,6 +88,7 @@
     <li>ferny.resourcedeliveryhelper</li>
     <li>resplice.xotr.core</li>
     <li>ferny.rominaready</li>
+    <li>ratys.rtfuse</li>
     <li>alite.mechanitorshuttle</li>
     <li>alite.richexplorershuttle</li>
     <li>pb3n.simplewarrants</li>
@@ -97,6 +102,10 @@
     <li>ferny.traumaandintegrity</li>
     <li>ferny.triumphantresearch</li>
     <li>andromeda.unburned</li>
+    <li>ushanka.glittertechexpansion</li>
+    <li>ushanka.hackingexpansion</li>
+    <li>ushanka.luciferiumexpansion</li>
+    <li>vanillaexpanded.achievements</li>
     <li>vanillaexpanded.vanillaanimalsexpanded</li>
     <li>vanillaexpanded.vaeendandext</li>
     <li>vanillaexpanded.vaeroy</li>
@@ -105,18 +114,23 @@
     <li>vanillaexpanded.basegeneration</li>
     <li>vanillaexpanded.vbookse</li>
     <li>vanillaexpanded.vbrewe</li>
-    <li>vanillaexpanded.vchemfuele</li>
-    <li>vanillaexpanded.vcooke</li>
     <li>oskarpotocki.vfe.classical</li>
     <li>oskarpotocki.vfe.empire</li>
     <li>oskarpotocki.vfe.insectoid2</li>
     <li>oskarpotocki.vfe.medieval2</li>
-    <li>oskarpotocki.vfe.pirates</li>
     <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
     <li>oskarpotocki.vfe.tribals</li>
-    <li>vanillaexpanded.vcef</li>
+    <li>vanillaexpanded.vanillafoodvarietyexpanded</li>
+    <li>vanillaexpanded.vfecore</li>
+    <li>vanillaexpanded.vfeart</li>
     <li>vanillaexpanded.vfefactory</li>
+    <li>vanillaexpanded.vfefarming</li>
+    <li>vanillaexpanded.vfemedical</li>
+    <li>vanillaexpanded.vfepower</li>
+    <li>vanillaexpanded.vfeproduction</li>
     <li>vanillaexpanded.vfepropsanddecor</li>
+    <li>vanillaexpanded.vfesecurity</li>
+    <li>vanillaexpanded.vfespacer</li>
     <li>vanillaexpanded.gravship</li>
     <li>vanillaexpanded.vieat</li>
     <li>vanillaexpanded.ideo.dryads</li>
@@ -126,7 +140,9 @@
     <li>vanillaexpanded.ideo.sophianstyle</li>
     <li>vanillaexpanded.vexploratione</li>
     <li>vanillaexpanded.vnutriente</li>
-    <li>vanillaexpanded.vpsycastse</li>
+    <li>vanillaexpanded.vplantse</li>
+    <li>vanillaexpanded.vpeflowers</li>
+    <li>vanillaexpanded.vplantsesucculents</li>
     <li>vanillaquestsexpanded.ancients</li>
     <li>vanillaquestsexpanded.cryptoforge</li>
     <li>vanillaquestsexpanded.deadlife</li>
@@ -145,8 +161,17 @@
     <li>vanillaracesexpanded.saurid</li>
     <li>vanillaracesexpanded.starjack</li>
     <li>vanillaracesexpanded.waster</li>
+    <li>vanillaexpanded.recycling</li>
+    <li>vanillaexpanded.skills</li>
+    <li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
     <li>vanillaexpanded.temperature</li>
     <li>oskarpotocki.vanillavehiclesexpanded</li>
+    <li>vanillaexpanded.vwebf</li>
+    <li>vanillaexpanded.vwec</li>
+    <li>vanillaexpanded.vweg</li>
+    <li>vanillaexpanded.vwems</li>
+    <li>vanillaexpanded.vwenl</li>
+    <li>vanillaexpanded.vwetb</li>
     <li>ferny.victorveto</li>
     <li>ferny.worldbuilder</li>
     <li>zhuma.xenotypesummary</li>
@@ -160,14 +185,18 @@
     <li>veltaris.wastecollector</li>
     <li>veltaris.animamechlink</li>
     <li>seanbeag.allveepermits</li>
-    <li>sarg.rimbees</li>
-    <li>sarg.alphamechs</li>
-    <li>hlx.ultratechalteredcarbon</li>
-    <li>als.biotechgravship</li>
+    <li>skelly.oskarpotocki.vfe.empire.permits.patch</li>
     <li>bk.nutrientbars</li>
-    <li>edern.combatpsycasts</li>
+    <li>chtech.core</li>
+    <li>nightmare.dbhhotspringcompatibility</li>
+    <li>sariusskelrets.dbhgenes</li>
     <li>ferny.decorintostyles</li>
+    <li>azrazalea.dbh.springwater.patch</li>
+    <li>dubwise.dubscentralheating</li>
+    <li>kitty.dubsbadhygieneodysseyaddon</li>
     <li>ebsg.aio</li>
+    <li>als.gravtech</li>
+    <li>turnovus.biotech.integratedxenotypes</li>
     <li>cedaro.material.submenu</li>
     <li>gogatio.mechanoidupgrades.anomaly</li>
     <li>morebiotechstylegenes.mod</li>
@@ -185,52 +214,70 @@
     <li>blackkanye.sanitygenes</li>
     <li>andromeda.usefulmarks</li>
     <li>vanillaexpanded.vbrewecandt</li>
+    <li>vanillaexpanded.vchemfuele</li>
+    <li>vanillaexpanded.vcooke</li>
+    <li>oskarpotocki.vfe.deserters</li>
+    <li>cn.vfei2swarmdisaster</li>
+    <li>vanillaexpanded.vcef</li>
+    <li>soa.compactworkbenches</li>
+    <li>mrhydralisk.vnpereimaginedprogression</li>
+    <li>vanillaexpanded.vplantsemore</li>
+    <li>vanillaexpanded.vplantsemushrooms</li>
+    <li>vanillaexpanded.vpsycastse</li>
+    <li>oskarpotocki.vanillavehiclesexpandedtier3</li>
+    <li>oskarpotocki.vanillavehiclesexpandedupgrades</li>
+    <li>oels.vehiclemapframework</li>
+    <li>vanillaexpanded.vwe</li>
+    <li>spacemoth.vehicleneedsfix</li>
+    <li>mx.waymakers</li>
+    <li>proximo.zealousinnocence</li>
+    <li>veltaris.mechstations</li>
+    <li>veltaris.mechqueen</li>
+    <li>sarg.rimbees</li>
+    <li>sarg.alphamechs</li>
+    <li>als.anomalygravship</li>
+    <li>als.biotechgravship</li>
+    <li>andromeda.busywork</li>
+    <li>edern.combatpsycasts</li>
+    <li>als.gravtech.bc</li>
+    <li>yabbyshabby.imperialfunctionality</li>
+    <li>oels.mapvehicles</li>
+    <li>gogatio.mechanoidupgrades.archotech</li>
+    <li>ferny.progressionfactories</li>
     <li>bambaryla.vcepu</li>
     <li>vanillaexpanded.vcookebakery</li>
     <li>vanillaexpanded.vcookehaute</li>
     <li>vanillaexpanded.vcookestews</li>
     <li>vanillaexpanded.vcookesushi</li>
-    <li>oskarpotocki.vfe.deserters</li>
-    <li>cn.vfei2swarmdisaster</li>
-    <li>soa.compactworkbenches</li>
-    <li>mrhydralisk.vnpereimaginedprogression</li>
     <li>vanillaexpanded.vpe.hemosage</li>
     <li>vanillaexpanded.vpe.puppeteer</li>
     <li>vanillaracesexpanded.archon</li>
-    <li>vanillaracesexpanded.insector</li>
-    <li>oskarpotocki.vanillavehiclesexpandedtier3</li>
-    <li>oskarpotocki.vanillavehiclesexpandedupgrades</li>
-    <li>oels.vehiclemapframework</li>
-    <li>mx.waymakers</li>
-    <li>proximo.zealousinnocence</li>
-    <li>veltaris.mechstations</li>
-    <li>veltaris.mechqueen</li>
-    <li>sarg.alphaanimals</li>
-    <li>andromeda.busywork</li>
-    <li>chtech.core</li>
-    <li>yabbyshabby.imperialfunctionality</li>
-    <li>oels.mapvehicles</li>
-    <li>gogatio.mechanoidupgrades.archotech</li>
-    <li>winglessflight.gene</li>
-    <li>ferny.progressionfactories</li>
+    <li>vanillaexpanded.vwehw</li>
+    <li>vanillaexpanded.vwel</li>
+    <li>vanillaexpanded.vweq</li>
+    <li>twm.mjuwe</li>
     <li>ferny.progressionrobotics2</li>
-    <li>kentington.saveourship2</li>
+    <li>oskarpotocki.vfe.pirates</li>
+    <li>vanillaexpanded.vweft</li>
+    <li>hlx.ultratechalteredcarbon</li>
+    <li>ferny.progressionstorytellers</li>
+    <li>vanillaracesexpanded.insector</li>
+    <li>sarg.alphaanimals</li>
     <li>sarg.alphagenes</li>
     <li>ferny.integratedalphapsycasts</li>
-    <li>ferny.progressionstorytellers</li>
-    <li>thamuzz.sos2bioship</li>
     <li>vanillaexpanded.vgeneticse</li>
     <li>vanillaexpanded.vmemese</li>
     <li>ferny.fleshbeasts</li>
+    <li>hol.dragongenetics</li>
     <li>dbh.drinkpatches1.6fix</li>
     <li>ebsg.archite</li>
-    <li>chtech.ems</li>
     <li>ferny.propscore</li>
     <li>ferny.progressionagriculture</li>
     <li>ferny.progressionattire</li>
     <li>ferny.progressiondrugs</li>
     <li>ferny.progressionfurniture</li>
     <li>vanillaexpanded.vgeneticsemorelabstuff</li>
+    <li>winglessflight.gene</li>
     <li>ferny.decorintoprops</li>
     <li>ferny.progressioncore</li>
     <li>ferny.progressiongenetics</li>
