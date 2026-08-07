@@ -41,6 +41,7 @@
     <li>ferny.coloredcategories</li>
     <li>mortstrudel.mortideologyenv</li>
     <li>ferny.corpsedescriptionfix</li>
+    <li>majesticmadman.craftabledeathrest</li>
     <li>ferny.danniedouble</li>
     <li>onyxae.dragonsdescent</li>
     <li>dubwise.dubsbadhygiene</li>
@@ -53,6 +54,7 @@
     <li>ferny.floorpipettetool</li>
     <li>andromeda.fragilearmor</li>
     <li>ferny.fucklearninghelper</li>
+    <li>redmattis.geneextractor</li>
     <li>xmb.giantimperialcannonturret.mo</li>
     <li>jamesthe1.rimworld.gitupdater</li>
     <li>andromeda.helpmebuild</li>
@@ -81,6 +83,7 @@
     <li>andromeda.packablecontainers</li>
     <li>alleykat.persistentprecepts</li>
     <li>mortstrudel.mortideology</li>
+    <li>powerful.gravshield</li>
     <li>lee.xenotypefloattodialogue</li>
     <li>ferny.progressionhospitality</li>
     <li>ferny.replacelib</li>
@@ -190,10 +193,12 @@
     <li>nightmare.dbhhotspringcompatibility</li>
     <li>sariusskelrets.dbhgenes</li>
     <li>ferny.decorintostyles</li>
+    <li>redmattis.autocombat</li>
     <li>azrazalea.dbh.springwater.patch</li>
     <li>dubwise.dubscentralheating</li>
     <li>kitty.dubsbadhygieneodysseyaddon</li>
     <li>ebsg.aio</li>
+    <li>redmattis.genenodes</li>
     <li>als.gravtech</li>
     <li>turnovus.biotech.integratedxenotypes</li>
     <li>cedaro.material.submenu</li>
