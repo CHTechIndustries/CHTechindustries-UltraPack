@@ -35,16 +35,21 @@
     <li>petre27.biotechbalancedcapacitorgenes</li>
     <li>bk.babypaste</li>
     <li>swiftspectral.booksplus</li>
+    <li>nakomaru.carrygenes</li>
     <li>void.charactereditor</li>
     <li>ferny.chesterchoose</li>
     <li>childrencanlearnfast.mod</li>
     <li>ferny.coloredcategories</li>
     <li>mortstrudel.mortideologyenv</li>
     <li>ferny.corpsedescriptionfix</li>
+    <li>majesticmadman.craftabledeathrest</li>
+    <li>dimonsever000.ideologyheroes</li>
+    <li>dimonsever000.ideologyvirtues</li>
     <li>ferny.danniedouble</li>
     <li>onyxae.dragonsdescent</li>
     <li>dubwise.dubsbadhygiene</li>
     <li>dubwise.rimatomics</li>
+    <li>mlie.dynamiccarryingcapacity</li>
     <li>edb.preparecarefully</li>
     <li>mortstrudel.mortideologyscifai</li>
     <li>ebs.abilities</li>
@@ -53,9 +58,11 @@
     <li>ferny.floorpipettetool</li>
     <li>andromeda.fragilearmor</li>
     <li>ferny.fucklearninghelper</li>
+    <li>redmattis.geneextractor</li>
     <li>xmb.giantimperialcannonturret.mo</li>
     <li>jamesthe1.rimworld.gitupdater</li>
     <li>andromeda.helpmebuild</li>
+    <li>sariusskelrets.hemocapacity</li>
     <li>elsov.highborn</li>
     <li>honorableorgans.mod</li>
     <li>garwel.ideologydevelopmentplus</li>
@@ -76,11 +83,13 @@
     <li>thathitmann.nanomachinefoundry</li>
     <li>andromeda.nicehealthtab</li>
     <li>mrwireman.noconduit</li>
+    <li>nakomaru.nutritiongenes</li>
     <li>orbital.books</li>
     <li>hailuan.patchship</li>
     <li>andromeda.packablecontainers</li>
     <li>alleykat.persistentprecepts</li>
     <li>mortstrudel.mortideology</li>
+    <li>powerful.gravshield</li>
     <li>lee.xenotypefloattodialogue</li>
     <li>ferny.progressionhospitality</li>
     <li>ferny.replacelib</li>
@@ -172,8 +181,10 @@
     <li>vanillaexpanded.vwems</li>
     <li>vanillaexpanded.vwenl</li>
     <li>vanillaexpanded.vwetb</li>
+    <li>dcszar.veneratedxenotypeflexibility</li>
     <li>ferny.victorveto</li>
     <li>ferny.worldbuilder</li>
+    <li>wvc.sergkart.ultraexpansion</li>
     <li>zhuma.xenotypesummary</li>
     <li>veltaris.xenos</li>
     <li>veltaris.kosmian</li>
@@ -192,10 +203,13 @@
     <li>nightmare.dbhhotspringcompatibility</li>
     <li>sariusskelrets.dbhgenes</li>
     <li>ferny.decorintostyles</li>
+    <li>redmattis.autocombat</li>
+    <li>redmattis.dryads</li>
     <li>azrazalea.dbh.springwater.patch</li>
     <li>dubwise.dubscentralheating</li>
     <li>kitty.dubsbadhygieneodysseyaddon</li>
     <li>ebsg.aio</li>
+    <li>redmattis.genenodes</li>
     <li>als.gravtech</li>
     <li>turnovus.biotech.integratedxenotypes</li>
     <li>cedaro.material.submenu</li>
@@ -229,7 +243,9 @@
     <li>oskarpotocki.vanillavehiclesexpandedupgrades</li>
     <li>vanillaexpanded.vwe</li>
     <li>spacemoth.vehicleneedsfix</li>
+    <li>oels.vehiclemapframework</li>
     <li>mx.waymakers</li>
+    <li>wvc.sergkart.races.biotech</li>
     <li>proximo.zealousinnocence</li>
     <li>veltaris.mechstations</li>
     <li>veltaris.mechqueen</li>
@@ -246,6 +262,7 @@
     <li>andromeda.busywork</li>
     <li>chtech.core</li>
     <li>edern.combatpsycasts</li>
+    <li>redmattis.dryads.greater</li>
     <li>als.gravtech.bc</li>
     <li>yabbyshabby.imperialfunctionality</li>
     <li>oels.mapvehicles</li>
@@ -263,12 +280,14 @@
     <li>vanillaexpanded.vwehw</li>
     <li>vanillaexpanded.vwel</li>
     <li>vanillaexpanded.vweq</li>
+    <li>wvc.sergkart.qolpatches</li>
     <li>redmattis.bigsmall.alienappearancepatch</li>
     <li>twm.mjuwe</li>
     <li>ferny.progressionrobotics2</li>
     <li>thamuzz.sos2bioship</li>
     <li>oskarpotocki.vfe.pirates</li>
     <li>vanillaexpanded.vweft</li>
+    <li>wvc.sergkart.biotech.moremechanoidsworkmodes</li>
     <li>hlx.ultratechalteredcarbon</li>
     <li>chtech.ems</li>
     <li>ferny.progressionstorytellers</li>
