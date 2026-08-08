@@ -3,8 +3,8 @@
 	<name>CHTech Industries UltraPack</name>
 	<author>CTH2004</author>
 	<packageId>CHTech.UltraPack</packageId>
-	<url>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/wiki</url>
-	<modVersion>0.0.0</modVersion>
+	<url>https://github.com/CHTechIndustries/CHTechindustries-UltraPack/wiki</url>
+	<modVersion>0.0.1</modVersion>
 	<supportedVersions>
 		<li>1.6</li>
 	</supportedVersions>
@@ -12,9 +12,37 @@
 </description>
 	<modDependencies>
 		<li>
-			<packageId>Ludeon.RimWorld.Biotech</packageId>
+			<packageId>ludeon.rimworld</packageId>
+			<displayName>Core</displayName>
+		</li> <!-- the base game. putting it as a requirment is the ultimate unecessary. But, this is the ultimate pack, and thus it deserves all! -->
+<!-- will put all DLC's in as requirments, however will also comment out if unused -->
+<!-- _____________________________________ -->
+
+		<!-- <li>
+			<packageId>ludeon.rimworld.anomaly</packageId>
+			<displayName>Anomaly</displayName>
+		</li> -->
+		
+		<!-- <li>
+			<packageId>ludeon.rimworld.biotech</packageId>
 			<displayName>Biotech</displayName>
-		</li>
+		</li> -->
+		
+		<!-- <li>
+			<packageId>ludeon.rimworld.ideology</packageId>
+			<displayName>Ideology</displayName>
+		</li> -->
+		
+		<!-- <li>
+			<packageId>ludeon.rimworld.odyssey</packageId>
+			<displayName>Odyssey</displayName>
+		</li> -->
+		
+		<!-- <li>
+			<packageId>ludeon.rimworld.royalty</packageId>
+			<displayName>Royalty</displayName>
+		</li> -->
+		<!-- ____________________________________ -->
 	</modDependencies>
 	<loadAfter>
 	</loadAfter>
