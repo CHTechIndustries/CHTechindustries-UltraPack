@@ -63,8 +63,10 @@
     <li>jamesthe1.rimworld.gitupdater</li>
     <li>andromeda.helpmebuild</li>
     <li>sariusskelrets.hemocapacity</li>
+    <li>aoba.hemogendirect</li>
     <li>elsov.highborn</li>
     <li>honorableorgans.mod</li>
+    <li>erdelf.humanoidalienraces</li>
     <li>garwel.ideologydevelopmentplus</li>
     <li>turnovus.biotech.integratedgenes</li>
     <li>lts.i</li>
@@ -104,7 +106,6 @@
     <li>b4ttl3m3ds.simplebabycarry</li>
     <li>andromeda.stackgap</li>
     <li>ferny.storagestatsindescription</li>
-    <li>neronix17.toolbox</li>
     <li>childrenlearning.technology</li>
     <li>ferny.texttool</li>
     <li>carnysenpai.traitraritycolors</li>
@@ -184,7 +185,6 @@
     <li>dcszar.veneratedxenotypeflexibility</li>
     <li>ferny.victorveto</li>
     <li>ferny.worldbuilder</li>
-    <li>wvc.sergkart.ultraexpansion</li>
     <li>zhuma.xenotypesummary</li>
     <li>veltaris.xenos</li>
     <li>veltaris.kosmian</li>
@@ -227,6 +227,7 @@
     <li>ferny.removebadhygienewiki</li>
     <li>resplice.xotr.charmweavers</li>
     <li>blackkanye.sanitygenes</li>
+    <li>neronix17.toolbox</li>
     <li>andromeda.usefulmarks</li>
     <li>vanillaexpanded.vbrewecandt</li>
     <li>vanillaexpanded.vchemfuele</li>
@@ -245,7 +246,7 @@
     <li>spacemoth.vehicleneedsfix</li>
     <li>oels.vehiclemapframework</li>
     <li>mx.waymakers</li>
-    <li>wvc.sergkart.races.biotech</li>
+    <li>wvc.sergkart.ultraexpansion</li>
     <li>proximo.zealousinnocence</li>
     <li>veltaris.mechstations</li>
     <li>veltaris.mechqueen</li>
@@ -280,6 +281,7 @@
     <li>vanillaexpanded.vwehw</li>
     <li>vanillaexpanded.vwel</li>
     <li>vanillaexpanded.vweq</li>
+    <li>wvc.sergkart.races.biotech</li>
     <li>wvc.sergkart.qolpatches</li>
     <li>redmattis.bigsmall.alienappearancepatch</li>
     <li>twm.mjuwe</li>
@@ -287,6 +289,7 @@
     <li>thamuzz.sos2bioship</li>
     <li>oskarpotocki.vfe.pirates</li>
     <li>vanillaexpanded.vweft</li>
+    <li>wvc.sergkart.qolpatches</li>
     <li>wvc.sergkart.biotech.moremechanoidsworkmodes</li>
     <li>hlx.ultratechalteredcarbon</li>
     <li>chtech.ems</li>
@@ -307,6 +310,7 @@
     <li>ferny.progressiondrugs</li>
     <li>ferny.progressionfurniture</li>
     <li>vanillaexpanded.vgeneticsemorelabstuff</li>
+    <li>cn.vge.qualitymoreeffective</li>
     <li>winglessflight.gene</li>
     <li>ferny.decorintoprops</li>
     <li>ferny.progressioncore</li>
