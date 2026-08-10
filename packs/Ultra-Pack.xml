@@ -267,6 +267,12 @@
     <li>sarg.rimbees</li>
     <li>sarg.alphamechs</li>
     <li>als.anomalygravship</li>
+    <li>redmattis.heaven</li>
+    <li>redmattis.morexenos</li>
+    <li>redmattis.bsslimes</li>
+    <li>redmattis.bigweapons</li>
+    <li>redmattis.bigsmall.bugs</li>
+    <li>redmattis.yokai</li>
     <li>als.biotechgravship</li>
     <li>andromeda.busywork</li>
     <li>chtech.core</li>
@@ -293,6 +299,8 @@
     <li>vanillaexpanded.vweq</li>
     <li>wvc.sergkart.races.biotech</li>
     <li>redmattis.dryads.greater</li>
+    <li>wvc.sergkart.qolpatches</li>
+    <li>redmattis.bigsmall.alienappearancepatch</li>
     <li>twm.mjuwe</li>
     <li>ferny.progressionrobotics2</li>
     <li>thamuzz.sos2bioship</li>
