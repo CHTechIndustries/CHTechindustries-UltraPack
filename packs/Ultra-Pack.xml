@@ -28,6 +28,9 @@
     <li>sarg.alphabooks</li>
     <li>sarg.alphamemes</li>
     <li>ferny.alwayspositiongravshiponlanding</li>
+    <li>ingendum.animalapparelframework</li>
+    <li>zoarak.anomalyplat</li>
+    <li>therocketsurgeon.anomalypsytweaks</li>
     <li>com.bymarcin.architecticons</li>
     <li>mrk.architectmenuoptimizer</li>
     <li>ferny.vengeance</li>
@@ -60,12 +63,14 @@
     <li>ferny.fucklearninghelper</li>
     <li>redmattis.geneextractor</li>
     <li>xmb.giantimperialcannonturret.mo</li>
+    <li>memegoddess.giddyup</li>
     <li>jamesthe1.rimworld.gitupdater</li>
     <li>andromeda.helpmebuild</li>
     <li>sariusskelrets.hemocapacity</li>
     <li>aoba.hemogendirect</li>
     <li>elsov.highborn</li>
     <li>honorableorgans.mod</li>
+    <li>lee4733.horaxshand</li>
     <li>erdelf.humanoidalienraces</li>
     <li>garwel.ideologydevelopmentplus</li>
     <li>turnovus.biotech.integratedgenes</li>
@@ -83,6 +88,7 @@
     <li>ferny.moveyourmonolith</li>
     <li>ferny.nameyourentities</li>
     <li>thathitmann.nanomachinefoundry</li>
+    <li>gogatio.newanomalythreats</li>
     <li>andromeda.nicehealthtab</li>
     <li>mrwireman.noconduit</li>
     <li>nakomaru.nutritiongenes</li>
@@ -90,6 +96,7 @@
     <li>hailuan.patchship</li>
     <li>andromeda.packablecontainers</li>
     <li>alleykat.persistentprecepts</li>
+    <li>shunter.personaweaponsunbound</li>
     <li>mortstrudel.mortideology</li>
     <li>powerful.gravshield</li>
     <li>lee.xenotypefloattodialogue</li>
@@ -112,6 +119,8 @@
     <li>ferny.traumaandintegrity</li>
     <li>ferny.triumphantresearch</li>
     <li>andromeda.unburned</li>
+    <li>shunter.uniquemeleeweapons</li>
+    <li>shunter.uniqueweaponsunbound</li>
     <li>ushanka.glittertechexpansion</li>
     <li>ushanka.hackingexpansion</li>
     <li>ushanka.luciferiumexpansion</li>
@@ -150,6 +159,7 @@
     <li>vanillaexpanded.ideo.sophianstyle</li>
     <li>vanillaexpanded.vexploratione</li>
     <li>vanillaexpanded.vnutriente</li>
+    <li>vanillaexpanded.outposts</li>
     <li>vanillaexpanded.vplantse</li>
     <li>vanillaexpanded.vpeflowers</li>
     <li>vanillaexpanded.vplantsesucculents</li>
@@ -204,18 +214,20 @@
     <li>sariusskelrets.dbhgenes</li>
     <li>ferny.decorintostyles</li>
     <li>redmattis.autocombat</li>
-    <li>redmattis.dryads</li>
     <li>azrazalea.dbh.springwater.patch</li>
     <li>dubwise.dubscentralheating</li>
     <li>kitty.dubsbadhygieneodysseyaddon</li>
     <li>ebsg.aio</li>
     <li>redmattis.genenodes</li>
+    <li>lee4733.giddyup.cavalrycharge</li>
     <li>als.gravtech</li>
     <li>turnovus.biotech.integratedxenotypes</li>
     <li>cedaro.material.submenu</li>
     <li>gogatio.mechanoidupgrades.anomaly</li>
+    <li>metalocif.anomaloids</li>
     <li>morebiotechstylegenes.mod</li>
     <li>lts.mgw</li>
+    <li>font.mountownership.core</li>
     <li>andromeda.nicebilltab</li>
     <li>andromeda.niceinventorytab</li>
     <li>andromeda.niceplantsmenu</li>
@@ -237,6 +249,8 @@
     <li>vanillaexpanded.vcef</li>
     <li>soa.compactworkbenches</li>
     <li>mrhydralisk.vnpereimaginedprogression</li>
+    <li>mrhydralisk.voeadditionaloutposts</li>
+    <li>rockets.landonoutposts</li>
     <li>vanillaexpanded.vplantsemore</li>
     <li>vanillaexpanded.vplantsemushrooms</li>
     <li>vanillaexpanded.vpsycastse</li>
@@ -257,11 +271,12 @@
     <li>andromeda.busywork</li>
     <li>chtech.core</li>
     <li>edern.combatpsycasts</li>
-    <li>redmattis.dryads.greater</li>
+    <li>redmattis.dryads</li>
     <li>als.gravtech.bc</li>
     <li>yabbyshabby.imperialfunctionality</li>
     <li>oels.mapvehicles</li>
     <li>gogatio.mechanoidupgrades.archotech</li>
+    <li>font.mountpassengers</li>
     <li>ferny.progressionfactories</li>
     <li>kentington.saveourship2</li>
     <li>bambaryla.vcepu</li>
@@ -269,6 +284,7 @@
     <li>vanillaexpanded.vcookehaute</li>
     <li>vanillaexpanded.vcookestews</li>
     <li>vanillaexpanded.vcookesushi</li>
+    <li>mrhydralisk.voepowergrid</li>
     <li>vanillaexpanded.vpe.hemosage</li>
     <li>vanillaexpanded.vpe.puppeteer</li>
     <li>vanillaracesexpanded.archon</li>
@@ -276,6 +292,7 @@
     <li>vanillaexpanded.vwel</li>
     <li>vanillaexpanded.vweq</li>
     <li>wvc.sergkart.races.biotech</li>
+    <li>redmattis.dryads.greater</li>
     <li>twm.mjuwe</li>
     <li>ferny.progressionrobotics2</li>
     <li>thamuzz.sos2bioship</li>
@@ -301,6 +318,7 @@
     <li>ferny.progressionattire</li>
     <li>ferny.progressiondrugs</li>
     <li>ferny.progressionfurniture</li>
+    <li>stocksounds.anomalygenes</li>
     <li>vanillaexpanded.vgeneticsemorelabstuff</li>
     <li>cn.vge.qualitymoreeffective</li>
     <li>winglessflight.gene</li>
