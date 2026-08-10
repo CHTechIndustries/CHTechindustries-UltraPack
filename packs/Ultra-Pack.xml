@@ -272,6 +272,8 @@
     <li>chtech.core</li>
     <li>edern.combatpsycasts</li>
     <li>redmattis.dryads</li>
+    <li>redmattis.dryads.greater</li>
+    <li>matathias.empire</li>
     <li>als.gravtech.bc</li>
     <li>yabbyshabby.imperialfunctionality</li>
     <li>oels.mapvehicles</li>
@@ -293,6 +295,9 @@
     <li>vanillaexpanded.vweq</li>
     <li>wvc.sergkart.races.biotech</li>
     <li>redmattis.dryads.greater</li>
+    <li>matathias.empire.animalhusbandry</li>
+    <li>matathias.empire.events</li>
+    <li>matathias.empire.specialists</li>
     <li>twm.mjuwe</li>
     <li>ferny.progressionrobotics2</li>
     <li>thamuzz.sos2bioship</li>
@@ -301,6 +306,7 @@
     <li>wvc.sergkart.qolpatches</li>
     <li>wvc.sergkart.biotech.moremechanoidsworkmodes</li>
     <li>hlx.ultratechalteredcarbon</li>
+    <li>matathias.empirerefvoe</li>
     <li>chtech.ems</li>
     <li>ferny.progressionstorytellers</li>
     <li>vanillaracesexpanded.insector</li>
