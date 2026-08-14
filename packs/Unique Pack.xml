@@ -13,11 +13,6 @@
     <li>redmattis.betterprerequisites</li>
     <li>unlimitedhugs.hugslib</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
-    <li>romanov.mechanitedrugs</li>
-    <li>chairheir.mechaniteplague</li>
-    <li>lts.msmd</li>
-    <li>petre27.godlikemetabolismgene</li>
-    <li>mlem.metaadjusternew</li>
     <li>ebsg.framework</li>
     <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
     <li>superniquito.allideoligionsarefluid</li>
@@ -35,6 +30,9 @@
     <li>jamesthe1.rimworld.gitupdater</li>
     <li>garwel.ideologydevelopmentplus</li>
     <li>ferny.loadinbackground</li>
+    <li>lts.msmd</li>
+    <li>romanov.mechanitedrugs</li>
+    <li>mlem.metaadjusternew</li>
     <li>migcorp.skiptech</li>
     <li>andromeda.milkyway</li>
     <li>astryl.moderncc</li>
@@ -51,6 +49,7 @@
     <li>shunter.uniqueweaponsunbound</li>
     <li>vanillaexpanded.basegeneration</li>
     <li>vanillaexpanded.vpersonaweaponse</li>
+    <li>vanillaexpanded.vpsycastse</li>
     <li>vanillaquestsexpanded.ancients</li>
     <li>vanillaquestsexpanded.cryptoforge</li>
     <li>vanillaquestsexpanded.deadlife</li>
@@ -67,8 +66,12 @@
     <li>petre27.biotechcapacitorgenesextra</li>
     <li>chtech.core</li>
     <li>ebsg.archite</li>
+    <li>chairheir.mechaniteplague</li>
     <li>andromeda.niceresearchtab</li>
     <li>statistno1.personabond</li>
+    <li>vanillaexpanded.vpe.hemosage</li>
+    <li>vanillaexpanded.vpe.puppeteer</li>
+    <li>chairheir.vperunesmith</li>
     <li>vanillaexpanded.vwehw</li>
     <li>vanillaexpanded.vwel</li>
     <li>vanillaexpanded.vweq</li>
