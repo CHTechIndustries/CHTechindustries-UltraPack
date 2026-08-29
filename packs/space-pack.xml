@@ -10,13 +10,12 @@
     <li>ludeon.rimworld.biotech</li>
     <li>ludeon.rimworld.anomaly</li>
     <li>ludeon.rimworld.odyssey</li>
+    <li>redmattis.betterprerequisites</li>
     <li>unlimitedhugs.hugslib</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
-    <li>petre27.biotechbalancedcapacitorgenes</li>
-    <li>petre27.biotechcapacitorgenes</li>
     <li>ebsg.framework</li>
-    <li>petre27.biotechcapacitorgenesextra</li>
     <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
+    <li>veltaris.framework</li>
     <li>superniquito.allideoligionsarefluid</li>
     <li>sarg.alphaprefabs</li>
     <li>ferny.alwayspositiongravshiponlanding</li>
@@ -24,53 +23,51 @@
     <li>com.bymarcin.architecticons</li>
     <li>mrk.architectmenuoptimizer</li>
     <li>redmattis.bettergeneinheritance</li>
+    <li>petre27.biotechbalancedcapacitorgenes</li>
+    <li>petre27.biotechcapacitorgenes</li>
     <li>void.charactereditor</li>
     <li>edb.preparecarefully</li>
     <li>ebs.abilities</li>
-    <li>ebsg.aio</li>
     <li>jamesthe1.rimworld.gitupdater</li>
     <li>sk.gravshipraids</li>
+    <li>elsov.highborn</li>
     <li>garwel.ideologydevelopmentplus</li>
     <li>ferny.loadinbackground</li>
     <li>andromeda.milkyway</li>
     <li>astryl.moderncc</li>
-    <li>morebiotechstylegenes.mod</li>
     <li>kenx00x.moremaxmemes</li>
     <li>alleykat.persistentprecepts</li>
     <li>neronix17.toolbox</li>
-    <li>elsov.highborn</li>
-    <li>ebsg.framework</li>
-    <li>redmattis.betterprerequisites</li>
-    <li>veltaris.framework</li>
-    <li>vanillaracesexpanded.insector</li>
-    <li>vanillaracesexpanded.waster</li>
     <li>carnysenpai.traitraritycolors</li>
     <li>vanillaexpanded.basegeneration</li>
     <li>vanillaexpanded.gravship</li>
     <li>vanillaexpanded.vnutriente</li>
     <li>vanillaracesexpanded.android</li>
+    <li>vanillaracesexpanded.archon</li>
     <li>vanillaracesexpanded.customicons</li>
+    <li>vanillaracesexpanded.fungoid</li>
+    <li>vanillaracesexpanded.genie</li>
+    <li>vanillaracesexpanded.highmate</li>
+    <li>vanillaracesexpanded.hussar</li>
+    <li>vanillaracesexpanded.insector</li>
+    <li>vanillaracesexpanded.lycanthrope</li>
+    <li>vanillaracesexpanded.phytokin</li>
+    <li>vanillaracesexpanded.pigskin</li>
+    <li>vanillaracesexpanded.sanguophage</li>
+    <li>vanillaracesexpanded.saurid</li>
     <li>vanillaracesexpanded.starjack</li>
+    <li>vanillaracesexpanded.waster</li>
     <li>zhuma.xenotypesummary</li>
+    <li>veltaris.xenos</li>
     <li>btd.remix.gravshipblueprints</li>
     <li>sarg.alphagenes</li>
     <li>hlx.ultratechalteredcarbon</li>
-    <li>vanillaracesexpanded.customicons</li>
-    <li>vanillaracesexpanded.lycanthrope</li>
-    <li>vanillaracesexpanded.fungoid</li>
-    <li>vanillaracesexpanded.highmate</li>
-    <li>vanillaracesexpanded.phytokin</li>
-    <li>vanillaracesexpanded.genie</li>
-    <li>vanillaracesexpanded.hussar</li>
-    <li>vanillaracesexpanded.saurid</li>
-    <li>veltaris.xenos</li>
-    <li>vanillaracesexpanded.pigskin</li>
-    <li>vanillaracesexpanded.archon</li>
-    <li>vanillaracesexpanded.sanguophage</li>
-    <li>vanillaracesexpanded.genie</li>
+    <li>petre27.biotechcapacitorgenesextra</li>
     <li>als.biotechgravship</li>
     <li>chtech.core</li>
+    <li>ebsg.aio</li>
     <li>asunib.gravshipfleet</li>
+    <li>morebiotechstylegenes.mod</li>
     <li>lts.mgw</li>
     <li>andromeda.niceresearchtab</li>
     <li>ferny.progressiongravship</li>
