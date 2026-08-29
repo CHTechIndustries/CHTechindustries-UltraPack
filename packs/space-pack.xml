@@ -14,6 +14,7 @@
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
     <li>superniquito.allideoligionsarefluid</li>
+    <li>sarg.alphamechs</li>
     <li>sarg.alphaprefabs</li>
     <li>ferny.alwayspositiongravshiponlanding</li>
     <li>als.anomalygravship</li>
@@ -30,6 +31,22 @@
     <li>kenx00x.moremaxmemes</li>
     <li>alleykat.persistentprecepts</li>
     <li>neronix17.toolbox</li>
+    <li>vanillaexpanded.outposts</li>
+    <li>rockets.landonoutposts</li>
+    <li>vanillaracesexpanded.insector</li>
+    <li>vanillaexpanded.vgeneticsemorelabstuff</li>
+    <li>vanillaexpanded.vgeneticse</li>
+    <li>sarg.alphaanimals</li>
+    <li>who.vfee.isopodageneline</li>
+    <li>cn.vfei2swarmdisaster</li>
+    <li>hailuan.insect</li>
+    <li>reel.insectorfaction</li>
+    <li>lrb4.vanillaracesexpanded.insectorexpanded</li>
+    <li>oskarpotocki.vfe.insectoid2</li>
+    <li>vanillaracesexpanded.sanguophage</li>
+    <li>vanillaracesexpanded.saurid</li>
+    <li>vanillaracesexpanded.genie</li>
+    <li>vanillaracesexpanded.waster</li>
     <li>redmattis.genenodes</li>
     <li>redmattis.geneextractor</li>
     <li>alite.mechanitorshuttle</li>
@@ -41,11 +58,13 @@
     <li>veltaris.framework</li>
     <li>carnysenpai.traitraritycolors</li>
     <li>vanillaexpanded.basegeneration</li>
+    <li>vanillaexpanded.vchemfuele</li>
     <li>vanillaexpanded.gravship</li>
     <li>vanillaexpanded.vnutriente</li>
     <li>vanillaracesexpanded.android</li>
     <li>vanillaracesexpanded.customicons</li>
     <li>vanillaracesexpanded.starjack</li>
+    <li>ferny.worldbuilder</li>
     <li>btd.remix.gravshipblueprints</li>
     <li>hlx.ultratechalteredcarbon</li>
     <li>als.biotechgravship</li>
@@ -53,11 +72,14 @@
     <li>asunib.gravshipfleet</li>
     <li>lts.mgw</li>
     <li>andromeda.niceresearchtab</li>
-    <li>ferny.progressiongravship</li>
+    <li>ferny.progressionstorytellers</li>
+    <li>ferny.progressionworlds</li>
     <li>soa.compactworkbenches</li>
     <li>mrhydralisk.vnpereimaginedprogression</li>
-    <li>ferny.betterarchitect</li>
     <li>asunib.gravshipvoyage</li>
+    <li>ferny.progressionscenarios</li>
+    <li>ferny.progressiongravship</li>
+    <li>ferny.betterarchitect</li>
     <li>co.uk.epicguru.whatsthatmod</li>
   </activeMods>
   <knownExpansions>
