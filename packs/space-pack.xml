@@ -13,9 +13,6 @@
     <li>redmattis.betterprerequisites</li>
     <li>unlimitedhugs.hugslib</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
-    <li>mlem.metaadjusternew</li>
-    <li>petre27.biotechbalancedcapacitorgenes</li>
-    <li>petre27.biotechcapacitorgenes</li>
     <li>ebsg.framework</li>
     <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
     <li>veltaris.framework</li>
@@ -26,56 +23,35 @@
     <li>als.anomalygravship</li>
     <li>com.bymarcin.architecticons</li>
     <li>mrk.architectmenuoptimizer</li>
-    <li>cn.vge.qualitymoreeffective</li>
     <li>redmattis.bettergeneinheritance</li>
     <li>petre27.biotechbalancedcapacitorgenes</li>
     <li>petre27.biotechcapacitorgenes</li>
     <li>void.charactereditor</li>
+    <li>childrentraitsaffectlearning.mod</li>
     <li>edb.preparecarefully</li>
     <li>ebs.abilities</li>
+    <li>redmattis.geneextractor</li>
     <li>jamesthe1.rimworld.gitupdater</li>
     <li>sk.gravshipraids</li>
     <li>elsov.highborn</li>
+    <li>honorableorgans.mod</li>
     <li>garwel.ideologydevelopmentplus</li>
     <li>ferny.loadinbackground</li>
+    <li>mlem.metaadjusternew</li>
     <li>andromeda.milkyway</li>
     <li>astryl.moderncc</li>
     <li>kenx00x.moremaxmemes</li>
     <li>alleykat.persistentprecepts</li>
-    <li>neronix17.toolbox</li>
-    <li>vanillaexpanded.outposts</li>
-    <li>rockets.landonoutposts</li>
-    <li>vanillaracesexpanded.insector</li>
-    <li>vanillaexpanded.vgeneticsemorelabstuff</li>
-    <li>vanillaexpanded.vgeneticse</li>
-    <li>sarg.alphaanimals</li>
-    <li>who.vfee.isopodageneline</li>
-    <li>cn.vfei2swarmdisaster</li>
-    <li>hailuan.insect</li>
-    <li>reel.insectorfaction</li>
-    <li>lrb4.vanillaracesexpanded.insectorexpanded</li>
-    <li>oskarpotocki.vfe.insectoid2</li>
-    <li>vanillaracesexpanded.sanguophage</li>
-    <li>vanillaracesexpanded.saurid</li>
-    <li>vanillaracesexpanded.genie</li>
-    <li>vanillaracesexpanded.waster</li>
-    <li>redmattis.genenodes</li>
-    <li>redmattis.geneextractor</li>
     <li>alite.mechanitorshuttle</li>
     <li>alite.richexplorershuttle</li>
-    <li>elsov.highborn</li>
-    <li>ebsg.framework</li>
-    <li>childrentraitsaffectlearning.mod</li>
-    <li>honorableorgans.mod</li>
-    <li>redmattis.betterprerequisites</li>
-    <li>veltaris.framework</li>
-    <li>vanillaracesexpanded.insector</li>
-    <li>vanillaracesexpanded.waster</li>
+    <li>neronix17.toolbox</li>
     <li>carnysenpai.traitraritycolors</li>
     <li>vanillaexpanded.basegeneration</li>
     <li>vanillaexpanded.vchemfuele</li>
+    <li>oskarpotocki.vfe.insectoid2</li>
     <li>vanillaexpanded.gravship</li>
     <li>vanillaexpanded.vnutriente</li>
+    <li>vanillaexpanded.outposts</li>
     <li>vanillaracesexpanded.android</li>
     <li>vanillaracesexpanded.archon</li>
     <li>vanillaracesexpanded.customicons</li>
@@ -83,40 +59,49 @@
     <li>vanillaracesexpanded.genie</li>
     <li>vanillaracesexpanded.highmate</li>
     <li>vanillaracesexpanded.hussar</li>
-    <li>vanillaracesexpanded.insector</li>
     <li>vanillaracesexpanded.lycanthrope</li>
     <li>vanillaracesexpanded.phytokin</li>
     <li>vanillaracesexpanded.pigskin</li>
     <li>vanillaracesexpanded.sanguophage</li>
     <li>vanillaracesexpanded.saurid</li>
     <li>vanillaracesexpanded.starjack</li>
-    <li>ferny.worldbuilder</li>
     <li>vanillaracesexpanded.waster</li>
+    <li>ferny.worldbuilder</li>
     <li>zhuma.xenotypesummary</li>
     <li>veltaris.xenos</li>
     <li>btd.remix.gravshipblueprints</li>
-    <li>sarg.alphagenes</li>
     <li>hlx.ultratechalteredcarbon</li>
     <li>petre27.biotechcapacitorgenesextra</li>
     <li>als.biotechgravship</li>
     <li>chtech.core</li>
     <li>ebsg.aio</li>
+    <li>redmattis.genenodes</li>
     <li>asunib.gravshipfleet</li>
+    <li>hailuan.insect</li>
     <li>morebiotechstylegenes.mod</li>
     <li>lts.mgw</li>
     <li>andromeda.niceresearchtab</li>
     <li>ferny.progressionstorytellers</li>
     <li>ferny.progressionworlds</li>
+    <li>cn.vfei2swarmdisaster</li>
     <li>soa.compactworkbenches</li>
     <li>mrhydralisk.vnpereimaginedprogression</li>
+    <li>vanillaracesexpanded.insector</li>
+    <li>sarg.alphaanimals</li>
     <li>asunib.gravshipvoyage</li>
-    <li>ferny.progressionscenarios</li>
-    <li>ferny.progressiongravship</li>
+    <li>who.vfee.isopodageneline</li>
+    <li>reel.insectorfaction</li>
+    <li>lrb4.vanillaracesexpanded.insectorexpanded</li>
+    <li>sarg.alphagenes</li>
+    <li>vanillaexpanded.vgeneticse</li>
     <li>kupa.alphagenesintegrated</li>
-    <li>ferny.betterarchitect</li>
     <li>ebsg.archite</li>
-    <li>asunib.gravshipvoyage</li>
+    <li>ferny.progressionscenarios</li>
+    <li>vanillaexpanded.vgeneticsemorelabstuff</li>
+    <li>cn.vge.qualitymoreeffective</li>
+    <li>ferny.progressiongravship</li>
     <li>chtech.rimworldextended.main</li>
+    <li>ferny.betterarchitect</li>
     <li>co.uk.epicguru.whatsthatmod</li>
   </activeMods>
   <knownExpansions>
