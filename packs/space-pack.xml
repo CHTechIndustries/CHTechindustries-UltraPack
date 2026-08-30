@@ -10,6 +10,7 @@
     <li>ludeon.rimworld.biotech</li>
     <li>ludeon.rimworld.anomaly</li>
     <li>ludeon.rimworld.odyssey</li>
+    <li>adaptive.storage.framework</li>
     <li>redmattis.betterprerequisites</li>
     <li>unlimitedhugs.hugslib</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
@@ -50,17 +51,19 @@
     <li>ferny.loadinbackground</li>
     <li>mlem.metaadjusternew</li>
     <li>andromeda.milkyway</li>
-    <li>astryl.moderncc</li>
     <li>kenx00x.moremaxmemes</li>
     <li>nakomaru.nutritiongenes</li>
     <li>alleykat.persistentprecepts</li>
     <li>mortstrudel.mortideology</li>
+    <li>ferny.progressionhospitality</li>
+    <li>ferny.replacelib</li>
     <li>alite.mechanitorshuttle</li>
     <li>alite.richexplorershuttle</li>
     <li>neronix17.toolbox</li>
     <li>childrenlearning.technology</li>
     <li>carnysenpai.traitraritycolors</li>
     <li>vanillaexpanded.basegeneration</li>
+    <li>vanillaexpanded.vbookse</li>
     <li>vanillaexpanded.vchemfuele</li>
     <li>oskarpotocki.vfe.classical</li>
     <li>oskarpotocki.vfe.empire</li>
@@ -108,11 +111,14 @@
     <li>redmattis.genenodes</li>
     <li>asunib.gravshipfleet</li>
     <li>hailuan.insect</li>
-    <li>morebiotechstylegenes.mod</li>
     <li>turnovus.biotech.integratedxenotypes</li>
+    <li>astryl.moderncc</li>
+    <li>morebiotechstylegenes.mod</li>
     <li>lts.mgw</li>
     <li>andromeda.niceresearchtab</li>
     <li>ferny.nofactoryfloorrequirement</li>
+    <li>ferny.progressionfantasy</li>
+    <li>ferny.progressionrobotics2</li>
     <li>ferny.progressiontemperature</li>
     <li>ferny.progressionworlds</li>
     <li>ferny.removebadhygienewiki</li>
@@ -130,16 +136,29 @@
     <li>reel.insectorfaction</li>
     <li>lrb4.vanillaracesexpanded.insectorexpanded</li>
     <li>sarg.alphagenes</li>
+    <li>ferny.progressionhives</li>
     <li>vanillaexpanded.vgeneticse</li>
     <li>kupa.alphagenesintegrated</li>
     <li>dbh.drinkpatches1.6fix</li>
     <li>ebsg.archite</li>
-    <li>ferny.progressionscenarios</li>
+    <li>ferny.progressionagriculture</li>
+    <li>ferny.progressionattire</li>
+    <li>ferny.progressiondrugs</li>
+    <li>ferny.progressionfurniture</li>
     <li>vanillaexpanded.vgeneticsemorelabstuff</li>
     <li>cn.vge.qualitymoreeffective</li>
-    <li>ferny.progressiongravship</li>
+    <li>ferny.progressioncore</li>
+    <li>ferny.progressiongenetics</li>
+    <li>ferny.progressionstorage</li>
     <li>chtech.rimworldextended.main</li>
+    <li>ferny.progressionkitchen</li>
+    <li>ferny.progressionproduction</li>
+    <li>ferny.progressionwarfare</li>
+    <li>ferny.progressionscenarios</li>
+    <li>ferny.progressioneducation</li>
+    <li>ferny.progressiongravship</li>
     <li>ferny.betterarchitect</li>
+    <li>ferny.progressiontherapy</li>
     <li>co.uk.epicguru.whatsthatmod</li>
   </activeMods>
   <knownExpansions>
