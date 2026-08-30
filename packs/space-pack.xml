@@ -13,10 +13,6 @@
     <li>adaptive.storage.framework</li>
     <li>redmattis.betterprerequisites</li>
     <li>unlimitedhugs.hugslib</li>
-    <li>wvc.sergkart.qolpatches</li>
-    <li>wvc.sergkart.ultraexpansion</li>
-    <li>wvc.sergkart.biotech.moremechanoidsworkmodes</li>
-    <li>wvc.sergkart.races.biotech</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>ebsg.framework</li>
     <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
@@ -39,6 +35,7 @@
     <li>zaryuarm.mod</li>
     <li>thathitmann.balthazarbiotech</li>
     <li>redmattis.bettergeneinheritance</li>
+    <li>redstonepanda.bettermechrank</li>
     <li>petre27.biotechbalancedcapacitorgenes</li>
     <li>petre27.biotechcapacitorgenes</li>
     <li>swiftspectral.booksplus</li>
@@ -61,6 +58,7 @@
     <li>sariusskelrets.hemocapacity</li>
     <li>elsov.highborn</li>
     <li>honorableorgans.mod</li>
+    <li>pal5k.huntermechanoid</li>
     <li>thathitmann.ianaideology</li>
     <li>garwel.ideologydevelopmentplus</li>
     <li>turnovus.biotech.integratedgenes</li>
@@ -99,7 +97,6 @@
     <li>teiwaz.uws</li>
     <li>alite.mechanitorshuttle</li>
     <li>alite.richexplorershuttle</li>
-    <li>sov.det.surrogatemech</li>
     <li>neronix17.toolbox</li>
     <li>childrenlearning.technology</li>
     <li>carnysenpai.traitraritycolors</li>
@@ -111,10 +108,6 @@
     <li>oskarpotocki.vfe.classical</li>
     <li>oskarpotocki.vfe.empire</li>
     <li>oskarpotocki.vfe.insectoid2</li>
-    <li>aludisnhg.assemblechips</li>
-    <li>nyar.nclvstw</li>
-    <li>redstonepanda.bettermechrank</li>
-    <li>pal5k.huntermechanoid</li>
     <li>oskarpotocki.vfe.medieval2</li>
     <li>oskarpotocki.vfe.tribals</li>
     <li>vanillaexpanded.vfefactory</li>
@@ -156,7 +149,7 @@
     <li>vanillaexpanded.vwetb</li>
     <li>ferny.victorveto</li>
     <li>ferny.worldbuilder</li>
-    <li>wvc.sergkart.races.biotech</li>
+    <li>wvc.sergkart.ultraexpansion</li>
     <li>zhuma.xenotypesummary</li>
     <li>veltaris.xenos</li>
     <li>veltaris.kosmian</li>
@@ -205,9 +198,11 @@
     <li>vanillaexpanded.vwehw</li>
     <li>vanillaexpanded.vwel</li>
     <li>vanillaexpanded.vweq</li>
+    <li>aludisnhg.assemblechips</li>
     <li>aranmaho.rangerclass</li>
     <li>slug.vpecurses1</li>
     <li>slug.vpeleak1</li>
+    <li>wvc.sergkart.races.biotech</li>
     <li>proximo.zealousinnocence</li>
     <li>veltaris.mechstations</li>
     <li>veltaris.mechqueen</li>
@@ -215,19 +210,23 @@
     <li>gogatio.mechanoidupgrades.archotech</li>
     <li>twm.mjuwe</li>
     <li>ferny.progressionfactories</li>
-    <li>ferny.progressionrobotics2</li>
     <li>oskarpotocki.vfe.pirates</li>
     <li>vanillaexpanded.vweft</li>
     <li>zal.heavyweaponsreloading</li>
+    <li>wvc.sergkart.qolpatches</li>
     <li>hlx.ultratechalteredcarbon</li>
     <li>ferny.progressionstorytellers</li>
     <li>vanillaracesexpanded.insector</li>
+    <li>wvc.sergkart.biotech.moremechanoidsworkmodes</li>
     <li>sarg.alphaanimals</li>
     <li>who.vfee.isopodageneline</li>
+    <li>nyar.nclvstw</li>
     <li>reel.insectorfaction</li>
+    <li>sov.det.surrogatemech</li>
     <li>lrb4.vanillaracesexpanded.insectorexpanded</li>
     <li>sarg.alphagenes</li>
     <li>ferny.progressionhives</li>
+    <li>ferny.progressionrobotics2</li>
     <li>vanillaexpanded.vgeneticse</li>
     <li>kupa.alphagenesintegrated</li>
     <li>dbh.drinkpatches1.6fix</li>
