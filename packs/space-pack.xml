@@ -46,7 +46,6 @@
     <li>ferny.fucklearninghelper</li>
     <li>redmattis.geneextractor</li>
     <li>jamesthe1.rimworld.gitupdater</li>
-    <li>thathitmann.nanomachinefoundry</li>
     <li>sk.gravshipraids</li>
     <li>sariusskelrets.hemocapacity</li>
     <li>elsov.highborn</li>
@@ -61,6 +60,7 @@
     <li>andromeda.milkyway</li>
     <li>ferny.mojavemask</li>
     <li>kenx00x.moremaxmemes</li>
+    <li>thathitmann.nanomachinefoundry</li>
     <li>nakomaru.nutritiongenes</li>
     <li>alleykat.persistentprecepts</li>
     <li>ferny.petoprogression</li>
@@ -69,19 +69,6 @@
     <li>thathitmann.reginaldroyalty</li>
     <li>ferny.replacelib</li>
     <li>ferny.rominaready</li>
-    <li>zal.heavyweaponsreloading</li>
-    <li>vanillaexpanded.vwems</li>
-    <li>vanillaexpanded.vwebf</li>
-    <li>vanillaexpanded.vpersonaweaponse</li>
-    <li>vanillaexpanded.vwenl</li>
-    <li>vanillaexpanded.vwetb</li>
-    <li>vanillaexpanded.vweft</li>
-    <li>vanillaexpanded.vwec</li>
-    <li>vanillaexpanded.vwehw</li>
-    <li>vanillaexpanded.vweq</li>
-    <li>vanillaexpanded.vweg</li>
-    <li>vanillaexpanded.vwel</li>
-    <li>vanillaexpanded.vwe</li>
     <li>vc.savestorytellersettings</li>
     <li>alite.mechanitorshuttle</li>
     <li>alite.richexplorershuttle</li>
@@ -97,6 +84,7 @@
     <li>oskarpotocki.vfe.medieval2</li>
     <li>oskarpotocki.vfe.tribals</li>
     <li>vanillaexpanded.vfefactory</li>
+    <li>vanillaexpanded.vfefarming</li>
     <li>vanillaexpanded.gravship</li>
     <li>vanillaexpanded.vnutriente</li>
     <li>vanillaexpanded.outposts</li>
@@ -123,6 +111,13 @@
     <li>vse.perrypersistent</li>
     <li>vanillastorytellersexpanded.winstonwave</li>
     <li>vanillaexpanded.temperature</li>
+    <li>vanillaexpanded.vwe</li>
+    <li>vanillaexpanded.vwebf</li>
+    <li>vanillaexpanded.vwec</li>
+    <li>vanillaexpanded.vweg</li>
+    <li>vanillaexpanded.vwems</li>
+    <li>vanillaexpanded.vwenl</li>
+    <li>vanillaexpanded.vwetb</li>
     <li>ferny.victorveto</li>
     <li>ferny.worldbuilder</li>
     <li>zhuma.xenotypesummary</li>
@@ -131,8 +126,6 @@
     <li>btd.remix.gravshipblueprints</li>
     <li>seanbeag.allveepermits</li>
     <li>sarg.alphamechs</li>
-    <li>sarg.alphamechs</li>
-    <li>hlx.ultratechalteredcarbon</li>
     <li>petre27.biotechcapacitorgenesextra</li>
     <li>als.biotechgravship</li>
     <li>chtech.core</li>
@@ -157,12 +150,13 @@
     <li>cn.vfei2swarmdisaster</li>
     <li>soa.compactworkbenches</li>
     <li>mrhydralisk.vnpereimaginedprogression</li>
-    <li>vanillaracesexpanded.archon</li>
     <li>vanillaexpanded.vpe.hemosage</li>
     <li>vanillaexpanded.vpe.puppeteer</li>
     <li>chairheir.vperunesmith</li>
     <li>vanillaracesexpanded.archon</li>
-    <li>vanillaracesexpanded.insector</li>
+    <li>vanillaexpanded.vwehw</li>
+    <li>vanillaexpanded.vwel</li>
+    <li>vanillaexpanded.vweq</li>
     <li>aranmaho.rangerclass</li>
     <li>slug.vpecurses1</li>
     <li>slug.vpeleak1</li>
@@ -171,8 +165,9 @@
     <li>ferny.progressionfactories</li>
     <li>ferny.progressionrobotics2</li>
     <li>oskarpotocki.vfe.pirates</li>
+    <li>vanillaexpanded.vweft</li>
+    <li>zal.heavyweaponsreloading</li>
     <li>hlx.ultratechalteredcarbon</li>
-    <li>ferny.progressionrobotics2</li>
     <li>ferny.progressionstorytellers</li>
     <li>vanillaracesexpanded.insector</li>
     <li>sarg.alphaanimals</li>
@@ -193,7 +188,6 @@
     <li>cn.vge.qualitymoreeffective</li>
     <li>ferny.progressioncore</li>
     <li>ferny.progressiongenetics</li>
-    <li>vanillaexpanded.vfefarming</li>
     <li>ferny.progressionstorage</li>
     <li>chtech.rimworldextended.main</li>
     <li>ferny.progressionkitchen</li>
