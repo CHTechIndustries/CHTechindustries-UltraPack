@@ -13,10 +13,19 @@
     <li>adaptive.storage.framework</li>
     <li>redmattis.betterprerequisites</li>
     <li>unlimitedhugs.hugslib</li>
+    <li>wyr3d.seperatemechcraft</li>
+    <li>mrhydralisk.forgetfulmechresurrection</li>
+    <li>zoarak.mechplat</li>
+    <li>meteores.mechanitorburden.mb</li>
+    <li>makinglovetomy.warqueenmechwife.allnightlong</li>
+    <li>samael.npcmechsandanimals</li>
+    <li>witek.fabricorscanrepairmechs</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>ebsg.framework</li>
     <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
+    <li>veltaris.dynamiccombatmode</li>
     <li>veltaris.framework</li>
+    <li>veltaris.noblinking</li>
     <li>ferny.alfredancient</li>
     <li>superniquito.allideoligionsarefluid</li>
     <li>sarg.alphaarmoury</li>
@@ -30,8 +39,10 @@
     <li>mrk.architectmenuoptimizer</li>
     <li>hopeseekr.betterrimworlds.zpm</li>
     <li>thathitmann.asheanomaly</li>
+    <li>zaryuarm.mod</li>
     <li>thathitmann.balthazarbiotech</li>
     <li>redmattis.bettergeneinheritance</li>
+    <li>redstonepanda.bettermechrank</li>
     <li>petre27.biotechbalancedcapacitorgenes</li>
     <li>petre27.biotechcapacitorgenes</li>
     <li>swiftspectral.booksplus</li>
@@ -41,6 +52,7 @@
     <li>childrencanlearnfast.mod</li>
     <li>childrentraitsaffectlearning.mod</li>
     <li>ferny.danniedouble</li>
+    <li>amethysttheotter.diversemechanoidwarprocedure</li>
     <li>dubwise.dubsbadhygiene</li>
     <li>mlie.dynamiccarryingcapacity</li>
     <li>edb.preparecarefully</li>
@@ -53,19 +65,28 @@
     <li>sariusskelrets.hemocapacity</li>
     <li>elsov.highborn</li>
     <li>honorableorgans.mod</li>
+    <li>pal5k.huntermechanoid</li>
     <li>thathitmann.ianaideology</li>
     <li>garwel.ideologydevelopmentplus</li>
     <li>turnovus.biotech.integratedgenes</li>
     <li>lts.i</li>
     <li>ferny.loadinbackground</li>
+    <li>pal5k.logisticsmechanoid</li>
+    <li>lyinlen.mechtheraphosidae</li>
+    <li>spacemoth.mechtab</li>
     <li>lts.msmd</li>
     <li>romanov.mechanitedrugs</li>
+    <li>sinigang.mechanitororbitaltrader</li>
+    <li>el.invmech</li>
+    <li>gogatio.mechanoidupgrades</li>
+    <li>fxz.mechbeatfire</li>
     <li>mlem.metaadjusternew</li>
     <li>migcorp.skiptech</li>
     <li>andromeda.milkyway</li>
     <li>ferny.mojavemask</li>
     <li>kenx00x.moremaxmemes</li>
     <li>metalocif.moreuniquetraits</li>
+    <li>thatthing.mycohazard</li>
     <li>thathitmann.nanomachinefoundry</li>
     <li>nakomaru.nutritiongenes</li>
     <li>alleykat.persistentprecepts</li>
@@ -73,8 +94,11 @@
     <li>ferny.petoprogression</li>
     <li>mortstrudel.mortideology</li>
     <li>ferny.progressionhospitality</li>
+    <li>amro.ritualmechanoids</li>
     <li>thathitmann.reginaldroyalty</li>
+    <li>mlie.reinforcedmechanoid2</li>
     <li>ferny.replacelib</li>
+    <li>dakkpasserida.gauranlenreplant</li>
     <li>ferny.rominaready</li>
     <li>vc.savestorytellersettings</li>
     <li>teiwaz.uws</li>
@@ -96,9 +120,11 @@
     <li>vanillaexpanded.vfefactory</li>
     <li>vanillaexpanded.vfefarming</li>
     <li>vanillaexpanded.gravship</li>
+    <li>vanillaexpanded.ideo.dryads</li>
     <li>vanillaexpanded.vnutriente</li>
     <li>vanillaexpanded.outposts</li>
     <li>vanillaexpanded.vpersonaweaponse</li>
+    <li>vanillaexpanded.vplantsemushrooms</li>
     <li>vanillaexpanded.vpsycastse</li>
     <li>vanillaquestsexpanded.ancients</li>
     <li>vanillaquestsexpanded.cryptoforge</li>
@@ -130,9 +156,16 @@
     <li>vanillaexpanded.vwetb</li>
     <li>ferny.victorveto</li>
     <li>ferny.worldbuilder</li>
+    <li>wvc.sergkart.ultraexpansion</li>
     <li>zhuma.xenotypesummary</li>
     <li>veltaris.xenos</li>
     <li>veltaris.kosmian</li>
+    <li>veltaris.mechcrate</li>
+    <li>veltaris.mechanoidskins</li>
+    <li>veltaris.mechtech</li>
+    <li>veltaris.spacesolar</li>
+    <li>veltaris.wastecollector</li>
+    <li>veltaris.animamechlink</li>
     <li>btd.remix.gravshipblueprints</li>
     <li>seanbeag.allveepermits</li>
     <li>sarg.alphamechs</li>
@@ -148,6 +181,7 @@
     <li>hailuan.insect</li>
     <li>turnovus.biotech.integratedxenotypes</li>
     <li>chairheir.mechaniteplague</li>
+    <li>gogatio.mechanoidupgrades.anomaly</li>
     <li>astryl.moderncc</li>
     <li>morebiotechstylegenes.mod</li>
     <li>lts.mgw</li>
@@ -157,6 +191,8 @@
     <li>ferny.progressionfantasy</li>
     <li>ferny.progressiontemperature</li>
     <li>ferny.progressionworlds</li>
+    <li>eclair155.reinforcedmechanoid2extended</li>
+    <li>nota.bigfanof.rm2bloat</li>
     <li>ferny.removebadhygienewiki</li>
     <li>oskarpotocki.vfe.deserters</li>
     <li>cn.vfei2swarmdisaster</li>
@@ -169,26 +205,35 @@
     <li>vanillaexpanded.vwehw</li>
     <li>vanillaexpanded.vwel</li>
     <li>vanillaexpanded.vweq</li>
+    <li>aludisnhg.assemblechips</li>
     <li>aranmaho.rangerclass</li>
     <li>slug.vpecurses1</li>
     <li>slug.vpeleak1</li>
+    <li>wvc.sergkart.races.biotech</li>
     <li>proximo.zealousinnocence</li>
+    <li>veltaris.mechstations</li>
+    <li>veltaris.mechqueen</li>
     <li>asunib.gravshipvoyage</li>
+    <li>gogatio.mechanoidupgrades.archotech</li>
     <li>twm.mjuwe</li>
     <li>ferny.progressionfactories</li>
-    <li>ferny.progressionrobotics2</li>
     <li>oskarpotocki.vfe.pirates</li>
     <li>vanillaexpanded.vweft</li>
     <li>zal.heavyweaponsreloading</li>
+    <li>wvc.sergkart.qolpatches</li>
     <li>hlx.ultratechalteredcarbon</li>
     <li>ferny.progressionstorytellers</li>
     <li>vanillaracesexpanded.insector</li>
+    <li>wvc.sergkart.biotech.moremechanoidsworkmodes</li>
     <li>sarg.alphaanimals</li>
     <li>who.vfee.isopodageneline</li>
+    <li>nyar.nclvstw</li>
     <li>reel.insectorfaction</li>
+    <li>sov.det.surrogatemech</li>
     <li>lrb4.vanillaracesexpanded.insectorexpanded</li>
     <li>sarg.alphagenes</li>
     <li>ferny.progressionhives</li>
+    <li>ferny.progressionrobotics2</li>
     <li>vanillaexpanded.vgeneticse</li>
     <li>kupa.alphagenesintegrated</li>
     <li>dbh.drinkpatches1.6fix</li>
