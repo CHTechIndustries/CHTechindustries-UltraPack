@@ -22,7 +22,6 @@
     <li>sarg.rimbees</li>
     <li>sarg.alphabiomes</li>
     <li>sarg.alphabooks</li>
-    <li>sarg.alphamechs</li>
     <li>sarg.alphaprefabs</li>
     <li>ferny.alwayspositiongravshiponlanding</li>
     <li>als.anomalygravship</li>
@@ -58,11 +57,13 @@
     <li>lts.i</li>
     <li>ferny.loadinbackground</li>
     <li>mlem.metaadjusternew</li>
+    <li>migcorp.skiptech</li>
     <li>andromeda.milkyway</li>
     <li>ferny.mojavemask</li>
     <li>migcorp.skiptech</li>
     <li>astryl.moderncc</li>
     <li>kenx00x.moremaxmemes</li>
+    <li>thathitmann.nanomachinefoundry</li>
     <li>nakomaru.nutritiongenes</li>
     <li>arquebus.morepersonatraits</li>
     <li>metalocif.moreuniquetraits</li>
@@ -89,19 +90,20 @@
     <li>oskarpotocki.vfe.empire</li>
     <li>oskarpotocki.vfe.insectoid2</li>
     <li>oskarpotocki.vfe.medieval2</li>
-    <li>oskarpotocki.vfe.pirates</li>
     <li>oskarpotocki.vfe.tribals</li>
     <li>vanillaexpanded.vfefactory</li>
+    <li>vanillaexpanded.vfefarming</li>
     <li>vanillaexpanded.gravship</li>
     <li>vanillaexpanded.vnutriente</li>
     <li>vanillaexpanded.outposts</li>
+    <li>vanillaexpanded.vpersonaweaponse</li>
+    <li>vanillaexpanded.vpsycastse</li>
     <li>vanillaquestsexpanded.ancients</li>
     <li>vanillaquestsexpanded.cryptoforge</li>
     <li>vanillaquestsexpanded.deadlife</li>
     <li>vanillaquestsexpanded.dronefactory</li>
     <li>vanillaquestsexpanded.generator</li>
     <li>vanillaracesexpanded.android</li>
-    <li>vanillaracesexpanded.archon</li>
     <li>vanillaracesexpanded.customicons</li>
     <li>vanillaracesexpanded.fungoid</li>
     <li>vanillaracesexpanded.genie</li>
@@ -117,6 +119,13 @@
     <li>vse.perrypersistent</li>
     <li>vanillastorytellersexpanded.winstonwave</li>
     <li>vanillaexpanded.temperature</li>
+    <li>vanillaexpanded.vwe</li>
+    <li>vanillaexpanded.vwebf</li>
+    <li>vanillaexpanded.vwec</li>
+    <li>vanillaexpanded.vweg</li>
+    <li>vanillaexpanded.vwems</li>
+    <li>vanillaexpanded.vwenl</li>
+    <li>vanillaexpanded.vwetb</li>
     <li>ferny.victorveto</li>
     <li>ferny.worldbuilder</li>
     <li>zhuma.xenotypesummary</li>
@@ -124,11 +133,12 @@
     <li>veltaris.kosmian</li>
     <li>btd.remix.gravshipblueprints</li>
     <li>seanbeag.allveepermits</li>
-    <li>hlx.ultratechalteredcarbon</li>
+    <li>sarg.alphamechs</li>
     <li>petre27.biotechcapacitorgenesextra</li>
     <li>als.biotechgravship</li>
     <li>vanillaexpanded.vpersonaweaponse</li>
     <li>chtech.core</li>
+    <li>edern.combatpsycasts</li>
     <li>sariusskelrets.dbhgenes</li>
     <li>azrazalea.dbh.springwater.patch</li>
     <li>ebsg.aio</li>
@@ -142,7 +152,6 @@
     <li>andromeda.niceresearchtab</li>
     <li>ferny.nofactoryfloorrequirement</li>
     <li>ferny.progressionfantasy</li>
-    <li>ferny.progressionrobotics2</li>
     <li>ferny.progressiontemperature</li>
     <li>ferny.progressionworlds</li>
     <li>ferny.removebadhygienewiki</li>
@@ -150,13 +159,28 @@
     <li>cn.vfei2swarmdisaster</li>
     <li>soa.compactworkbenches</li>
     <li>mrhydralisk.vnpereimaginedprogression</li>
-    <li>vanillaracesexpanded.insector</li>
+    <li>vanillaexpanded.vpe.hemosage</li>
+    <li>vanillaexpanded.vpe.puppeteer</li>
+    <li>chairheir.vperunesmith</li>
+    <li>vanillaracesexpanded.archon</li>
+    <li>vanillaexpanded.vwehw</li>
+    <li>vanillaexpanded.vwel</li>
+    <li>vanillaexpanded.vweq</li>
+    <li>aranmaho.rangerclass</li>
+    <li>slug.vpecurses1</li>
+    <li>slug.vpeleak1</li>
     <li>proximo.zealousinnocence</li>
-    <li>sarg.alphaanimals</li>
     <li>asunib.gravshipvoyage</li>
-    <li>who.vfee.isopodageneline</li>
     <li>ferny.progressionfactories</li>
+    <li>ferny.progressionrobotics2</li>
+    <li>oskarpotocki.vfe.pirates</li>
+    <li>vanillaexpanded.vweft</li>
+    <li>zal.heavyweaponsreloading</li>
+    <li>hlx.ultratechalteredcarbon</li>
     <li>ferny.progressionstorytellers</li>
+    <li>vanillaracesexpanded.insector</li>
+    <li>sarg.alphaanimals</li>
+    <li>who.vfee.isopodageneline</li>
     <li>reel.insectorfaction</li>
     <li>lrb4.vanillaracesexpanded.insectorexpanded</li>
     <li>sarg.alphagenes</li>
