@@ -51,7 +51,6 @@
     <li>ferny.loadinbackground</li>
     <li>mlem.metaadjusternew</li>
     <li>andromeda.milkyway</li>
-    <li>astryl.moderncc</li>
     <li>kenx00x.moremaxmemes</li>
     <li>nakomaru.nutritiongenes</li>
     <li>alleykat.persistentprecepts</li>
@@ -113,10 +112,13 @@
     <li>asunib.gravshipfleet</li>
     <li>hailuan.insect</li>
     <li>turnovus.biotech.integratedxenotypes</li>
+    <li>astryl.moderncc</li>
     <li>morebiotechstylegenes.mod</li>
     <li>lts.mgw</li>
     <li>andromeda.niceresearchtab</li>
     <li>ferny.nofactoryfloorrequirement</li>
+    <li>ferny.progressionfantasy</li>
+    <li>ferny.progressionrobotics2</li>
     <li>ferny.progressiontemperature</li>
     <li>ferny.progressionworlds</li>
     <li>ferny.removebadhygienewiki</li>
@@ -149,6 +151,7 @@
     <li>ferny.progressiongenetics</li>
     <li>ferny.progressionstorage</li>
     <li>chtech.rimworldextended.main</li>
+    <li>ferny.progressionkitchen</li>
     <li>ferny.progressionproduction</li>
     <li>ferny.progressionwarfare</li>
     <li>ferny.progressionscenarios</li>
