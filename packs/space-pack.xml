@@ -88,6 +88,7 @@
     <li>vanillaexpanded.vnutriente</li>
     <li>vanillaexpanded.outposts</li>
     <li>vanillaexpanded.vpersonaweaponse</li>
+    <li>vanillaexpanded.vpsycastse</li>
     <li>vanillaquestsexpanded.ancients</li>
     <li>vanillaquestsexpanded.cryptoforge</li>
     <li>vanillaquestsexpanded.deadlife</li>
@@ -117,9 +118,12 @@
     <li>btd.remix.gravshipblueprints</li>
     <li>seanbeag.allveepermits</li>
     <li>sarg.alphamechs</li>
+    <li>sarg.alphamechs</li>
+    <li>hlx.ultratechalteredcarbon</li>
     <li>petre27.biotechcapacitorgenesextra</li>
     <li>als.biotechgravship</li>
     <li>chtech.core</li>
+    <li>edern.combatpsycasts</li>
     <li>sariusskelrets.dbhgenes</li>
     <li>azrazalea.dbh.springwater.patch</li>
     <li>ebsg.aio</li>
@@ -141,12 +145,21 @@
     <li>soa.compactworkbenches</li>
     <li>mrhydralisk.vnpereimaginedprogression</li>
     <li>vanillaracesexpanded.archon</li>
+    <li>vanillaexpanded.vpe.hemosage</li>
+    <li>vanillaexpanded.vpe.puppeteer</li>
+    <li>chairheir.vperunesmith</li>
+    <li>vanillaracesexpanded.archon</li>
+    <li>vanillaracesexpanded.insector</li>
+    <li>aranmaho.rangerclass</li>
+    <li>slug.vpecurses1</li>
+    <li>slug.vpeleak1</li>
     <li>proximo.zealousinnocence</li>
     <li>asunib.gravshipvoyage</li>
     <li>ferny.progressionfactories</li>
     <li>ferny.progressionrobotics2</li>
     <li>oskarpotocki.vfe.pirates</li>
     <li>hlx.ultratechalteredcarbon</li>
+    <li>ferny.progressionrobotics2</li>
     <li>ferny.progressionstorytellers</li>
     <li>vanillaracesexpanded.insector</li>
     <li>sarg.alphaanimals</li>
