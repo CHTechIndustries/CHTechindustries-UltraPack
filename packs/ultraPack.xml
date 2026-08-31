@@ -12,6 +12,7 @@
     <li>ludeon.rimworld.odyssey</li>
     <li>adaptive.storage.framework</li>
     <li>redmattis.betterprerequisites</li>
+    <li>smashphil.vehicleframework</li>
     <li>unlimitedhugs.hugslib</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>ebsg.framework</li>
@@ -182,6 +183,7 @@
     <li>vanillaexpanded.skills</li>
     <li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
     <li>vanillaexpanded.temperature</li>
+    <li>oskarpotocki.vanillavehiclesexpanded</li>
     <li>vanillaexpanded.vwebf</li>
     <li>vanillaexpanded.vwec</li>
     <li>vanillaexpanded.vweg</li>
@@ -247,10 +249,15 @@
     <li>soa.compactworkbenches</li>
     <li>mrhydralisk.vnpereimaginedprogression</li>
     <li>mrhydralisk.voeadditionaloutposts</li>
+    <li>rockets.landonoutposts</li>
     <li>vanillaexpanded.vplantsemore</li>
     <li>vanillaexpanded.vplantsemushrooms</li>
     <li>vanillaexpanded.vpsycastse</li>
+    <li>oskarpotocki.vanillavehiclesexpandedtier3</li>
+    <li>oskarpotocki.vanillavehiclesexpandedupgrades</li>
     <li>vanillaexpanded.vwe</li>
+    <li>spacemoth.vehicleneedsfix</li>
+    <li>oels.vehiclemapframework</li>
     <li>mx.waymakers</li>
     <li>wvc.sergkart.ultraexpansion</li>
     <li>proximo.zealousinnocence</li>
@@ -267,10 +274,12 @@
     <li>redmattis.dryads.greater</li>
     <li>als.gravtech.bc</li>
     <li>yabbyshabby.imperialfunctionality</li>
+    <li>oels.mapvehicles</li>
     <li>gogatio.mechanoidupgrades.archotech</li>
     <li>astryl.moderncc</li>
     <li>font.mountpassengers</li>
     <li>ferny.progressionfactories</li>
+    <li>kentington.saveourship2</li>
     <li>bambaryla.vcepu</li>
     <li>vanillaexpanded.vcookebakery</li>
     <li>vanillaexpanded.vcookehaute</li>
@@ -287,6 +296,7 @@
     <li>redmattis.dryads.greater</li>
     <li>twm.mjuwe</li>
     <li>ferny.progressionrobotics2</li>
+    <li>thamuzz.sos2bioship</li>
     <li>oskarpotocki.vfe.pirates</li>
     <li>vanillaexpanded.vweft</li>
     <li>wvc.sergkart.qolpatches</li>
