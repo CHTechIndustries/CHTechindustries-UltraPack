@@ -82,13 +82,11 @@
     <li>el.invmech</li>
     <li>gogatio.mechanoidupgrades</li>
     <li>andromeda.milkyway</li>
-    <li>astryl.moderncc</li>
     <li>kenx00x.moremaxmemes</li>
     <li>ferny.moveyourmonolith</li>
     <li>ferny.nameyourentities</li>
     <li>thathitmann.nanomachinefoundry</li>
     <li>gogatio.newanomalythreats</li>
-    <li>andromeda.nicehealthtab</li>
     <li>mrwireman.noconduit</li>
     <li>nakomaru.nutritiongenes</li>
     <li>orbital.books</li>
@@ -227,6 +225,7 @@
     <li>lts.mgw</li>
     <li>font.mountownership.core</li>
     <li>andromeda.nicebilltab</li>
+    <li>andromeda.nicehealthtab</li>
     <li>andromeda.niceinventorytab</li>
     <li>andromeda.niceplantsmenu</li>
     <li>ferny.nofactoryfloorrequirement</li>
@@ -265,11 +264,11 @@
     <li>chtech.core</li>
     <li>edern.combatpsycasts</li>
     <li>redmattis.dryads</li>
-    <li>redmattis.dryads.greater</li>
     <li>matathias.empire</li>
     <li>als.gravtech.bc</li>
     <li>yabbyshabby.imperialfunctionality</li>
     <li>gogatio.mechanoidupgrades.archotech</li>
+    <li>astryl.moderncc</li>
     <li>font.mountpassengers</li>
     <li>ferny.progressionfactories</li>
     <li>bambaryla.vcepu</li>
@@ -297,7 +296,6 @@
     <li>wvc.sergkart.biotech.moremechanoidsworkmodes</li>
     <li>hlx.ultratechalteredcarbon</li>
     <li>matathias.empirerefvoe</li>
-    <li>chtech.ems</li>
     <li>ferny.progressionstorytellers</li>
     <li>vanillaracesexpanded.insector</li>
     <li>sarg.alphaanimals</li>
