@@ -14,6 +14,11 @@
     <li>redmattis.betterprerequisites</li>
     <li>smashphil.vehicleframework</li>
     <li>unlimitedhugs.hugslib</li>
+    <li>biomesteam.geneticsmushkin</li>
+    <li>wvc.sergkart.races.biotech</li>
+    <li>resplice.xotr.core</li>
+    <li>resplice.xotr.charmweavers</li>
+    <li>kentington.saveourship2</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>ebsg.framework</li>
     <li>forevermarried.mod</li>
@@ -57,6 +62,9 @@
     <li>mortstrudel.mortideologyenv</li>
     <li>ferny.corpsedescriptionfix</li>
     <li>majesticmadman.craftabledeathrest</li>
+    <li>dimonsever000.ideologyheroes</li>
+    <li>dimonsever000.ideologyvirtues</li>
+    <li>childrentraitsaffectlearning.mod</li>
     <li>dimonsever000.ideologyheroes</li>
     <li>dimonsever000.ideologyvirtues</li>
     <li>childrentraitsaffectlearning.mod</li>
@@ -105,6 +113,14 @@
     <li>lts.msmd</li>
     <li>romanov.mechanitedrugs</li>
     <li>meteores.mechanitorburden.mb</li>
+    <li>zoarak.mechplat</li>
+    <li>sinigang.mechanitororbitaltrader</li>
+    <li>pal5k.logisticsmechanoid</li>
+    <li>lyinlen.mechtheraphosidae</li>
+    <li>spacemoth.mechtab</li>
+    <li>lts.msmd</li>
+    <li>romanov.mechanitedrugs</li>
+    <li>meteores.mechanitorburden.mb</li>
     <li>chtech.ems</li>
     <li>thamuzz.sos2bioship</li>
     <li>zoarak.mechplat</li>
@@ -138,6 +154,11 @@
     <li>powerful.gravshield</li>
     <li>lee.xenotypefloattodialogue</li>
     <li>ferny.progressionhospitality</li>
+    <li>ptei.leeh</li>
+    <li>amro.ritualmechanoids</li>
+    <li>rebuild.cotr.doorsandcorners</li>
+    <li>thathitmann.reginaldroyalty</li>
+    <li>mlie.reinforcedmechanoid2</li>
     <li>amro.ritualmechanoids</li>
     <li>rebuild.cotr.doorsandcorners</li>
     <li>thathitmann.reginaldroyalty</li>
@@ -204,6 +225,10 @@
     <li>vanillaexpanded.ideo.relicsandartifacts</li>
     <li>vanillaexpanded.ideo.sophianstyle</li>
     <li>vanillaexpanded.vexploratione</li>
+    <li>vanillaexpanded.viehar</li>
+    <li>vanillaexpanded.ideo.iconsandsymbols</li>
+    <li>vanillaexpanded.ideo.relicsandartifacts</li>
+    <li>vanillaexpanded.ideo.sophianstyle</li>
     <li>vanillaexpanded.vnutriente</li>
     <li>vanillaexpanded.outposts</li>
     <li>vanillaexpanded.vplantse</li>
@@ -236,6 +261,7 @@
     <li>vse.perrypersistent</li>
     <li>vanillastorytellersexpanded.winstonwave</li>
     <li>vanillaexpanded.temperature</li>
+    <li>vanillaexpanded.vwe</li>
     <li>oskarpotocki.vanillavehiclesexpanded</li>
     <li>vanillaexpanded.vwe</li>
     <li>vanillaexpanded.vwebf</li>
@@ -304,6 +330,9 @@
     <li>ferny.progressiontemperature</li>
     <li>ferny.progressionwarrants</li>
     <li>ferny.progressionworlds</li>
+    <li>rebuild.cotr.doorsandcorners</li>
+    <li>eclair155.reinforcedmechanoid2extended</li>
+    <li>nota.bigfanof.rm2bloat</li>
     <li>eclair155.reinforcedmechanoid2extended</li>
     <li>nota.bigfanof.rm2bloat</li>
     <li>ferny.removebadhygienewiki</li>
@@ -372,10 +401,19 @@
     <li>veltaris.mechstations</li>
     <li>veltaris.mechqueen</li>
     <li>redmattis.dryads.greater</li>
+    <li>proximo.zealousinnocence</li>
+    <li>veltaris.mechstations</li>
+    <li>veltaris.mechqueen</li>
+    <li>redmattis.dryads.greater</li>
+    <li>asunib.gravshipvoyage</li>
+    <li>gogatio.mechanoidupgrades.archotech</li>
     <li>asunib.gravshipvoyage</li>
     <li>gogatio.mechanoidupgrades.archotech</li>
     <li>twm.mjuwe</li>
     <li>ferny.progressionrobotics2</li>
+    <li>ferny.progressionfactories</li>
+    <li>ferny.progressionhospitality</li>
+    <li>ferny.progressiontemperature</li>
     <li>thamuzz.sos2bioship</li>
     <li>ferny.progressionfactories</li>
     <li>oskarpotocki.vfe.pirates</li>
@@ -402,15 +440,19 @@
     <li>vanillaexpanded.vmemese</li>
     <li>ferny.fleshbeasts</li>
     <li>hol.dragongenetics</li>
+    <li>vanillaexpanded.vmemese</li>
+    <li>kupa.alphagenesintegrated</li>
     <li>kupa.alphagenesintegrated</li>
     <li>dbh.drinkpatches1.6fix</li>
     <li>ebsg.archite</li>
     <li>ferny.propscore</li>
+    <li>makinglovetomy.warqueenmechwife.allnightlong</li>
     <li>ferny.progressionagriculture</li>
     <li>ferny.progressionattire</li>
     <li>ferny.progressiondrugs</li>
     <li>ferny.progressionfurniture</li>
     <li>stocksounds.anomalygenes</li>
+    <li>reel.insectorfaction</li>
     <li>vanillaexpanded.vgeneticsemorelabstuff</li>
     <li>cn.vge.qualitymoreeffective</li>
     <li>winglessflight.gene</li>
