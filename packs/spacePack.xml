@@ -13,10 +13,6 @@
     <li>adaptive.storage.framework</li>
     <li>redmattis.betterprerequisites</li>
     <li>unlimitedhugs.hugslib</li>
-    <li>biomesteam.geneticsmushkin</li>
-    <li>wvc.sergkart.races.biotech</li>
-    <li>resplice.xotr.core</li>
-    <li>resplice.xotr.charmweavers</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>ebsg.framework</li>
     <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
@@ -40,8 +36,10 @@
     <li>thathitmann.asheanomaly</li>
     <li>zaryuarm.mod</li>
     <li>thathitmann.balthazarbiotech</li>
+    <li>battiebear.battiepatch.regimented</li>
     <li>redmattis.bettergeneinheritance</li>
     <li>redstonepanda.bettermechrank</li>
+    <li>biomesteam.coreframework</li>
     <li>petre27.biotechbalancedcapacitorgenes</li>
     <li>petre27.biotechcapacitorgenes</li>
     <li>swiftspectral.booksplus</li>
@@ -50,6 +48,7 @@
     <li>ferny.chesterchoose</li>
     <li>childrencanlearnfast.mod</li>
     <li>childrentraitsaffectlearning.mod</li>
+    <li>mortstrudel.mortideologyenv</li>
     <li>dimonsever000.ideologyheroes</li>
     <li>dimonsever000.ideologyvirtues</li>
     <li>ferny.danniedouble</li>
@@ -71,6 +70,7 @@
     <li>pal5k.huntermechanoid</li>
     <li>thathitmann.ianaideology</li>
     <li>garwel.ideologydevelopmentplus</li>
+    <li>moretheistgods.mod</li>
     <li>turnovus.biotech.integratedgenes</li>
     <li>lts.i</li>
     <li>ferny.loadinbackground</li>
@@ -86,10 +86,12 @@
     <li>gogatio.mechanoidupgrades</li>
     <li>fxz.mechbeatfire</li>
     <li>samael.npcmechsandanimals</li>
+    <li>mortstrudel.mortideologyspecwork</li>
     <li>mlem.metaadjusternew</li>
     <li>migcorp.skiptech</li>
     <li>andromeda.milkyway</li>
     <li>ferny.mojavemask</li>
+    <li>superniquito.moreinformativeideology</li>
     <li>kenx00x.moremaxmemes</li>
     <li>metalocif.moreuniquetraits</li>
     <li>thatthing.mycohazard</li>
@@ -100,16 +102,21 @@
     <li>ferny.petoprogression</li>
     <li>mortstrudel.mortideology</li>
     <li>ptei.leeh</li>
+    <li>thegreatestpotato.primitivismmeme</li>
     <li>amro.ritualmechanoids</li>
+    <li>sirmashedpotato.questingmeme</li>
     <li>thathitmann.reginaldroyalty</li>
     <li>mlie.reinforcedmechanoid2</li>
     <li>ferny.replacelib</li>
     <li>dakkpasserida.gauranlenreplant</li>
+    <li>resplice.xotr.core</li>
     <li>ferny.rominaready</li>
     <li>vc.savestorytellersettings</li>
     <li>teiwaz.uws</li>
     <li>alite.mechanitorshuttle</li>
     <li>alite.richexplorershuttle</li>
+    <li>slaughteringmeme.rince</li>
+    <li>survivalistmeme.mp3</li>
     <li>neronix17.toolbox</li>
     <li>childrenlearning.technology</li>
     <li>carnysenpai.traitraritycolors</li>
@@ -183,6 +190,8 @@
     <li>btd.remix.gravshipblueprints</li>
     <li>seanbeag.allveepermits</li>
     <li>sarg.alphamechs</li>
+    <li>mrhydralisk.forgetfulmechresurrection</li>
+    <li>witek.fabricorscanrepairmechs</li>
     <li>petre27.biotechcapacitorgenesextra</li>
     <li>als.biotechgravship</li>
     <li>chtech.core</li>
@@ -192,6 +201,7 @@
     <li>azrazalea.dbh.springwater.patch</li>
     <li>ebsg.aio</li>
     <li>redmattis.genenodes</li>
+    <li>biomesteam.geneticsmushkin</li>
     <li>asunib.gravshipfleet</li>
     <li>hailuan.insect</li>
     <li>turnovus.biotech.integratedxenotypes</li>
@@ -209,6 +219,7 @@
     <li>eclair155.reinforcedmechanoid2extended</li>
     <li>nota.bigfanof.rm2bloat</li>
     <li>ferny.removebadhygienewiki</li>
+    <li>resplice.xotr.charmweavers</li>
     <li>oskarpotocki.vfe.deserters</li>
     <li>cn.vfei2swarmdisaster</li>
     <li>soa.compactworkbenches</li>
@@ -224,6 +235,7 @@
     <li>aranmaho.rangerclass</li>
     <li>slug.vpecurses1</li>
     <li>slug.vpeleak1</li>
+    <li>mx.waymakers</li>
     <li>wvc.sergkart.races.biotech</li>
     <li>proximo.zealousinnocence</li>
     <li>veltaris.mechstations</li>
@@ -257,6 +269,7 @@
     <li>dbh.drinkpatches1.6fix</li>
     <li>ebsg.archite</li>
     <li>makinglovetomy.warqueenmechwife.allnightlong</li>
+    <li>seti.millitarism</li>
     <li>ferny.progressionagriculture</li>
     <li>ferny.progressionattire</li>
     <li>ferny.progressiondrugs</li>
