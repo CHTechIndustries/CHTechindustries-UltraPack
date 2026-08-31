@@ -13,9 +13,6 @@
     <li>adaptive.storage.framework</li>
     <li>redmattis.betterprerequisites</li>
     <li>unlimitedhugs.hugslib</li>
-    <li>ushanka.hackingexpansion</li>
-    <li>ushanka.glittertechexpansion</li>
-    <li>ushanka.luciferiumexpansion</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>ebsg.framework</li>
     <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
@@ -111,6 +108,9 @@
     <li>carnysenpai.traitraritycolors</li>
     <li>shunter.uniquemeleeweapons</li>
     <li>shunter.uniqueweaponsunbound</li>
+    <li>ushanka.glittertechexpansion</li>
+    <li>ushanka.hackingexpansion</li>
+    <li>ushanka.luciferiumexpansion</li>
     <li>vanillaexpanded.basegeneration</li>
     <li>vanillaexpanded.vbookse</li>
     <li>vanillaexpanded.vchemfuele</li>
@@ -176,6 +176,7 @@
     <li>chtech.core</li>
     <li>edern.combatpsycasts</li>
     <li>sariusskelrets.dbhgenes</li>
+    <li>redmattis.dryads</li>
     <li>azrazalea.dbh.springwater.patch</li>
     <li>ebsg.aio</li>
     <li>redmattis.genenodes</li>
@@ -217,6 +218,7 @@
     <li>proximo.zealousinnocence</li>
     <li>veltaris.mechstations</li>
     <li>veltaris.mechqueen</li>
+    <li>redmattis.dryads.greater</li>
     <li>asunib.gravshipvoyage</li>
     <li>gogatio.mechanoidupgrades.archotech</li>
     <li>twm.mjuwe</li>
