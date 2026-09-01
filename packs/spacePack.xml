@@ -63,6 +63,7 @@
     <li>witek.fabricorscanrepairmechs</li>
     <li>mrhydralisk.forgetfulmechresurrection</li>
     <li>ferny.fucklearninghelper</li>
+    <li>sov.tenmo</li>
     <li>redmattis.geneextractor</li>
     <li>blackphoenix.gitm</li>
     <li>jamesthe1.rimworld.gitupdater</li>
@@ -77,6 +78,7 @@
     <li>moretheistgods.mod</li>
     <li>turnovus.biotech.integratedgenes</li>
     <li>lts.i</li>
+    <li>sovereign.kork</li>
     <li>ferny.loadinbackground</li>
     <li>pal5k.logisticsmechanoid</li>
     <li>lyinlen.mechtheraphosidae</li>
@@ -168,6 +170,7 @@
     <li>vanillaracesexpanded.saurid</li>
     <li>vanillaracesexpanded.starjack</li>
     <li>vanillaracesexpanded.waster</li>
+    <li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
     <li>vse.perrypersistent</li>
     <li>vanillastorytellersexpanded.winstonwave</li>
     <li>vanillaexpanded.temperature</li>
@@ -193,10 +196,12 @@
     <li>seanbeag.allveepermits</li>
     <li>sarg.alphamechs</li>
     <li>redmattis.bigsmall.core</li>
+    <li>jaeger972.vpe.betterrockconstructs</li>
     <li>petre27.biotechcapacitorgenesextra</li>
     <li>als.biotechgravship</li>
     <li>edern.combatpsycasts</li>
     <li>sariusskelrets.dbhgenes</li>
+    <li>redmattis.dryads</li>
     <li>azrazalea.dbh.springwater.patch</li>
     <li>ebsg.aio</li>
     <li>redmattis.genenodes</li>
@@ -232,8 +237,31 @@
     <li>vanillaexpanded.vwel</li>
     <li>vanillaexpanded.vweq</li>
     <li>aludisnhg.assemblechips</li>
+    <li>vpe.aeromancer.sentinel</li>
+    <li>vpe.anima.sentinel</li>
+    <li>vpe.arknights.sentinel</li>
+    <li>vpe.gauranlen.sentinel</li>
+    <li>vpe.biohazard.sentinel</li>
+    <li>vpe.blader.sentinel</li>
+    <li>vpe.bugmancer.sentinel</li>
+    <li>vpe.fleshshaper.sentinel</li>
+    <li>vpe.geomancer.sentinel</li>
+    <li>vpe.gravcaster.sentinel</li>
+    <li>vpe.horaxian.sentinel</li>
+    <li>vpe.hydromancer.sentinel</li>
+    <li>vpe.mechanitor.sentinel</li>
+    <li>sentinel.vpesettings</li>
+    <li>vpe.originium.sentinel</li>
+    <li>vpe.oripathy.sentinel</li>
+    <li>vpe.phaseshift.sentinel</li>
+    <li>jaeger972.vpe.psycastmentorship</li>
+    <li>vpe.ragnarok.sentinel</li>
     <li>aranmaho.rangerclass</li>
+    <li>vpe.framework.sentinel</li>
+    <li>vpe.umbra.sentinel</li>
     <li>slug.vpecurses1</li>
+    <li>getdonkedon.psycostgear</li>
+    <li>jaeger972.vpelastingskeletons</li>
     <li>slug.vpeleak1</li>
     <li>mx.waymakers</li>
     <li>wvc.sergkart.ultraexpansion</li>
@@ -241,7 +269,7 @@
     <li>veltaris.mechstations</li>
     <li>veltaris.mechqueen</li>
     <li>chtech.core</li>
-    <li>redmattis.dryads</li>
+    <li>redmattis.dryads.greater</li>
     <li>asunib.gravshipvoyage</li>
     <li>gogatio.mechanoidupgrades.archotech</li>
     <li>twm.mjuwe</li>
@@ -251,9 +279,14 @@
     <li>oskarpotocki.vfe.pirates</li>
     <li>vanillaexpanded.vweft</li>
     <li>zal.heavyweaponsreloading</li>
+    <li>vpe.deadlife.sentinel</li>
+    <li>vpe.luminis.sentinel</li>
+    <li>vpe.neurophage.sentinel</li>
+    <li>vpe.pyromancer.sentinel</li>
+    <li>vpe.veincaster.sentinel</li>
+    <li>vpe.voidweaver.sentinel</li>
     <li>wvc.sergkart.races.biotech</li>
     <li>hlx.ultratechalteredcarbon</li>
-    <li>redmattis.dryads.greater</li>
     <li>ferny.progressionstorytellers</li>
     <li>vanillaracesexpanded.insector</li>
     <li>wvc.sergkart.qolpatches</li>
@@ -274,6 +307,7 @@
     <li>ebsg.archite</li>
     <li>makinglovetomy.warqueenmechwife.allnightlong</li>
     <li>seti.millitarism</li>
+    <li>obsidiaexpansion.core</li>
     <li>ferny.progressionagriculture</li>
     <li>ferny.progressionattire</li>
     <li>ferny.progressiondrugs</li>
@@ -281,6 +315,10 @@
     <li>reel.insectorfaction</li>
     <li>vanillaexpanded.vgeneticsemorelabstuff</li>
     <li>cn.vge.qualitymoreeffective</li>
+    <li>obsidiaexpansion.ideology.icons</li>
+    <li>obsidiaexpansion.ideology.stylepack</li>
+    <li>obsidiaexpansion.modular.weapontraits</li>
+    <li>obsidiaexpansion.modular.backstories</li>
     <li>ferny.progressioncore</li>
     <li>ferny.progressiongenetics</li>
     <li>ferny.progressionstorage</li>
