@@ -37,6 +37,7 @@
     <li>zaryuarm.mod</li>
     <li>thathitmann.balthazarbiotech</li>
     <li>battiebear.battiepatch.regimented</li>
+    <li>elsov.beliar</li>
     <li>redmattis.bettergeneinheritance</li>
     <li>redstonepanda.bettermechrank</li>
     <li>biomesteam.coreframework</li>
@@ -49,6 +50,7 @@
     <li>childrencanlearnfast.mod</li>
     <li>childrentraitsaffectlearning.mod</li>
     <li>mortstrudel.mortideologyenv</li>
+    <li>dimonsever000.elderhoodbackstory</li>
     <li>dimonsever000.ideologyheroes</li>
     <li>dimonsever000.ideologyvirtues</li>
     <li>ferny.danniedouble</li>
@@ -59,10 +61,14 @@
     <li>edb.preparecarefully</li>
     <li>mortstrudel.mortideologyscifai</li>
     <li>ebs.abilities</li>
+    <li>witek.fabricorscanrepairmechs</li>
+    <li>mrhydralisk.forgetfulmechresurrection</li>
     <li>ferny.fucklearninghelper</li>
+    <li>sov.tenmo</li>
     <li>redmattis.geneextractor</li>
     <li>blackphoenix.gitm</li>
     <li>jamesthe1.rimworld.gitupdater</li>
+    <li>sov.goliann</li>
     <li>sk.gravshipraids</li>
     <li>sariusskelrets.hemocapacity</li>
     <li>elsov.highborn</li>
@@ -74,6 +80,8 @@
     <li>moretheistgods.mod</li>
     <li>turnovus.biotech.integratedgenes</li>
     <li>lts.i</li>
+    <li>sovereign.chipchipchip</li>
+    <li>sovereign.kork</li>
     <li>ferny.loadinbackground</li>
     <li>pal5k.logisticsmechanoid</li>
     <li>lyinlen.mechtheraphosidae</li>
@@ -92,6 +100,7 @@
     <li>migcorp.skiptech</li>
     <li>andromeda.milkyway</li>
     <li>ferny.mojavemask</li>
+    <li>sov.tengri</li>
     <li>superniquito.moreinformativeideology</li>
     <li>kenx00x.moremaxmemes</li>
     <li>metalocif.moreuniquetraits</li>
@@ -165,6 +174,7 @@
     <li>vanillaracesexpanded.saurid</li>
     <li>vanillaracesexpanded.starjack</li>
     <li>vanillaracesexpanded.waster</li>
+    <li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
     <li>vse.perrypersistent</li>
     <li>vanillastorytellersexpanded.winstonwave</li>
     <li>vanillaexpanded.temperature</li>
@@ -189,14 +199,11 @@
     <li>btd.remix.gravshipblueprints</li>
     <li>seanbeag.allveepermits</li>
     <li>sarg.alphamechs</li>
-    <li>dimonsever000.elderhoodbackstory</li>
-    <li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
-    <li>mrhydralisk.forgetfulmechresurrection</li>
-    <li>witek.fabricorscanrepairmechs</li>
     <li>petre27.biotechcapacitorgenesextra</li>
     <li>als.biotechgravship</li>
     <li>edern.combatpsycasts</li>
     <li>sariusskelrets.dbhgenes</li>
+    <li>redmattis.dryads</li>
     <li>azrazalea.dbh.springwater.patch</li>
     <li>ebsg.aio</li>
     <li>redmattis.genenodes</li>
@@ -241,7 +248,7 @@
     <li>veltaris.mechstations</li>
     <li>veltaris.mechqueen</li>
     <li>chtech.core</li>
-    <li>redmattis.dryads</li>
+    <li>redmattis.dryads.greater</li>
     <li>asunib.gravshipvoyage</li>
     <li>gogatio.mechanoidupgrades.archotech</li>
     <li>twm.mjuwe</li>
@@ -253,7 +260,6 @@
     <li>zal.heavyweaponsreloading</li>
     <li>wvc.sergkart.races.biotech</li>
     <li>hlx.ultratechalteredcarbon</li>
-    <li>redmattis.dryads.greater</li>
     <li>ferny.progressionstorytellers</li>
     <li>vanillaracesexpanded.insector</li>
     <li>wvc.sergkart.qolpatches</li>
