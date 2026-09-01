@@ -29,7 +29,6 @@
     <li>sarg.alphamemes</li>
     <li>sarg.alphaprefabs</li>
     <li>ferny.alwayspositiongravshiponlanding</li>
-    <li>als.anomalygravship</li>
     <li>com.bymarcin.architecticons</li>
     <li>mrk.architectmenuoptimizer</li>
     <li>hopeseekr.betterrimworlds.zpm</li>
@@ -102,7 +101,9 @@
     <li>metalocif.moreuniquetraits</li>
     <li>thatthing.mycohazard</li>
     <li>thathitmann.nanomachinefoundry</li>
+    <li>mrwireman.noconduit</li>
     <li>nakomaru.nutritiongenes</li>
+    <li>hailuan.patchship</li>
     <li>alleykat.persistentprecepts</li>
     <li>shunter.personaweaponsunbound</li>
     <li>ferny.petoprogression</li>
@@ -198,14 +199,16 @@
     <li>jaeger972.vpe.betterrockconstructs</li>
     <li>redmattis.bigsmall.core</li>
     <li>petre27.biotechcapacitorgenesextra</li>
-    <li>als.biotechgravship</li>
     <li>edern.combatpsycasts</li>
     <li>sariusskelrets.dbhgenes</li>
     <li>azrazalea.dbh.springwater.patch</li>
+    <li>kitty.dubsbadhygieneodysseyaddon</li>
     <li>ebsg.aio</li>
     <li>redmattis.genenodes</li>
     <li>biomesteam.geneticsmushkin</li>
     <li>asunib.gravshipfleet</li>
+    <li>tefnut.gravship.water.systems</li>
+    <li>als.gravtech</li>
     <li>hailuan.insect</li>
     <li>turnovus.biotech.integratedxenotypes</li>
     <li>chairheir.mechaniteplague</li>
@@ -266,9 +269,12 @@
     <li>proximo.zealousinnocence</li>
     <li>veltaris.mechstations</li>
     <li>veltaris.mechqueen</li>
+    <li>als.anomalygravship</li>
+    <li>als.biotechgravship</li>
     <li>chtech.core</li>
     <li>redmattis.dryads</li>
     <li>asunib.gravshipvoyage</li>
+    <li>als.gravtech.bc</li>
     <li>gogatio.mechanoidupgrades.archotech</li>
     <li>twm.mjuwe</li>
     <li>ferny.progressionfactories</li>
