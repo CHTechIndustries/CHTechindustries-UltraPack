@@ -19,8 +19,10 @@
     <li>veltaris.dynamiccombatmode</li>
     <li>veltaris.framework</li>
     <li>veltaris.noblinking</li>
+    <li>tw.tangsbiome.rainbowforest</li>
     <li>wyr3d.seperatemechcraft</li>
     <li>ferny.alfredancient</li>
+    <li>7f.alienworlds</li>
     <li>superniquito.allideoligionsarefluid</li>
     <li>sarg.alphaarmoury</li>
     <li>sarg.rimbees</li>
@@ -78,6 +80,7 @@
     <li>turnovus.biotech.integratedgenes</li>
     <li>lts.i</li>
     <li>sovereign.kork</li>
+    <li>pphhyy.lightlessempyrean_steam</li>
     <li>ferny.loadinbackground</li>
     <li>pal5k.logisticsmechanoid</li>
     <li>lyinlen.mechtheraphosidae</li>
@@ -194,6 +197,12 @@
     <li>veltaris.wastecollector</li>
     <li>veltaris.animamechlink</li>
     <li>btd.remix.gravshipblueprints</li>
+    <li>7f.alienworlds.arcticworld</li>
+    <li>7f.alienworlds.dreamworld</li>
+    <li>7f.alienworlds.hellworld</li>
+    <li>7f.alienworlds.nightworld</li>
+    <li>7f.alienworlds.tidallylocked</li>
+    <li>7f.alienworlds.toxicworld</li>
     <li>seanbeag.allveepermits</li>
     <li>sarg.alphamechs</li>
     <li>jaeger972.vpe.betterrockconstructs</li>
@@ -220,7 +229,6 @@
     <li>ferny.nofactoryfloorrequirement</li>
     <li>statistno1.personabond</li>
     <li>ferny.progressionfantasy</li>
-    <li>ferny.progressionworlds</li>
     <li>rebuild.cotr.doorsandcorners</li>
     <li>eclair155.reinforcedmechanoid2extended</li>
     <li>nota.bigfanof.rm2bloat</li>
@@ -281,6 +289,7 @@
     <li>ferny.progressionfactories</li>
     <li>ferny.progressionhospitality</li>
     <li>ferny.progressiontemperature</li>
+    <li>ferny.progressionworlds</li>
     <li>oskarpotocki.vfe.pirates</li>
     <li>vanillaexpanded.vweft</li>
     <li>zal.heavyweaponsreloading</li>
