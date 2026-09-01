@@ -49,6 +49,7 @@
     <li>childrencanlearnfast.mod</li>
     <li>childrentraitsaffectlearning.mod</li>
     <li>mortstrudel.mortideologyenv</li>
+    <li>dimonsever000.elderhoodbackstory</li>
     <li>dimonsever000.ideologyheroes</li>
     <li>dimonsever000.ideologyvirtues</li>
     <li>ferny.danniedouble</li>
@@ -59,6 +60,8 @@
     <li>edb.preparecarefully</li>
     <li>mortstrudel.mortideologyscifai</li>
     <li>ebs.abilities</li>
+    <li>witek.fabricorscanrepairmechs</li>
+    <li>mrhydralisk.forgetfulmechresurrection</li>
     <li>ferny.fucklearninghelper</li>
     <li>redmattis.geneextractor</li>
     <li>blackphoenix.gitm</li>
@@ -165,6 +168,7 @@
     <li>vanillaracesexpanded.saurid</li>
     <li>vanillaracesexpanded.starjack</li>
     <li>vanillaracesexpanded.waster</li>
+    <li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
     <li>sovereign.kork</li>
     <li>sov.tengri</li>
     <li>sovereign.chipchipchip</li>
@@ -195,12 +199,11 @@
     <li>btd.remix.gravshipblueprints</li>
     <li>seanbeag.allveepermits</li>
     <li>sarg.alphamechs</li>
-    <li>mrhydralisk.forgetfulmechresurrection</li>
-    <li>witek.fabricorscanrepairmechs</li>
     <li>petre27.biotechcapacitorgenesextra</li>
     <li>als.biotechgravship</li>
     <li>edern.combatpsycasts</li>
     <li>sariusskelrets.dbhgenes</li>
+    <li>redmattis.dryads</li>
     <li>azrazalea.dbh.springwater.patch</li>
     <li>ebsg.aio</li>
     <li>redmattis.genenodes</li>
@@ -245,7 +248,7 @@
     <li>veltaris.mechstations</li>
     <li>veltaris.mechqueen</li>
     <li>chtech.core</li>
-    <li>redmattis.dryads</li>
+    <li>redmattis.dryads.greater</li>
     <li>asunib.gravshipvoyage</li>
     <li>gogatio.mechanoidupgrades.archotech</li>
     <li>twm.mjuwe</li>
@@ -257,7 +260,6 @@
     <li>zal.heavyweaponsreloading</li>
     <li>wvc.sergkart.races.biotech</li>
     <li>hlx.ultratechalteredcarbon</li>
-    <li>redmattis.dryads.greater</li>
     <li>ferny.progressionstorytellers</li>
     <li>vanillaracesexpanded.insector</li>
     <li>wvc.sergkart.qolpatches</li>
@@ -278,6 +280,7 @@
     <li>ebsg.archite</li>
     <li>makinglovetomy.warqueenmechwife.allnightlong</li>
     <li>seti.millitarism</li>
+    <li>obsidiaexpansion.core</li>
     <li>ferny.progressionagriculture</li>
     <li>ferny.progressionattire</li>
     <li>ferny.progressiondrugs</li>
@@ -285,6 +288,10 @@
     <li>reel.insectorfaction</li>
     <li>vanillaexpanded.vgeneticsemorelabstuff</li>
     <li>cn.vge.qualitymoreeffective</li>
+    <li>obsidiaexpansion.ideology.icons</li>
+    <li>obsidiaexpansion.ideology.stylepack</li>
+    <li>obsidiaexpansion.modular.weapontraits</li>
+    <li>obsidiaexpansion.modular.backstories</li>
     <li>ferny.progressioncore</li>
     <li>ferny.progressiongenetics</li>
     <li>ferny.progressionstorage</li>
