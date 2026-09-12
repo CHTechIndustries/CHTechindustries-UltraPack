@@ -21,6 +21,7 @@
     <li>ferny.alfredancient</li>
     <li>superniquito.allideoligionsarefluid</li>
     <li>sarg.alphagenes</li>
+    <li>sarg.alphabiomes</li>
     <li>ferny.alwayspositiongravshiponlanding</li>
     <li>com.bymarcin.architecticons</li>
     <li>mrk.architectmenuoptimizer</li>
@@ -35,11 +36,14 @@
     <li>edb.preparecarefully</li>
     <li>ebs.abilities</li>
     <li>ebsg.aio</li>
+    <li>ferny.featuresgapfix</li>
+    <li>ferny.fucklearninghelper</li>
     <li>jamesthe1.rimworld.gitupdater</li>
     <li>arcjc007.gravshipexporter</li>
     <li>sk.gravshipraids</li>
     <li>garwel.ideologydevelopmentplus</li>
     <li>ferny.loadinbackground</li>
+    <li>andromeda.milkyway</li>
     <li>ferny.mojavemask</li>
     <li>morebiotechstylegenes.mod</li>
     <li>kenx00x.moremaxmemes</li>
@@ -58,6 +62,7 @@
     <li>vanillaexpanded.vfefactory</li>
     <li>vanillaexpanded.vgeneticse</li>
     <li>vanillaexpanded.gravship</li>
+    <li>vanillaexpanded.vexploratione</li>
     <li>vanillaexpanded.vnutriente</li>
     <li>vanillaquestsexpanded.ancients</li>
     <li>vanillaquestsexpanded.cryptoforge</li>
@@ -80,10 +85,14 @@
     <li>tefnut.gravship.water.systems</li>
     <li>als.gravtech</li>
     <li>lts.mgw</li>
+    <li>andromeda.niceresearchtab</li>
     <li>ferny.nofactoryfloorrequirement</li>
     <li>ferny.progressionagriculture</li>
+    <li>migcorp.skiptech</li>
+    <li>natsuki.manipulatorbeam</li>
     <li>ferny.progressionattire</li>
     <li>ferny.progressiondrugs</li>
+    <li>ferny.progressionfantasy</li>
     <li>ferny.progressionfurniture</li>
     <li>ferny.progressiongenetics</li>
     <li>ferny.progressionhives</li>
@@ -107,6 +116,7 @@
     <li>ferny.progressionproduction</li>
     <li>ferny.progressionstorage</li>
     <li>chtech.rimworldextended.main</li>
+    <li>ferny.progressionworlds</li>
     <li>ferny.progressionscenarios</li>
     <li>ferny.progressioneducation</li>
     <li>ferny.progressiongravship</li>
