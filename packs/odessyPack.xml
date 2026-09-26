@@ -40,22 +40,7 @@
     <li>edb.preparecarefully</li>
     <li>mortstrudel.mortideologyscifai</li>
     <li>ebs.abilities</li>
-    <li>ebsg.aio</li>
     <li>ferny.featuresgapfix</li>
-    <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
-    <li>oskarpotocki.vfe.classical</li>
-    <li>oskarpotocki.vfe.pirates</li>
-    <li>oskarpotocki.vfe.medieval2</li>
-    <li>vanillaracesexpanded.pigskin</li>
-    <li>vanillaracesexpanded.lycanthrope</li>
-    <li>vanillaracesexpanded.archon</li>
-    <li>vanillaracesexpanded.fungoid</li>
-    <li>vanillaracesexpanded.highmate</li>
-    <li>vanillaracesexpanded.waster</li>
-    <li>vanillaracesexpanded.phytokin</li>
-    <li>vanillaracesexpanded.genie</li>
-    <li>vanillaracesexpanded.hussar</li>
-    <li>vanillaracesexpanded.saurid</li>
     <li>ferny.fucklearninghelper</li>
     <li>jamesthe1.rimworld.gitupdater</li>
     <li>arcjc007.gravshipexporter</li>
@@ -68,23 +53,28 @@
     <li>andromeda.milkyway</li>
     <li>twm.mjuwe</li>
     <li>ferny.mojavemask</li>
-    <li>morebiotechstylegenes.mod</li>
     <li>kenx00x.moremaxmemes</li>
     <li>hailuan.patchship</li>
     <li>alleykat.persistentprecepts</li>
     <li>ferny.petoprogression</li>
     <li>ferny.progressionhospitality</li>
     <li>ferny.replacelib</li>
+    <li>resplice.xotr.core</li>
     <li>ferny.rominaready</li>
     <li>carnysenpai.traitraritycolors</li>
     <li>shunter.uniquemeleeweapons</li>
     <li>shunter.uniqueweaponsunbound</li>
     <li>ushanka.glittertechexpansion</li>
     <li>ushanka.hackingexpansion</li>
+    <li>ushanka.luciferiumexpansion</li>
     <li>vanillaexpanded.basegeneration</li>
     <li>vanillaexpanded.vchemfuele</li>
+    <li>oskarpotocki.vfe.classical</li>
     <li>oskarpotocki.vfe.empire</li>
     <li>oskarpotocki.vfe.insectoid2</li>
+    <li>oskarpotocki.vfe.medieval2</li>
+    <li>oskarpotocki.vfe.pirates</li>
+    <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
     <li>oskarpotocki.vfe.tribals</li>
     <li>vanillaexpanded.vfefactory</li>
     <li>vanillaexpanded.gravship</li>
@@ -96,6 +86,7 @@
     <li>vanillaexpanded.ideo.sophianstyle</li>
     <li>vanillaexpanded.vexploratione</li>
     <li>vanillaexpanded.vnutriente</li>
+    <li>vanillaexpanded.vpersonaweaponse</li>
     <li>vanillaexpanded.vpsycastse</li>
     <li>vanillaquestsexpanded.ancients</li>
     <li>vanillaquestsexpanded.cryptoforge</li>
@@ -103,8 +94,17 @@
     <li>vanillaquestsexpanded.dronefactory</li>
     <li>vanillaquestsexpanded.generator</li>
     <li>vanillaracesexpanded.android</li>
+    <li>vanillaracesexpanded.fungoid</li>
+    <li>vanillaracesexpanded.genie</li>
+    <li>vanillaracesexpanded.highmate</li>
+    <li>vanillaracesexpanded.hussar</li>
+    <li>vanillaracesexpanded.lycanthrope</li>
+    <li>vanillaracesexpanded.phytokin</li>
+    <li>vanillaracesexpanded.pigskin</li>
     <li>vanillaracesexpanded.sanguophage</li>
+    <li>vanillaracesexpanded.saurid</li>
     <li>vanillaracesexpanded.starjack</li>
+    <li>vanillaracesexpanded.waster</li>
     <li>oskarpotocki.vanillavehiclesexpanded</li>
     <li>ferny.victorveto</li>
     <li>ferny.worldbuilder</li>
@@ -116,11 +116,13 @@
     <li>astryl.moderncc</li>
     <li>sariusskelrets.dbhgenes</li>
     <li>kitty.dubsbadhygieneodysseyaddon</li>
+    <li>ebsg.aio</li>
     <li>arcjc007.gravshipcrashes</li>
     <li>asunib.gravshipfleet</li>
     <li>tefnut.gravship.water.systems</li>
     <li>als.gravtech</li>
     <li>hailuan.insect</li>
+    <li>morebiotechstylegenes.mod</li>
     <li>lts.mgw</li>
     <li>andromeda.niceresearchtab</li>
     <li>ferny.nofactoryfloorrequirement</li>
@@ -128,6 +130,7 @@
     <li>ferny.progressionrobotics2</li>
     <li>ferny.progressiontemperature</li>
     <li>ferny.progressionworlds</li>
+    <li>resplice.xotr.charmweavers</li>
     <li>neronix17.toolbox</li>
     <li>bambaryla.vcepu</li>
     <li>oskarpotocki.vfe.deserters</li>
@@ -137,6 +140,7 @@
     <li>vanillaexpanded.vnutrientesleepingspotpatch</li>
     <li>vanillaexpanded.vpe.hemosage</li>
     <li>vanillaexpanded.vpe.puppeteer</li>
+    <li>vanillaracesexpanded.archon</li>
     <li>vanillaracesexpanded.insector</li>
     <li>oskarpotocki.vanillavehiclesexpandedtier3</li>
     <li>oskarpotocki.vanillavehiclesexpandedupgrades</li>
