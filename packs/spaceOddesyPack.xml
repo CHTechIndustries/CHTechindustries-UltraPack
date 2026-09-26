@@ -21,6 +21,7 @@
     <li>veltaris.framework</li>
     <li>veltaris.noblinking</li>
     <li>wyr3d.seperatemechcraft</li>
+    <li>veltaris.spacesolar</li>
     <li>ferny.alfredancient</li>
     <li>superniquito.allideoligionsarefluid</li>
     <li>sarg.alphaarmoury</li>
@@ -101,6 +102,7 @@
     <li>mlem.metaadjusternew</li>
     <li>migcorp.skiptech</li>
     <li>andromeda.milkyway</li>
+    <li>twm.mjuwe</li>
     <li>ferny.mojavemask</li>
     <li>superniquito.moreinformativeideology</li>
     <li>kenx00x.moremaxmemes</li>
@@ -121,6 +123,7 @@
     <li>sirmashedpotato.questingmeme</li>
     <li>thathitmann.reginaldroyalty</li>
     <li>mlie.reinforcedmechanoid2</li>
+    <li>ferny.progressionhospitality</li>
     <li>ferny.replacelib</li>
     <li>dakkpasserida.gauranlenreplant</li>
     <li>resplice.xotr.core</li>
@@ -145,6 +148,8 @@
     <li>oskarpotocki.vfe.empire</li>
     <li>oskarpotocki.vfe.insectoid2</li>
     <li>oskarpotocki.vfe.medieval2</li>
+    <li>oskarpotocki.vfe.pirates</li>
+    <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
     <li>oskarpotocki.vfe.tribals</li>
     <li>vanillaexpanded.vfefactory</li>
     <li>vanillaexpanded.vfefarming</li>
@@ -207,6 +212,7 @@
     <li>sarg.alphamechs</li>
     <li>jaeger972.vpe.betterrockconstructs</li>
     <li>redmattis.bigsmall.core</li>
+    <li>hlx.ultratechalteredcarbon</li>
     <li>petre27.biotechcapacitorgenesextra</li>
     <li>bk.nutrientbars</li>
     <li>astryl.moderncc</li>
@@ -231,6 +237,8 @@
     <li>ferny.nofactoryfloorrequirement</li>
     <li>statistno1.personabond</li>
     <li>ferny.progressionfantasy</li>
+    <li>ferny.progressionrobotics2</li>
+    <li>ferny.progressiontemperature</li>
     <li>ferny.progressionworlds</li>
     <li>rebuild.cotr.doorsandcorners</li>
     <li>eclair155.reinforcedmechanoid2extended</li>
@@ -248,6 +256,7 @@
     <li>vanillaexpanded.vpe.puppeteer</li>
     <li>chairheir.vperunesmith</li>
     <li>vanillaracesexpanded.archon</li>
+    <li>vanillaracesexpanded.insector</li>
     <li>oskarpotocki.vanillavehiclesexpandedtier3</li>
     <li>oskarpotocki.vanillavehiclesexpandedupgrades</li>
     <li>vanillaexpanded.vwehw</li>
@@ -286,6 +295,7 @@
     <li>proximo.zealousinnocence</li>
     <li>veltaris.mechstations</li>
     <li>veltaris.mechqueen</li>
+    <li>sarg.alphaanimals</li>
     <li>als.anomalygravship</li>
     <li>als.biotechgravship</li>
     <li>chtech.core</li>
@@ -294,6 +304,7 @@
     <li>als.gravtech.bc</li>
     <li>gogatio.mechanoidupgrades.archotech</li>
     <li>twm.mjuwe</li>
+    <li>who.vfee.isopodageneline</li>
     <li>ferny.progressionfactories</li>
     <li>ferny.progressionhospitality</li>
     <li>ferny.progressiontemperature</li>
