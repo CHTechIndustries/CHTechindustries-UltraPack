@@ -21,6 +21,7 @@
     <li>sarg.alphamemes</li>
     <li>ferny.alwayspositiongravshiponlanding</li>
     <li>als.anomalygravship</li>
+    <li>com.bymarcin.architecticons</li>
     <li>mrk.architectmenuoptimizer</li>
     <li>ferny.vengeance</li>
     <li>petre27.biotechbalancedcapacitorgenes</li>
@@ -30,7 +31,6 @@
     <li>childrentraitsaffectlearning.mod</li>
     <li>ferny.corpsedescriptionfix</li>
     <li>ferny.danniedouble</li>
-    <li>edb.preparecarefully</li>
     <li>ferny.featuresgapfix</li>
     <li>ferny.fucklearninghelper</li>
     <li>tuarre.gengenderratio</li>
@@ -38,7 +38,6 @@
     <li>garwel.ideologydevelopmentplus</li>
     <li>ferny.loadinbackground</li>
     <li>andromeda.milkyway</li>
-    <li>twm.mjuwe</li>
     <li>ferny.mojavemask</li>
     <li>kenx00x.moremaxmemes</li>
     <li>ferny.moveyourmonolith</li>
@@ -51,7 +50,6 @@
     <li>ferny.replacelib</li>
     <li>ferny.resourcedeliveryhelper</li>
     <li>resplice.xotr.charmweavers</li>
-    <li>maux36.rimbody</li>
     <li>ferny.rominaready</li>
     <li>ray1203.simplecamerasetting</li>
     <li>ferny.storagestatsindescription</li>
@@ -111,16 +109,11 @@
     <li>twm.mjuwe</li>
     <li>pumpkin.morephytokinxenotypes</li>
     <li>andromeda.niceresearchtab</li>
-    <li>gravship.tactical.holotable</li>
-    <li>pumpkin.morephytokinxenotypes</li>
-    <li>andromeda.niceresearchtab</li>
     <li>ferny.nofactoryfloorrequirement</li>
     <li>ferny.perspectiveshift</li>
     <li>ferny.progressionstorage</li>
     <li>ferny.progressiontemperature</li>
     <li>ferny.progressionworlds</li>
-    <li>blackkanye.sanitygenes</li>
-    <li>ferny.rimbodyintegrationpatch</li>
     <li>blackkanye.sanitygenes</li>
     <li>shunter.uniquemeleeweapons</li>
     <li>oskarpotocki.vfe.deserters</li>
@@ -153,6 +146,7 @@
     <li>ferny.progressionscenarios</li>
     <li>ferny.progressioneducation</li>
     <li>ferny.progressiongravship</li>
+    <li>ferny.betterarchitect</li>
     <li>ferny.progressiontherapy</li>
     <li>ferny.characterdevelopment</li>
   </activeMods>
