@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <ModsConfigData>
-  <version>1.7.4982 rev1280</version>
+  <version>1.7.4984 rev1242</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ferny.loadthemlast</li>
@@ -36,6 +36,7 @@
     <li>ferny.petoprogression</li>
     <li>ferny.progressionhospitality</li>
     <li>ferny.replacelib</li>
+    <li>ferny.resourcedeliveryhelper</li>
     <li>ferny.rominaready</li>
     <li>ferny.surveillanceshift</li>
     <li>vanillaexpanded.basegeneration</li>
@@ -82,6 +83,7 @@
     <li>als.biotechgravship</li>
     <li>pumpkin.morephytokinxenotypes</li>
     <li>ferny.nofactoryfloorrequirement</li>
+    <li>ferny.perspectiveshift</li>
     <li>ferny.progressionstorage</li>
     <li>ferny.progressiontemperature</li>
     <li>ferny.progressionworlds</li>
