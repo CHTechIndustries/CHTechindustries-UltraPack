@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <ModsConfigData>
-  <version>1.7.4982 rev1280</version>
+  <version>1.7.4984 rev1242</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ferny.loadthemlast</li>
@@ -23,25 +23,28 @@
     <li>mrk.architectmenuoptimizer</li>
     <li>petre27.biotechbalancedcapacitorgenes</li>
     <li>petre27.biotechcapacitorgenes</li>
+    <li>void.charactereditor</li>
     <li>ferny.chesterchoose</li>
     <li>ferny.danniedouble</li>
+    <li>ferny.featuresgapfix</li>
+    <li>ferny.fucklearninghelper</li>
     <li>tuarre.gengenderratio</li>
     <li>erdelf.humanoidalienraces</li>
     <li>garwel.ideologydevelopmentplus</li>
     <li>ferny.loadinbackground</li>
     <li>ferny.mojavemask</li>
     <li>kenx00x.moremaxmemes</li>
-    <li>ferny.moveyourmonolith</li>
-    <li>ferny.nameyourentities</li>
     <li>chtech.opthings.pack</li>
     <li>alleykat.persistentprecepts</li>
-    <li>shunter.personaweaponsunbound</li>
     <li>ferny.petoprogression</li>
     <li>ferny.progressionhospitality</li>
     <li>ferny.replacelib</li>
+    <li>resplice.xotr.charmweavers</li>
     <li>ferny.rominaready</li>
+    <li>ferny.storagestatsindescription</li>
     <li>ferny.surveillanceshift</li>
-    <li>ferny.texttool</li>
+    <li>shunter.uniqueweaponsunbound</li>
+    <li>vanillaexpanded.vanomalyeinsanity</li>
     <li>vanillaexpanded.basegeneration</li>
     <li>oskarpotocki.vfe.classical</li>
     <li>oskarpotocki.vfe.empire</li>
@@ -84,11 +87,14 @@
     <li>hlx.ultratechalteredcarbon</li>
     <li>petre27.biotechcapacitorgenesextra</li>
     <li>als.biotechgravship</li>
+    <li>astryl.moderncc</li>
+    <li>gravship.tactical.holotable</li>
     <li>pumpkin.morephytokinxenotypes</li>
     <li>ferny.nofactoryfloorrequirement</li>
     <li>ferny.progressionstorage</li>
     <li>ferny.progressiontemperature</li>
     <li>ferny.progressionworlds</li>
+    <li>blackkanye.sanitygenes</li>
     <li>oskarpotocki.vfe.deserters</li>
     <li>vanillaexpanded.vpe.hemosage</li>
     <li>vanillaexpanded.vpe.puppeteer</li>
