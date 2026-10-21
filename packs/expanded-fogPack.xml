@@ -30,15 +30,14 @@
     <li>childrentraitsaffectlearning.mod</li>
     <li>ferny.corpsedescriptionfix</li>
     <li>ferny.danniedouble</li>
+    <li>edb.preparecarefully</li>
     <li>ferny.featuresgapfix</li>
-    <li>vanillaexpanded.vanillaaspirationsexpanded</li>
     <li>ferny.fucklearninghelper</li>
     <li>tuarre.gengenderratio</li>
     <li>erdelf.humanoidalienraces</li>
     <li>garwel.ideologydevelopmentplus</li>
     <li>ferny.loadinbackground</li>
     <li>andromeda.milkyway</li>
-    <li>twm.mjuwe</li>
     <li>ferny.mojavemask</li>
     <li>kenx00x.moremaxmemes</li>
     <li>ferny.moveyourmonolith</li>
@@ -55,7 +54,6 @@
     <li>ferny.storagestatsindescription</li>
     <li>ferny.surveillanceshift</li>
     <li>shunter.uniqueweaponsunbound</li>
-    <li>vanillaexpanded.vanomalyeinsanity</li>
     <li>vanillaexpanded.vanomalyeinsanity</li>
     <li>vanillaexpanded.vanillaaspirationsexpanded</li>
     <li>vanillaexpanded.basegeneration</li>
@@ -106,18 +104,14 @@
     <li>petre27.biotechcapacitorgenesextra</li>
     <li>als.biotechgravship</li>
     <li>astryl.moderncc</li>
-    <li>vanillaexpanded.vpersonaweaponse</li>
-    <li>shunter.uniquemeleeweapons</li>
-    <li>twm.mjuwe</li>
-    <li>andromeda.niceresearchtab</li>
     <li>gravship.tactical.holotable</li>
+    <li>twm.mjuwe</li>
     <li>pumpkin.morephytokinxenotypes</li>
     <li>andromeda.niceresearchtab</li>
     <li>ferny.nofactoryfloorrequirement</li>
     <li>ferny.progressionstorage</li>
     <li>ferny.progressiontemperature</li>
     <li>ferny.progressionworlds</li>
-    <li>shunter.uniquemeleeweapons</li>
     <li>ferny.rimbodyintegrationpatch</li>
     <li>blackkanye.sanitygenes</li>
     <li>shunter.uniquemeleeweapons</li>
@@ -140,6 +134,7 @@
     <li>ferny.progressionagriculture</li>
     <li>ferny.progressionattire</li>
     <li>ferny.progressiondrugs</li>
+    <li>reel.insectorfaction</li>
     <li>vanillaexpanded.vgeneticsemorelabstuff</li>
     <li>ferny.progressioncore</li>
     <li>ferny.progressiongenetics</li>
