@@ -15,6 +15,7 @@
     <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
     <li>ferny.alfredancient</li>
     <li>superniquito.allideoligionsarefluid</li>
+    <li>sarg.alphaarmoury</li>
     <li>sarg.rimbees</li>
     <li>sarg.alphabiomes</li>
     <li>sarg.alphamemes</li>
@@ -49,6 +50,9 @@
     <li>shunter.uniqueweaponsunbound</li>
     <li>vanillaexpanded.vanomalyeinsanity</li>
     <li>ferny.texttool</li>
+    <li>ferny.traumaandintegrity</li>
+    <li>shunter.uniqueweaponsunbound</li>
+    <li>vanillaexpanded.vanillaaspirationsexpanded</li>
     <li>vanillaexpanded.basegeneration</li>
     <li>oskarpotocki.vfe.classical</li>
     <li>oskarpotocki.vfe.empire</li>
@@ -84,15 +88,18 @@
     <li>vanillaracesexpanded.saurid</li>
     <li>vanillaracesexpanded.starjack</li>
     <li>vanillaracesexpanded.waster</li>
+    <li>vanillaexpanded.skills</li>
     <li>ferny.victorveto</li>
     <li>ferny.worldbuilder</li>
     <li>zhuma.xenotypesummary</li>
     <li>sarg.alphamechs</li>
+    <li>sarg.alphaskills</li>
     <li>hlx.ultratechalteredcarbon</li>
     <li>petre27.biotechcapacitorgenesextra</li>
     <li>als.biotechgravship</li>
     <li>astryl.moderncc</li>
     <li>gravship.tactical.holotable</li>
+    <li>twm.mjuwe</li>
     <li>pumpkin.morephytokinxenotypes</li>
     <li>ferny.nofactoryfloorrequirement</li>
     <li>ferny.progressionstorage</li>
@@ -130,6 +137,7 @@
     <li>ferny.progressioneducation</li>
     <li>ferny.progressiongravship</li>
     <li>ferny.progressiontherapy</li>
+    <li>ferny.characterdevelopment</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>
