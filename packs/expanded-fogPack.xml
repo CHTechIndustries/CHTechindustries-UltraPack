@@ -22,10 +22,13 @@
     <li>ferny.alwayspositiongravshiponlanding</li>
     <li>als.anomalygravship</li>
     <li>mrk.architectmenuoptimizer</li>
+    <li>ferny.vengeance</li>
     <li>petre27.biotechbalancedcapacitorgenes</li>
     <li>petre27.biotechcapacitorgenes</li>
     <li>void.charactereditor</li>
     <li>ferny.chesterchoose</li>
+    <li>childrentraitsaffectlearning.mod</li>
+    <li>ferny.corpsedescriptionfix</li>
     <li>ferny.danniedouble</li>
     <li>ferny.featuresgapfix</li>
     <li>ferny.fucklearninghelper</li>
@@ -33,6 +36,7 @@
     <li>erdelf.humanoidalienraces</li>
     <li>garwel.ideologydevelopmentplus</li>
     <li>ferny.loadinbackground</li>
+    <li>andromeda.milkyway</li>
     <li>ferny.mojavemask</li>
     <li>kenx00x.moremaxmemes</li>
     <li>ferny.moveyourmonolith</li>
@@ -44,14 +48,12 @@
     <li>ferny.progressionhospitality</li>
     <li>ferny.replacelib</li>
     <li>resplice.xotr.charmweavers</li>
+    <li>maux36.rimbody</li>
     <li>ferny.rominaready</li>
     <li>ferny.storagestatsindescription</li>
     <li>ferny.surveillanceshift</li>
     <li>shunter.uniqueweaponsunbound</li>
     <li>vanillaexpanded.vanomalyeinsanity</li>
-    <li>ferny.texttool</li>
-    <li>ferny.traumaandintegrity</li>
-    <li>shunter.uniqueweaponsunbound</li>
     <li>vanillaexpanded.vanillaaspirationsexpanded</li>
     <li>vanillaexpanded.basegeneration</li>
     <li>oskarpotocki.vfe.classical</li>
@@ -89,6 +91,8 @@
     <li>vanillaracesexpanded.starjack</li>
     <li>vanillaracesexpanded.waster</li>
     <li>vanillaexpanded.skills</li>
+    <li>vanillaexpanded.temperature</li>
+    <li>vanillaexpanded.vanillatraitsexpanded</li>
     <li>ferny.victorveto</li>
     <li>ferny.worldbuilder</li>
     <li>zhuma.xenotypesummary</li>
@@ -101,12 +105,15 @@
     <li>gravship.tactical.holotable</li>
     <li>twm.mjuwe</li>
     <li>pumpkin.morephytokinxenotypes</li>
+    <li>andromeda.niceresearchtab</li>
     <li>ferny.nofactoryfloorrequirement</li>
     <li>ferny.progressionstorage</li>
     <li>ferny.progressiontemperature</li>
     <li>ferny.progressionworlds</li>
     <li>shunter.uniquemeleeweapons</li>
+    <li>ferny.rimbodyintegrationpatch</li>
     <li>blackkanye.sanitygenes</li>
+    <li>shunter.uniquemeleeweapons</li>
     <li>oskarpotocki.vfe.deserters</li>
     <li>vanillaexpanded.vpe.hemosage</li>
     <li>vanillaexpanded.vpe.puppeteer</li>
