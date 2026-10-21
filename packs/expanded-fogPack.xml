@@ -54,10 +54,12 @@
     <li>ray1203.simplecamerasetting</li>
     <li>ferny.storagestatsindescription</li>
     <li>ferny.surveillanceshift</li>
+    <li>carnysenpai.traitraritycolors</li>
     <li>shunter.uniqueweaponsunbound</li>
     <li>vanillaexpanded.vanomalyeinsanity</li>
     <li>vanillaexpanded.vanillaaspirationsexpanded</li>
     <li>vanillaexpanded.basegeneration</li>
+    <li>vanillaexpanded.vchemfuele</li>
     <li>oskarpotocki.vfe.classical</li>
     <li>oskarpotocki.vfe.empire</li>
     <li>oskarpotocki.vfe.insectoid2</li>
@@ -67,6 +69,7 @@
     <li>oskarpotocki.vfe.tribals</li>
     <li>vanillaexpanded.vfefactory</li>
     <li>vanillaexpanded.gravship</li>
+    <li>vanillaexpanded.helixiengas</li>
     <li>vanillaexpanded.vieat</li>
     <li>vanillaexpanded.ideo.dryads</li>
     <li>vanillaexpanded.viehar</li>
@@ -74,6 +77,7 @@
     <li>vanillaexpanded.ideo.relicsandartifacts</li>
     <li>vanillaexpanded.ideo.sophianstyle</li>
     <li>vanillaexpanded.vexploratione</li>
+    <li>vanillaexpanded.vnutriente</li>
     <li>vanillaexpanded.vpersonaweaponse</li>
     <li>vanillaexpanded.vpsycastse</li>
     <li>vanillaquestsexpanded.ancients</li>
@@ -116,6 +120,7 @@
     <li>ferny.progressionworlds</li>
     <li>blackkanye.sanitygenes</li>
     <li>shunter.uniquemeleeweapons</li>
+    <li>bambaryla.vcepu</li>
     <li>oskarpotocki.vfe.deserters</li>
     <li>vanillaexpanded.vpe.hemosage</li>
     <li>vanillaexpanded.vpe.puppeteer</li>
@@ -149,6 +154,7 @@
     <li>ferny.betterarchitect</li>
     <li>ferny.progressiontherapy</li>
     <li>ferny.characterdevelopment</li>
+    <li>co.uk.epicguru.whatsthatmod</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>
