@@ -15,9 +15,6 @@
     <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
     <li>ferny.alfredancient</li>
     <li>superniquito.allideoligionsarefluid</li>
-    <li>sarg.rimbees</li>
-    <li>sarg.alphabiomes</li>
-    <li>sarg.alphamemes</li>
     <li>ferny.alwayspositiongravshiponlanding</li>
     <li>als.anomalygravship</li>
     <li>mrk.architectmenuoptimizer</li>
@@ -46,9 +43,11 @@
     <li>oskarpotocki.vfe.pirates</li>
     <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
     <li>oskarpotocki.vfe.tribals</li>
-    <li>vanillaexpanded.vfefactory</li>
     <li>vanillaexpanded.gravship</li>
     <li>vanillaexpanded.vexploratione</li>
+    <li>vanillaexpanded.vpsycastse</li>
+    <li>vanillaexpanded.vpsycastse</li>
+    <li>vanillaexpanded.vpsycastse</li>
     <li>vanillaexpanded.vpsycastse</li>
     <li>vanillaquestsexpanded.ancients</li>
     <li>vanillaquestsexpanded.cryptoforge</li>
@@ -56,6 +55,7 @@
     <li>vanillaquestsexpanded.dronefactory</li>
     <li>vanillaquestsexpanded.generator</li>
     <li>vanillaracesexpanded.android</li>
+    <li>vanillaracesexpanded.archon</li>
     <li>vanillaracesexpanded.fungoid</li>
     <li>vanillaracesexpanded.genie</li>
     <li>vanillaracesexpanded.highmate</li>
@@ -69,13 +69,15 @@
     <li>vanillaracesexpanded.waster</li>
     <li>ferny.victorveto</li>
     <li>ferny.worldbuilder</li>
+    <li>petre27.biotechcapacitorgenesextra</li>
     <li>zhuma.xenotypesummary</li>
-    <li>sarg.alphamechs</li>
-    <li>hlx.ultratechalteredcarbon</li>
     <li>petre27.biotechcapacitorgenesextra</li>
     <li>als.biotechgravship</li>
     <li>pumpkin.morephytokinxenotypes</li>
-    <li>ferny.nofactoryfloorrequirement</li>
+    <li>ferny.progressionstorage</li>
+    <li>ferny.progressionstorage</li>
+    <li>ferny.progressionstorage</li>
+    <li>ferny.progressionstorage</li>
     <li>ferny.progressiontemperature</li>
     <li>ferny.progressionworlds</li>
     <li>oskarpotocki.vfe.deserters</li>
@@ -83,32 +85,18 @@
     <li>vanillaexpanded.vpe.puppeteer</li>
     <li>vanillaracesexpanded.archon</li>
     <li>vanillaracesexpanded.insector</li>
-    <li>sarg.alphaanimals</li>
-    <li>ferny.progressionfactories</li>
-    <li>ferny.progressionrobotics2</li>
     <li>ferny.progressionstorytellers</li>
-    <li>vanillaexpanded.gravship2</li>
-    <li>sarg.alphagenes</li>
-    <li>ferny.integratedalphapsycasts</li>
-    <li>ferny.progressionhives</li>
     <li>vanillaexpanded.vgeneticse</li>
-    <li>ferny.consistenttext</li>
-    <li>ferny.progressionagriculture</li>
-    <li>ferny.progressionattire</li>
-    <li>ferny.progressiondrugs</li>
-    <li>vanillaexpanded.vgeneticsemorelabstuff</li>
-    <li>ferny.progressioncore</li>
-    <li>ferny.progressiongenetics</li>
-    <li>ferny.progressionhospitality</li>
-    <li>ferny.progressionstorage</li>
-    <li>ferny.progressionarsenal</li>
-    <li>ferny.progressionkitchen</li>
+    <li>vanillaexpanded.vmemese</li>
+    <li>vanillaexpanded.vgeneticse</li>
+    <li>vanillaexpanded.vmemese</li>
     <li>ferny.progressionproduction</li>
     <li>ferny.progressionbionics</li>
+    <li>ferny.progressionproduction</li>
+    <li>ferny.progressionbionics</li>
+    <li>ferny.progressionbionics</li>
     <li>ferny.progressionscenarios</li>
-    <li>ferny.progressioneducation</li>
     <li>ferny.progressiongravship</li>
-    <li>ferny.progressiontherapy</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>
