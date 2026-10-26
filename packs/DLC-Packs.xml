@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <ModsConfigData>
-  <version>1.6.4871 rev590</version>
+  <version>1.7.4990 rev1069</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ferny.loadthemlast</li>
@@ -16,21 +16,19 @@
     <li>unlimitedhugs.hugslib</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>ebsg.framework</li>
-    <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
     <li>veltaris.spacesolar</li>
+    <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
     <li>ferny.alfredancient</li>
     <li>superniquito.allideoligionsarefluid</li>
     <li>sarg.alphabiomes</li>
     <li>sarg.alphamemes</li>
     <li>ferny.alwayspositiongravshiponlanding</li>
-    <li>sarg.alphagenes</li>
     <li>xmb.amorphousstylepack.mo</li>
     <li>xmb.ancientthreat.mo</li>
     <li>zoarak.anomalyplat</li>
     <li>therocketsurgeon.anomalypsytweaks</li>
     <li>com.bymarcin.architecticons</li>
     <li>mrk.architectmenuoptimizer</li>
-    <li>astryl.moderncc</li>
     <li>thathitmann.asheanomaly</li>
     <li>redmattis.bettergeneinheritance</li>
     <li>petre27.biotechbalancedcapacitorgenes</li>
@@ -48,37 +46,31 @@
     <li>mortstrudel.mortideologyscifai</li>
     <li>ebs.abilities</li>
     <li>ferny.featuresgapfix</li>
-    <li>ferny.fucklearninghelper</li>
-    <li>ebsg.aio</li>
     <li>fb.demobroka</li>
+    <li>ferny.fucklearninghelper</li>
     <li>jamesthe1.rimworld.gitupdater</li>
     <li>arcjc007.gravshipexporter</li>
     <li>sk.gravshipraids</li>
-    <li>erdelf.humanoidalienraces</li>
-    <li>teiwaz.gtgtradercore</li>
     <li>hailuan.hivecreatureframework</li>
     <li>lee4733.horaxshand</li>
+    <li>erdelf.humanoidalienraces</li>
     <li>garwel.ideologydevelopmentplus</li>
     <li>ferny.loadinbackground</li>
     <li>natsuki.manipulatorbeam</li>
-    <li>migcorp.skiptech</li>
     <li>metalocif.anomaloids</li>
+    <li>migcorp.skiptech</li>
     <li>andromeda.milkyway</li>
     <li>twm.mjuwe</li>
     <li>ferny.mojavemask</li>
-    <li>morebiotechstylegenes.mod</li>
     <li>kenx00x.moremaxmemes</li>
-    <li>hailuan.patchship</li>
     <li>thathitmann.nanomachinefoundry</li>
+    <li>hailuan.patchship</li>
     <li>alleykat.persistentprecepts</li>
-    <li>neronix17.toolbox</li>
     <li>ferny.petoprogression</li>
-    <li>ferny.progressionhospitality</li>
     <li>ferny.replacelib</li>
     <li>resplice.xotr.core</li>
     <li>ferny.rominaready</li>
     <li>carnysenpai.traitraritycolors</li>
-    <li>shunter.uniquemeleeweapons</li>
     <li>shunter.uniqueweaponsunbound</li>
     <li>ushanka.glittertechexpansion</li>
     <li>ushanka.hackingexpansion</li>
@@ -127,16 +119,6 @@
     <li>ferny.worldbuilder</li>
     <li>wvc.sergkart.races.biotech</li>
     <li>zhuma.xenotypesummary</li>
-    <li>teiwaz.aot</li>
-    <li>teiwaz.gtghot</li>
-    <li>teiwaz.gtglot</li>
-    <li>teiwaz.gtgmct</li>
-    <li>teiwaz.gtgot</li>
-    <li>teiwaz.oot</li>
-    <li>teiwaz.taajg</li>
-    <li>teiwaz.tacac</li>
-    <li>teiwaz.vtoada</li>
-    <li>ferny.betterarchitect</li>
     <li>btd.remix.gravshipblueprints</li>
     <li>hlx.ultratechalteredcarbon</li>
     <li>petre27.biotechcapacitorgenesextra</li>
@@ -145,10 +127,12 @@
     <li>sariusskelrets.dbhgenes</li>
     <li>kitty.dubsbadhygieneodysseyaddon</li>
     <li>ebsg.aio</li>
+    <li>hailuan.fleshhive</li>
     <li>arcjc007.gravshipcrashes</li>
     <li>asunib.gravshipfleet</li>
     <li>tefnut.gravship.water.systems</li>
     <li>als.gravtech</li>
+    <li>teiwaz.gtgtradercore</li>
     <li>hailuan.insect</li>
     <li>morebiotechstylegenes.mod</li>
     <li>lts.mgw</li>
@@ -159,7 +143,9 @@
     <li>ferny.progressiontemperature</li>
     <li>ferny.progressionworlds</li>
     <li>resplice.xotr.charmweavers</li>
+    <li>blackkanye.sanitygenes</li>
     <li>neronix17.toolbox</li>
+    <li>shunter.uniquemeleeweapons</li>
     <li>bambaryla.vcepu</li>
     <li>oskarpotocki.vfe.deserters</li>
     <li>cn.vfei2swarmdisaster</li>
@@ -168,11 +154,21 @@
     <li>vanillaexpanded.vnutrientesleepingspotpatch</li>
     <li>vanillaexpanded.vpe.hemosage</li>
     <li>vanillaexpanded.vpe.puppeteer</li>
+    <li>chairheir.vperunesmith</li>
     <li>vanillaracesexpanded.archon</li>
     <li>vanillaracesexpanded.insector</li>
     <li>oskarpotocki.vanillavehiclesexpandedtier3</li>
     <li>oskarpotocki.vanillavehiclesexpandedupgrades</li>
     <li>saltbabe.vqegeneratorinspace</li>
+    <li>teiwaz.aot</li>
+    <li>teiwaz.gtghot</li>
+    <li>teiwaz.gtglot</li>
+    <li>teiwaz.gtgmct</li>
+    <li>teiwaz.gtgot</li>
+    <li>teiwaz.oot</li>
+    <li>teiwaz.taajg</li>
+    <li>teiwaz.tacac</li>
+    <li>teiwaz.vtoada</li>
     <li>sarg.alphaanimals</li>
     <li>als.anomalygravship</li>
     <li>als.biotechgravship</li>
@@ -189,7 +185,6 @@
     <li>vanillaexpanded.vgeneticse</li>
     <li>vanillaexpanded.vmemese</li>
     <li>ferny.consistenttext</li>
-    <li>andromeda.niceresearchtab</li>
     <li>hol.dragongenetics</li>
     <li>ebsg.archite</li>
     <li>ferny.progressionagriculture</li>
@@ -197,17 +192,12 @@
     <li>ferny.progressiondrugs</li>
     <li>ferny.progressionfurniture</li>
     <li>reel.insectorfaction</li>
+    <li>stocksounds.anomalygenes</li>
     <li>vanillaexpanded.vgeneticsemorelabstuff</li>
     <li>ferny.progressioncore</li>
     <li>ferny.progressiongenetics</li>
+    <li>ferny.progressionhospitality</li>
     <li>ferny.progressionstorage</li>
-    <li>hailuan.fleshhive</li>
-    <li>andromeda.niceresearchtab</li>
-    <li>stocksounds.anomalygenes</li>
-    <li>blackkanye.sanitygenes</li>
-    <li>vanillaexpanded.vpe.hemosage</li>
-    <li>vanillaexpanded.vpe.puppeteer</li>
-    <li>chairheir.vperunesmith</li>
     <li>chtech.rimworldextended.main</li>
     <li>ferny.progressionarsenal</li>
     <li>ferny.progressionkitchen</li>
