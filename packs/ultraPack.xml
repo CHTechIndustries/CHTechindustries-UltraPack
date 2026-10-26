@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <ModsConfigData>
-  <version>1.7.4984 rev1242</version>
+  <version>1.7.4990 rev1069</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ferny.loadthemlast</li>
@@ -17,6 +17,7 @@
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>ebsg.framework</li>
     <li>forevermarried.mod</li>
+    <li>veltaris.spacesolar</li>
     <li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
     <li>antihydrogen.donotavoidfire</li>
     <li>veltaris.dynamiccombatmode</li>
@@ -34,6 +35,8 @@
     <li>sarg.alphaprefabs</li>
     <li>ferny.alwayspositiongravshiponlanding</li>
     <li>ingendum.animalapparelframework</li>
+    <li>xmb.amorphousstylepack.mo</li>
+    <li>xmb.ancientthreat.mo</li>
     <li>zoarak.anomalyplat</li>
     <li>therocketsurgeon.anomalypsytweaks</li>
     <li>als.anomalygravship</li>
@@ -59,6 +62,7 @@
     <li>childrencanlearnfast.mod</li>
     <li>childrentraitsaffectlearning.mod</li>
     <li>ferny.coloredcategories</li>
+    <li>blues.breaker</li>
     <li>mortstrudel.mortideologyenv</li>
     <li>ferny.corpsedescriptionfix</li>
     <li>majesticmadman.craftabledeathrest</li>
@@ -67,6 +71,7 @@
     <li>dimonsever000.ideologyvirtues</li>
     <li>ferny.danniedouble</li>
     <li>amethysttheotter.diversemechanoidwarprocedure</li>
+    <li>hailuan.voiduniverse</li>
     <li>onyxae.dragonsdescent</li>
     <li>dubwise.dubsbadhygiene</li>
     <li>dubwise.rimatomics</li>
@@ -80,6 +85,7 @@
     <li>ferny.floorpipettetool</li>
     <li>mrhydralisk.forgetfulmechresurrection</li>
     <li>andromeda.fragilearmor</li>
+    <li>fb.demobroka</li>
     <li>ferny.fucklearninghelper</li>
     <li>sov.tenmo</li>
     <li>redmattis.geneextractor</li>
@@ -88,12 +94,14 @@
     <li>memegoddess.giddyup</li>
     <li>jamesthe1.rimworld.gitupdater</li>
     <li>sov.goliann</li>
+    <li>arcjc007.gravshipexporter</li>
     <li>sk.gravshipraids</li>
     <li>andromeda.helpmebuild</li>
     <li>sariusskelrets.hemocapacity</li>
     <li>aoba.hemogendirect</li>
     <li>elsov.highborn</li>
     <li>honorableorgans.mod</li>
+    <li>hailuan.hivecreatureframework</li>
     <li>lee4733.horaxshand</li>
     <li>erdelf.humanoidalienraces</li>
     <li>pal5k.huntermechanoid</li>
@@ -125,8 +133,10 @@
     <li>samael.npcmechsandanimals</li>
     <li>mortstrudel.mortideologyspecwork</li>
     <li>mlem.metaadjusternew</li>
+    <li>metalocif.anomaloids</li>
     <li>migcorp.skiptech</li>
     <li>andromeda.milkyway</li>
+    <li>twm.mjuwe</li>
     <li>ferny.mojavemask</li>
     <li>sov.tengri</li>
     <li>superniquito.moreinformativeideology</li>
@@ -270,6 +280,7 @@
     <li>vanillaexpanded.vanillatraitsexpanded</li>
     <li>ferny.victorveto</li>
     <li>ferny.worldbuilder</li>
+    <li>wvc.sergkart.races.biotech</li>
     <li>zhuma.xenotypesummary</li>
     <li>veltaris.xenos</li>
     <li>veltaris.kosmian</li>
@@ -294,6 +305,7 @@
     <li>nightmare.dbhhotspringcompatibility</li>
     <li>als.biotechgravship</li>
     <li>edern.combatpsycasts</li>
+    <li>astryl.moderncc</li>
     <li>sariusskelrets.dbhgenes</li>
     <li>ferny.decorintostyles</li>
     <li>redmattis.autocombat</li>
@@ -305,8 +317,12 @@
     <li>redmattis.genenodes</li>
     <li>biomesteam.geneticsmushkin</li>
     <li>lee4733.giddyup.cavalrycharge</li>
+    <li>hailuan.fleshhive</li>
+    <li>arcjc007.gravshipcrashes</li>
     <li>asunib.gravshipfleet</li>
+    <li>tefnut.gravship.water.systems</li>
     <li>als.gravtech</li>
+    <li>teiwaz.gtgtradercore</li>
     <li>hailuan.insect</li>
     <li>turnovus.biotech.integratedxenotypes</li>
     <li>cedaro.material.submenu</li>
@@ -331,6 +347,7 @@
     <li>ferny.progressionwarrants</li>
     <li>ferny.perspectiveshift</li>
     <li>ferny.progressionstorage</li>
+    <li>ferny.progressionrobotics2</li>
     <li>ferny.progressiontemperature</li>
     <li>ferny.progressionworlds</li>
     <li>rebuild.cotr.doorsandcorners</li>
@@ -344,6 +361,8 @@
     <li>vanillaexpanded.vbrewecandt</li>
     <li>vanillaexpanded.vchemfuele</li>
     <li>vanillaexpanded.vcooke</li>
+    <li>shunter.uniquemeleeweapons</li>
+    <li>bambaryla.vcepu</li>
     <li>oskarpotocki.vfe.deserters</li>
     <li>cn.vfei2swarmdisaster</li>
     <li>vanillaexpanded.vcef</li>
@@ -355,6 +374,12 @@
     <li>vanillaexpanded.vplantsemore</li>
     <li>vanillaexpanded.vplantsemushrooms</li>
     <li>vanillaexpanded.vpsycastse</li>
+    <li>vanillaexpanded.vnutrientesleepingspotpatch</li>
+    <li>vanillaexpanded.vpe.hemosage</li>
+    <li>vanillaexpanded.vpe.puppeteer</li>
+    <li>chairheir.vperunesmith</li>
+    <li>vanillaracesexpanded.archon</li>
+    <li>vanillaracesexpanded.insector</li>
     <li>oskarpotocki.vanillavehiclesexpandedtier3</li>
     <li>oskarpotocki.vanillavehiclesexpandedupgrades</li>
     <li>vanillaexpanded.vwe</li>
@@ -368,6 +393,17 @@
     <li>veltaris.mechqueen</li>
     <li>sarg.rimbees</li>
     <li>sarg.alphamechs</li>
+    <li>saltbabe.vqegeneratorinspace</li>
+    <li>teiwaz.aot</li>
+    <li>teiwaz.gtghot</li>
+    <li>teiwaz.gtglot</li>
+    <li>teiwaz.gtgmct</li>
+    <li>teiwaz.gtgot</li>
+    <li>teiwaz.oot</li>
+    <li>teiwaz.taajg</li>
+    <li>teiwaz.tacac</li>
+    <li>teiwaz.vtoada</li>
+    <li>sarg.alphaanimals</li>
     <li>als.anomalygravship</li>
     <li>als.biotechgravship</li>
     <li>andromeda.busywork</li>
@@ -480,6 +516,7 @@
     <li>lrb4.vanillaracesexpanded.insectorexpanded</li>
     <li>ferny.progressionstorytellers</li>
     <li>vanillaexpanded.gravship2</li>
+    <li>lrb4.vanillaracesexpanded.insectorexpanded</li>
     <li>sarg.alphagenes</li>
     <li>ferny.integratedalphapsycasts</li>
     <li>ferny.progressionhives</li>
@@ -488,6 +525,7 @@
     <li>vanillaexpanded.vmemese</li>
     <li>kupa.alphagenesintegrated</li>
     <li>ferny.fleshbeasts</li>
+    <li>ferny.consistenttext</li>
     <li>hol.dragongenetics</li>
     <li>dbh.drinkpatches1.6fix</li>
     <li>ebsg.archite</li>
@@ -513,6 +551,7 @@
     <li>obsidiaexpansion.modular.backstories</li>
     <li>ferny.progressioncore</li>
     <li>ferny.progressiongenetics</li>
+    <li>ferny.progressionhospitality</li>
     <li>ferny.progressionstorage</li>
     <li>chtech.rimworldextended.main</li>
     <li>ferny.categoriesdropdowns</li>
