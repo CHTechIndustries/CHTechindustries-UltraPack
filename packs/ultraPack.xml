@@ -154,12 +154,14 @@
     <li>sirmashedpotato.questingmeme</li>
     <li>thathitmann.reginaldroyalty</li>
     <li>mlie.reinforcedmechanoid2</li>
+    <li>ferny.progressionhospitality</li>
     <li>ferny.replacelib</li>
     <li>dakkpasserida.gauranlenreplant</li>
     <li>kongkim.researchdata</li>
     <li>ferny.resourcedeliveryhelper</li>
     <li>resplice.xotr.core</li>
     <li>dubwise.rimefeller</li>
+    <li>resplice.xotr.charmweavers</li>
     <li>ferny.rominaready</li>
     <li>ratys.rtfuse</li>
     <li>vc.savestorytellersettings</li>
@@ -169,11 +171,13 @@
     <li>pb3n.simplewarrants</li>
     <li>b4ttl3m3ds.simplebabycarry</li>
     <li>andromeda.stackgap</li>
+    <li>ray1203.simplecamerasetting</li>
     <li>ferny.storagestatsindescription</li>
     <li>slaughteringmeme.rince</li>
     <li>survivalistmeme.mp3</li>
     <li>childrenlearning.technology</li>
     <li>ferny.texttool</li>
+    <li>ferny.surveillanceshift</li>
     <li>carnysenpai.traitraritycolors</li>
     <li>ferny.traumaandintegrity</li>
     <li>ferny.triumphantresearch</li>
@@ -190,6 +194,7 @@
     <li>vanillaexpanded.vaeroy</li>
     <li>vanillaexpanded.vaewaste</li>
     <li>vanillaexpanded.vanomalyeinsanity</li>
+    <li>vanillaexpanded.vanillaaspirationsexpanded</li>
     <li>vanillaexpanded.basegeneration</li>
     <li>vanillaexpanded.vbookse</li>
     <li>vanillaexpanded.vbrewe</li>
@@ -198,6 +203,7 @@
     <li>oskarpotocki.vfe.empire</li>
     <li>oskarpotocki.vfe.insectoid2</li>
     <li>oskarpotocki.vfe.medieval2</li>
+    <li>oskarpotocki.vfe.pirates</li>
     <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
     <li>oskarpotocki.vfe.tribals</li>
     <li>vanillaexpanded.vanillafoodvarietyexpanded</li>
@@ -212,6 +218,7 @@
     <li>vanillaexpanded.vfesecurity</li>
     <li>vanillaexpanded.vfespacer</li>
     <li>vanillaexpanded.gravship</li>
+    <li>vanillaexpanded.helixiengas</li>
     <li>vanillaexpanded.vieat</li>
     <li>vanillaexpanded.ideo.dryads</li>
     <li>vanillaexpanded.viehar</li>
@@ -260,6 +267,7 @@
     <li>vanillaexpanded.vwenl</li>
     <li>vanillaexpanded.vwetb</li>
     <li>dcszar.veneratedxenotypeflexibility</li>
+    <li>vanillaexpanded.vanillatraitsexpanded</li>
     <li>ferny.victorveto</li>
     <li>ferny.worldbuilder</li>
     <li>zhuma.xenotypesummary</li>
@@ -279,6 +287,8 @@
     <li>redmattis.bsfurniture</li>
     <li>sarg.alphamechs</li>
     <li>jaeger972.vpe.betterrockconstructs</li>
+    <li>sarg.alphaskills</li>
+    <li>hlx.ultratechalteredcarbon</li>
     <li>petre27.biotechcapacitorgenesextra</li>
     <li>bk.nutrientbars</li>
     <li>nightmare.dbhhotspringcompatibility</li>
@@ -311,11 +321,17 @@
     <li>andromeda.nicehealthtab</li>
     <li>andromeda.niceinventorytab</li>
     <li>andromeda.niceplantsmenu</li>
+    <li>gravship.tactical.holotable</li>
+    <li>twm.mjuwe</li>
+    <li>pumpkin.morephytokinxenotypes</li>
     <li>andromeda.niceresearchtab</li>
     <li>ferny.nofactoryfloorrequirement</li>
     <li>statistno1.personabond</li>
     <li>ferny.progressionfantasy</li>
     <li>ferny.progressionwarrants</li>
+    <li>ferny.perspectiveshift</li>
+    <li>ferny.progressionstorage</li>
+    <li>ferny.progressiontemperature</li>
     <li>ferny.progressionworlds</li>
     <li>rebuild.cotr.doorsandcorners</li>
     <li>eclair155.reinforcedmechanoid2extended</li>
@@ -369,6 +385,7 @@
     <li>statistno1.personabond</li>
     <li>ferny.progressionfactories</li>
     <li>kentington.saveourship2</li>
+    <li>shunter.uniquemeleeweapons</li>
     <li>bambaryla.vcepu</li>
     <li>vanillaexpanded.vcookebakery</li>
     <li>vanillaexpanded.vcookehaute</li>
