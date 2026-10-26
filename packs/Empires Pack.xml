@@ -32,6 +32,7 @@
     <li>com.bymarcin.architecticons</li>
     <li>mrk.architectmenuoptimizer</li>
     <li>ferny.vengeance</li>
+    <li>battiebear.battiepatch.regimented</li>
     <li>redmattis.bettergeneinheritance</li>
     <li>petre27.biotechbalancedcapacitorgenes</li>
     <li>petre27.biotechcapacitorgenes</li>
@@ -46,6 +47,7 @@
     <li>edb.preparecarefully</li>
     <li>ebs.abilities</li>
     <li>ferny.featuresgapfix</li>
+    <li>kathanon.floatsubmenu</li>
     <li>ferny.fucklearninghelper</li>
     <li>jamesthe1.rimworld.gitupdater</li>
     <li>arcjc007.gravshipexporter</li>
@@ -56,15 +58,12 @@
     <li>pphhyy.lightlessempyrean</li>
     <li>ferny.loadinbackground</li>
     <li>natsuki.manipulatorbeam</li>
-    <li>cedaro.material.submenu</li>
     <li>migcorp.skiptech</li>
     <li>andromeda.milkyway</li>
     <li>ferny.mojavemask</li>
     <li>kenx00x.moremaxmemes</li>
     <li>ferny.moveyourmonolith</li>
     <li>ferny.nameyourentities</li>
-    <li>andromeda.nicebilltab</li>
-    <li>andromeda.niceplantsmenu</li>
     <li>mrwireman.noconduit</li>
     <li>hailuan.patchship</li>
     <li>alleykat.persistentprecepts</li>
@@ -75,12 +74,14 @@
     <li>petetimessix.researchreinvented</li>
     <li>resplice.xotr.core</li>
     <li>ferny.rominaready</li>
+    <li>mrk.spellbook</li>
     <li>ferny.storagestatsindescription</li>
     <li>neronix17.toolbox</li>
     <li>carnysenpai.traitraritycolors</li>
     <li>ferny.traumaandintegrity</li>
     <li>shunter.uniqueweaponsunbound</li>
     <li>vanillaexpanded.basegeneration</li>
+    <li>vanillaexpanded.vbookse</li>
     <li>vanillaexpanded.vchemfuele</li>
     <li>oskarpotocki.vfe.classical</li>
     <li>oskarpotocki.vfe.empire</li>
@@ -148,11 +149,13 @@
     <li>gravship.tactical.holotable</li>
     <li>tefnut.gravship.water.systems</li>
     <li>als.gravtech</li>
+    <li>cedaro.material.submenu</li>
     <li>twm.mjuwe</li>
     <li>morebiotechstylegenes.mod</li>
     <li>lts.mgw</li>
+    <li>andromeda.nicebilltab</li>
     <li>andromeda.nicehealthtab</li>
-    <li>andromeda.niceinventorytab</li>
+    <li>andromeda.niceplantsmenu</li>
     <li>andromeda.niceresearchtab</li>
     <li>ferny.nofactoryfloorrequirement</li>
     <li>shyguyspirit.outpostmanager</li>
@@ -185,6 +188,7 @@
     <li>matathias.empire.supplychain</li>
     <li>asunib.gravshipvoyage</li>
     <li>als.gravtech.bc</li>
+    <li>andromeda.niceinventorytab</li>
     <li>ferny.progressionfactories</li>
     <li>ferny.progressionrobotics2</li>
     <li>ferny.progressionstorytellers</li>
