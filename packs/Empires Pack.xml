@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <ModsConfigData>
-  <version>1.6.4871 rev590</version>
+  <version>1.7.4985 rev1269</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ferny.loadthemlast</li>
@@ -40,7 +40,6 @@
     <li>pphhyy.lightlessempyrean</li>
     <li>ferny.loadinbackground</li>
     <li>andromeda.milkyway</li>
-    <li>astryl.moderncc</li>
     <li>ferny.mojavemask</li>
     <li>kenx00x.moremaxmemes</li>
     <li>andromeda.nicebilltab</li>
@@ -102,7 +101,6 @@
     <li>ferny.nofactoryfloorrequirement</li>
     <li>shyguyspirit.outpostmanager</li>
     <li>ferny.progressionagriculture</li>
-    <li>jaeger972.factionterritories</li>
     <li>migcorp.skiptech</li>
     <li>natsuki.manipulatorbeam</li>
     <li>ferny.progressionattire</li>
@@ -119,7 +117,6 @@
     <li>oskarpotocki.vfe.deserters</li>
     <li>cn.vfei2swarmdisaster</li>
     <li>vanillaexpanded.vgeneticsemorelabstuff</li>
-    <li>ferny.progressionwarfare</li>
     <li>soa.compactworkbenches</li>
     <li>mrhydralisk.vnpereimaginedprogression</li>
     <li>mrhydralisk.voeadditionaloutposts</li>
@@ -128,26 +125,18 @@
     <li>matathias.empire.animalhusbandry</li>
     <li>matathias.empire.events</li>
     <li>matathias.empire.supplychain</li>
-    <li>ferny.progressionagriculture</li>
     <li>saltbabe.vqegeneratorinspace</li>
-    <li>als.anomalygravship</li>
-    <li>als.biotechgravship</li>
     <li>asunib.gravshipvoyage</li>
     <li>als.gravtech.bc</li>
     <li>ferny.progressionfactories</li>
-    <li>ferny.progressiongenetics</li>
-    <li>ferny.progressionstorytellers</li>
     <li>mrhydralisk.voepowergrid</li>
     <li>matathias.empire.urbanrural</li>
     <li>matathias.empire.specialists</li>
     <li>ferny.progressioncore</li>
     <li>mrhydralisk.voedeliverylogistics</li>
     <li>matathias.empirerefvoe</li>
-    <li>ferny.progressionkitchen</li>
     <li>ferny.progressionproduction</li>
-    <li>ferny.progressionwarfare</li>
     <li>ferny.progressionstorage</li>
-    <li>ferny.progressionworlds</li>
     <li>ferny.progressionscenarios</li>
     <li>ferny.progressioneducation</li>
     <li>ferny.progressiongravship</li>
